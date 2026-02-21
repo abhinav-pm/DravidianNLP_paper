@@ -1,0 +1,1361 @@
+# sent_id = 550
+# text = ప్రోగ్రామ్ కోఆర్డినేటర్ , వ్యవసాయ క్షేత్ర మేనేజర్ , విషయ నిపుణులు ( అసోసియేట్ లేదా ఫెలో స్ధాయి ) , శాఖాధిపతి , ప్రిన్సిపల్ సైంటిష్టు , అసిస్టెంట్ కమీషనర్ ల పేర్లతో ఉపాధి అవకాశాలుంటాయి అవకాశాలు ఉంటాయి .
+1	ప్రోగ్రామ్	ప్రోగ్రామ్	NOUN	NOUN	_	2	compound	_	_
+2	కోఆర్డినేటర్	కోఆర్డినేటర్	NOUN	NOUN	_	25	nmod	_	_
+3	,	,	PUNCT	PUNCT	_	2	punct	_	_
+4	వ్యవసాయ	వ్యవసాయం	NOUN	NOUN	_	5	compound	_	_
+5	క్షేత్ర	క్షేత్రం	NOUN	NOUN	_	6	compound	_	_
+6	మేనేజర్	మేనేజర్	NOUN	NOUN	_	2	conj	_	_
+7	,	,	PUNCT	PUNCT	_	6	punct	_	_
+8	విషయ	విషయం	NOUN	NOUN	_	9	compound	_	_
+9	నిపుణులు	నిపుణుడు	NOUN	NOUN	_	2	conj	_	_
+10	(	(	PUNCT	PUNCT	_	9	punct	_	_
+11	అసోసియేట్	అసోసియేట్	NOUN	NOUN	_	9	appos	_	_
+12	లేదా	లేదా	CCONJ	CCONJ	_	13	cc	_	_
+13	ఫెలో	ఫెల్	NOUN	NOUN	_	14	compound	_	_
+14	స్ధాయి	స్ధాయి	NOUN	NOUN	_	11	conj	_	_
+15	)	)	PUNCT	PUNCT	_	14	punct	_	_
+16	,	,	PUNCT	PUNCT	_	9	punct	_	_
+17	శాఖాధిపతి	శాఖాధిపతి	NOUN	NOUN	_	2	conj	_	_
+18	,	,	PUNCT	PUNCT	_	17	punct	_	_
+19	ప్రిన్సిపల్	ప్రిన్సిపల్	NOUN	NOUN	_	20	compound	_	_
+20	సైంటిష్టు	సైంటిష్టు	NOUN	NOUN	_	2	conj	_	_
+21	,	,	PUNCT	PUNCT	_	20	punct	_	_
+22	అసిస్టెంట్	అసిస్టెంట్	NOUN	NOUN	_	23	compound	_	_
+23	కమీషనర్	కమీషనర్	NOUN	NOUN	_	2	conj	_	_
+24	ల	ల	ADP	ADP	_	23	case	_	_
+25	పేర్లతో	పేరు	NOUN	NOUN	_	28	obl	_	_
+26	ఉపాధి	ఉపాధి	NOUN	NOUN	_	27	compound	_	_
+27-28	అవకాశాలుంటాయి	_	_	_	_	_	_	_	_
+27	అవకాశాలు	అవకాశం	VERB	VERB	_	28	nsubj	_	_
+28	ఉంటాయి	ఉండు	VERB	VERB	_	0	root	_	_
+29	.	.	PUNCT	PUNCT	_	28	punct	_	_
+
+# sent_id = 551
+# text = ప్రైవేటు రంగంలో విత్తనాల ఉత్పత్తి , పురుగు మందులు , ఎరువులు శాఖలలో , బ్యాంకులలో వ్యవసాయ ఋణాలు మంజూరుకు , బీమా సంస్థలలో , వివిధ మాధ్యమాలలో వ్యవసాయ కార్యక్రమాల రూపకల్పనకి విషయ నిపుణులుగా , వ్యవసాయానికి సంబంధించి రకరకాల ఉపాధి అవకాశాలున్నాయి అవకాశాలు ఉన్నాయి .
+1	ప్రైవేటు	ప్రైవేట్	NOUN	NOUN	_	2	nmod	_	_
+2	రంగంలో	రంగం	NOUN	NOUN	_	15	obl_loc	_	_
+3	విత్తనాల	విత్తనం	NOUN	NOUN	_	4	nmod	_	_
+4	ఉత్పత్తి	ఉత్పత్తి	NOUN	NOUN	_	10	nmod	_	_
+5	,	,	PUNCT	PUNCT	_	4	punct	_	_
+6	పురుగు	పురుగు	NOUN	NOUN	_	7	compound	_	_
+7	మందులు	మందు	NOUN	NOUN	_	4	conj	_	_
+8	,	,	PUNCT	PUNCT	_	7	punct	_	_
+9	ఎరువులు	ఎరువు	NOUN	NOUN	_	4	conj	_	_
+10	శాఖలలో	శాఖ	NOUN	NOUN	_	2	obl	_	_
+11	,	,	PUNCT	PUNCT	_	10	punct	_	_
+12	బ్యాంకులలో	బ్యాంక్	NOUN	NOUN	_	15	obl	_	_
+13	వ్యవసాయ	వ్యవసాయం	NOUN	NOUN	_	14	compound	_	_
+14	ఋణాలు	ఋణం	NOUN	NOUN	_	15	nsubj	_	_
+15	మంజూరుకు	మంజూరు	VERB	VERB	_	33	advcl	_	_
+16	,	,	PUNCT	PUNCT	_	15	punct	_	_
+17	బీమా	బీమా	NOUN	NOUN	_	18	compound	_	_
+18	సంస్థలలో	సంస్థ	NOUN	NOUN	_	2	obl	_	_
+19	,	,	PUNCT	PUNCT	_	18	punct	_	_
+20	వివిధ	వివిధం	ADJ	ADJ	_	21	amod	_	_
+21	మాధ్యమాలలో	మాధ్యమం	NOUN	NOUN	_	33	obl	_	_
+22	వ్యవసాయ	వ్యవసాయం	NOUN	NOUN	_	24	nmod	_	_
+23	కార్యక్రమాల	కార్యక్రమం	NOUN	NOUN	_	24	nmod	_	_
+24	రూపకల్పనకి	రూపకల్పన	NOUN	NOUN	_	26	obl	_	_
+25	విషయ	విషయం	ADJ	ADJ	_	26	amod	_	_
+26	నిపుణులుగా	నిపుణుడు	ADV	ADV	_	33	advmod	_	_
+27	,	,	PUNCT	PUNCT	_	26	punct	_	_
+28	వ్యవసాయానికి	వ్యవసాయం	NOUN	NOUN	_	29	obl	_	_
+29	సంబంధించి	సంబంధించు	VERB	VERB	_	32	advcl	_	_
+30	రకరకాల	రకరకాలు	ADJ	ADJ	_	31	amod	_	_
+31	ఉపాధి	ఉపాధి	NOUN	NOUN	_	32	compound	_	_
+32-33	అవకాశాలున్నాయి	_	_	_	_	_	_	_	_
+32	అవకాశాలు	అవకాశం	NOUN	NOUN	_	33	nsubj	_	_
+33	ఉన్నాయి	ఉండు	VERB	VERB	_	0	root	_	_
+34	.	.	PUNCT	PUNCT	_	33	punct	_	_
+
+# sent_id = 552
+# text = మామిడిలో కోత అనంతరం చేపట్టవలసిన కీలక పద్ధతులు . !
+1	మామిడిలో	మామిడి	NOUN	NOUN	_	4	obl	_	_
+2	కోత	కోత	NOUN	NOUN	_	4	obl	_	_
+3	అనంతరం	అనంతరం	ADP	ADP	_	2	case	_	_
+4	చేపట్టవలసిన	చేపట్టవలయు	VERB	VERB	_	6	acl	_	_
+5	కీలక	కీలక	ADJ	ADJ	_	6	nmod	_	_
+6	పద్ధతులు	పద్ధతి	NOUN	NOUN	_	0	root	_	_
+7	.	.	PUNCT	PUNCT	_	6	punct	_	_
+8	!	!	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = 553
+# text = భారతదేశంలో పండించే పండ్ల తోటల్లో ప్రధానమైనది మామిడి .
+1	భారతదేశంలో	భారతదేశం	PROPN	PROPN	_	2	obl	_	_
+2	పండించే	పండించు	VERB	VERB	_	4	acl	_	_
+3	పండ్ల	పండు	NOUN	NOUN	_	4	nmod	_	_
+4	తోటల్లో	తోట	NOUN	NOUN	_	6	obl	_	_
+5	ప్రధానమైనది	ప్రధాన	ADJ	ADJ	_	6	amod	_	_
+6	మామిడి	మామిడి	NOUN	NOUN	_	0	root	_	_
+7	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = 554
+# text = దీనిని ఫలరాజుగా పిలుస్తారు .
+1	దీనిని	ఇది	PRON	PRON	_	3	obl	_	_
+2	ఫలరాజుగా	ఫలరాజు	ADV	ADV	_	3	advmod	_	_
+3	పిలుస్తారు	పిలువు	VERB	VERB	_	0	root	_	_
+4	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = 555
+# text = భారతదేశంలో మొత్తం పండ్ల తోటల విస్తీర్ణంలో 35 శాతం సాగులో 22,58,130 హెక్టార్ల విస్తీర్ణంలో సాగు చేయబడుతున్నది , ఆంద్రప్రదేశ్లో మామిడి విస్తీర్ణం మరియు ఉత్పత్తిలో దేశంలో రెండవ స్థానంలో ఉన్నది .
+1	భారతదేశంలో	భారతదేశం	PROPN	PROPN	_	13	obl	_	_
+2	మొత్తం	మొత్తం	ADJ	ADJ	_	3	amod	_	_
+3	పండ్ల	పండు	NOUN	NOUN	_	5	nmod	_	_
+4	తోటల	తోట	NOUN	NOUN	_	5	nmod	_	_
+5	విస్తీర్ణంలో	విస్తీర్ణం	NOUN	NOUN	_	13	obl	_	_
+6	35	35	NUM	NUM	_	7	nummod	_	_
+7	శాతం	శాతం	NOUN	NOUN	_	8	nmod	_	_
+8	సాగులో	సాగు	NOUN	NOUN	_	13	obl	_	_
+9	22,58,130	22,58,130	NUM	NUM	_	10	nummod	_	_
+10	హెక్టార్ల	హెక్టార్	NOUN	NOUN	_	11	nmod	_	_
+11	విస్తీర్ణంలో	విస్తీర్ణం	NOUN	NOUN	_	13	obl	_	_
+12	సాగు	సాగు	NOUN	NOUN	_	13	obj	_	_
+13	చేయబడుతున్నది	చేయబడు	VERB	VERB	_	0	root	_	_
+14	,	,	PUNCT	PUNCT	_	13	punct	_	_
+15	ఆంద్రప్రదేశ్లో	ఆంద్రప్రదేశ్లో	PROPN	PROPN	_	23	obl	_	_
+16	మామిడి	మామిడి	NOUN	NOUN	_	23	nsubj	_	_
+17	విస్తీర్ణం	విస్తీర్ణం	NOUN	NOUN	_	19	conj	_	_
+18	మరియు	మరియు	CCONJ	CCONJ	_	19	cc	_	_
+19	ఉత్పత్తిలో	ఉత్పత్తి	NOUN	NOUN	_	23	obl	_	_
+20	దేశంలో	దేశం	NOUN	NOUN	_	23	obl	_	_
+21	రెండవ	రెండవ	NUM	NUM	_	22	nummod	_	_
+22	స్థానంలో	స్థానం	NOUN	NOUN	_	23	obl	_	_
+23	ఉన్నది	ఉండు	VERB	VERB	_	13	conj	_	_
+24	.	.	PUNCT	PUNCT	_	13	punct	_	_
+
+# sent_id = 556
+# text = దాదాపుగా మూడు లక్షల హెక్టార్లలో మామిడి పంట సాగులో ఉంది. .
+1	దాదాపుగా	దాదాపు	ADV	ADV	_	8	advmod	_	_
+2	మూడు	మూడు	NUM	NUM	_	3	nummod	_	_
+3	లక్షల	లక్ష	NOUN	NOUN	_	4	nmod	_	_
+4	హెక్టార్లలో	హెక్టార్	NOUN	NOUN	_	8	obl	_	_
+5	మామిడి	మామిడి	NOUN	NOUN	_	6	compound	_	_
+6	పంట	పంట	NOUN	NOUN	_	8	nsubj	_	_
+7	సాగులో	సాగు	NOUN	NOUN	_	8	obl	_	_
+8	ఉంది.	ఉండు	VERB	VERB	_	0	root	_	_
+9	.	.	PUNCT	PUNCT	_	8	punct	_	_
+
+# sent_id = 557
+# text = ప్రతి ఏడాది దాదాపుగా 28 లక్షల మెట్రిక్ టన్నుల దిగుబడి వస్తుంది .
+1	ప్రతి	ప్రతి	ADJ	ADJ	_	2	amod	_	_
+2	ఏడాది	ఏడాది	NOUN	NOUN	_	9	obl	_	_
+3	దాదాపుగా	దాదాపు	ADV	ADV	_	9	advmod	_	_
+4	28	28	NUM	NUM	_	5	nummod	_	_
+5	లక్షల	లక్ష	NOUN	NOUN	_	6	nmod	_	_
+6	మెట్రిక్	మెట్రిక్	NOUN	NOUN	_	7	compound	_	_
+7	టన్నుల	టన్ను	NOUN	NOUN	_	8	nmod	_	_
+8	దిగుబడి	దిగుబడి	NOUN	NOUN	_	9	nsubj	_	_
+9	వస్తుంది	వచ్చు	VERB	VERB	_	0	root	_	_
+10	.	.	PUNCT	PUNCT	_	9	punct	_	_
+
+# sent_id = 558
+# text = మామిడి తోటలలో సాధారణంగా కోతలు పూర్తి అయినవి .
+1	మామిడి	మామిడి	NOUN	NOUN	_	2	compound	_	_
+2	తోటలలో	తోట	NOUN	NOUN	_	6	obl	_	_
+3	సాధారణంగా	సాధారణం	ADV	ADV	_	6	advmod	_	_
+4	కోతలు	కోత	NOUN	NOUN	_	6	nsubj	_	_
+5	పూర్తి	పూర్తి	NOUN	NOUN	_	6	compound	_	_
+6	అయినవి	అయినది	VERB	VERB	_	0	root	_	_
+7	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = 559
+# text = సాధారణంగా మామిడి రైతులు పూత , కాత దశలో మాత్రమే మామిడి తోటలపై దృష్టి పెడతారు .
+1	సాధారణంగా	సాధారణం	ADV	ADV	_	12	advmod	_	_
+2	మామిడి	మామిడి	NOUN	NOUN	_	3	compound	_	_
+3	రైతులు	రైతు	NOUN	NOUN	_	12	nsubj	_	_
+4	పూత	పూత	NOUN	NOUN	_	7	nmod	_	_
+5	,	,	PUNCT	PUNCT	_	4	punct	_	_
+6	కాత	కాత	NOUN	NOUN	_	4	conj	_	_
+7	దశలో	దశ	NOUN	NOUN	_	12	obl	_	_
+8	మాత్రమే	మాత్రమే	PART	PART	_	7	mark	_	_
+9	మామిడి	మామిడి	NOUN	NOUN	_	10	compound	_	_
+10	తోటలపై	తోట	NOUN	NOUN	_	12	obl	_	_
+11	దృష్టి	దృష్టి	NOUN	NOUN	_	12	compound	_	_
+12	పెడతారు	పెట్టు	VERB	VERB	_	0	root	_	_
+13	.	.	PUNCT	PUNCT	_	12	punct	_	_
+
+# sent_id = 560
+# text = కోత తర్వాత మళ్ళీ పూత , కాత వచ్చినప్పుడు మాత్రమే చెట్టుకు కావలసిన ఎరువులను అందిస్తారు .
+1	కోత	కోత	NOUN	NOUN	_	7	obl	_	_
+2	తర్వాత	తర్వాత	ADP	ADP	_	1	case	_	_
+3	మళ్ళీ	మళ్ళీ	ADV	ADV	_	7	advmod	_	_
+4	పూత	పూత	NOUN	NOUN	_	7	nsubj	_	_
+5	,	,	PUNCT	PUNCT	_	4	punct	_	_
+6	కాత	కాత	NOUN	NOUN	_	4	conj	_	_
+7	వచ్చినప్పుడు	వచ్చు	VERB	VERB	_	12	advcl	_	_
+8	మాత్రమే	మాత్రమే	PART	PART	_	7	mark	_	_
+9	చెట్టుకు	చెట్టు	NOUN	NOUN	_	10	obl	_	_
+10	కావలసిన	కావలయు	VERB	VERB	_	11	acl	_	_
+11	ఎరువులను	ఎరువు	NOUN	NOUN	_	12	obj	_	_
+12	అందిస్తారు	అందించు	VERB	VERB	_	0	root	_	_
+13	.	.	PUNCT	PUNCT	_	12	punct	_	_
+
+# sent_id = 561
+# text = దీని వలన చెట్టుకు సరైన పోషకాలు సరైన సమయంలో లభించక పూత సకాలంలో రాకపోవడం , వచ్చిన పూత , పిందె సరిగా నిలవక పోవడం జరిగి దిగుబడి మీద ప్రభావం చూపుతున్నాయి .
+1	దీని	ఇది	PRON	PRON	_	8	obl	_	_
+2	వలన	వలన	ADP	ADP	_	1	case	_	_
+3	చెట్టుకు	చెట్టు	VERB	VERB	_	8	obl	_	_
+4	సరైన	సరైన	ADJ	ADJ	_	5	amod	_	_
+5	పోషకాలు	పోషకం	NOUN	NOUN	_	8	nsubj	_	_
+6	సరైన	సరైన	ADJ	ADJ	_	7	amod	_	_
+7	సమయంలో	సమయం	NOUN	NOUN	_	8	obl	_	_
+8	లభించక	లభించు	VERB	VERB	_	11	advcl	_	_
+9	పూత	పూత	NOUN	NOUN	_	11	nsubj	_	_
+10	సకాలంలో	సకాలం	NOUN	NOUN	_	11	obl	_	_
+11	రాకపోవడం	రాకపో	NOUN	NOUN	_	20	csubj	_	_
+12	,	,	PUNCT	PUNCT	_	11	punct	_	_
+13	వచ్చిన	వచ్చు	VERB	VERB	_	14	acl	_	_
+14	పూత	పూత	NOUN	NOUN	_	19	nsubj	_	_
+15	,	,	PUNCT	PUNCT	_	14	punct	_	_
+16	పిందె	పిందె	NOUN	NOUN	_	14	conj	_	_
+17	సరిగా	సరిగ	ADV	ADV	_	19	advmod	_	_
+18	నిలవక	నిలువు	NOUN	NOUN	_	19	compound	_	_
+19	పోవడం	పోవడం	NOUN	NOUN	_	11	conj	_	_
+20	జరిగి	జరుగు	VERB	VERB	_	24	advcl	_	_
+21	దిగుబడి	దిగుబడి	NOUN	NOUN	_	24	nsubj	_	_
+22	మీద	మీద	ADP	ADP	_	21	case	_	_
+23	ప్రభావం	ప్రభావం	NOUN	NOUN	_	24	obj	_	_
+24	చూపుతున్నాయి	చూపు	VERB	VERB	_	0	root	_	_
+25	.	.	PUNCT	PUNCT	_	24	punct	_	_
+
+# sent_id = 562
+# text = ఈ నేపథ్యంలో రైతులు వచ్చే ఏడాది అధిక దిగుబడులతో ఎక్కువ మంది వినియోగదారులకు అందించుటకు కోత అనంతరం మామిడి రైతులు సరైన యజమాన్యం పాటించడం ద్వారా వచ్చే ఏడాది పూత సక్రమంగా రావడంతో పాటు అధిక దిగుబడులు పొందటానికి అవకాశం ఉంటుంది .
+1	ఈ	ఈ	DET	DET	_	2	det	_	_
+2	నేపథ్యంలో	నేపథ్యం	NOUN	NOUN	_	11	obl	_	_
+3	రైతులు	రైతు	NOUN	NOUN	_	11	nsubj	_	_
+4	వచ్చే	వచ్చే	ADJ	ADJ	_	5	amod	_	_
+5	ఏడాది	ఏడాది	NOUN	NOUN	_	11	obl	_	_
+6	అధిక	అధిక	ADJ	ADJ	_	7	amod	_	_
+7	దిగుబడులతో	దిగుబడి	NOUN	NOUN	_	11	obl	_	_
+8	ఎక్కువ	ఎక్కువ	ADJ	ADJ	_	9	amod	_	_
+9	మంది	మంది	PRON	PRON	_	10	nmod	_	_
+10	వినియోగదారులకు	వినియోగదారుడు	NOUN	NOUN	_	11	obj	_	_
+11	అందించుటకు	అందించుటకు	VERB	VERB	_	18	advcl	_	_
+12	కోత	కోత	NOUN	NOUN	_	18	obl	_	_
+13	అనంతరం	అనంతరం	ADP	ADP	_	12	case	_	_
+14	మామిడి	మామిడి	NOUN	NOUN	_	15	compound	_	_
+15	రైతులు	రైతు	NOUN	NOUN	_	18	nsubj	_	_
+16	సరైన	సరైన	ADJ	ADJ	_	17	amod	_	_
+17	యజమాన్యం	యజమాన్యం	NOUN	NOUN	_	18	obj	_	_
+18	పాటించడం	పాటించడం	NOUN	NOUN	_	30	csubj	_	_
+19	ద్వారా	ద్వారా	ADP	ADP	_	18	case	_	_
+20	వచ్చే	వచ్చే	ADJ	ADJ	_	21	amod	_	_
+21	ఏడాది	ఏడాది	NOUN	NOUN	_	24	obl	_	_
+22	పూత	పూత	NOUN	NOUN	_	24	nsubj	_	_
+23	సక్రమంగా	సక్రమం	ADV	ADV	_	24	advmod	_	_
+24	రావడంతో	రావడం	NOUN	NOUN	_	30	ccomp	_	_
+25	పాటు	పాటు	ADP	ADP	_	24	case	_	_
+26	అధిక	అధిక	ADJ	ADJ	_	27	amod	_	_
+27	దిగుబడులు	దిగుబడి	NOUN	NOUN	_	30	obj	_	_
+28	పొందటానికి	పొందటం	NOUN	NOUN	_	30	obl	_	_
+29	అవకాశం	అవకాశం	NOUN	NOUN	_	30	compound	_	_
+30	ఉంటుంది	ఉండు	VERB	VERB	_	0	root	_	_
+31	.	.	PUNCT	PUNCT	_	30	punct	_	_
+
+# sent_id = 563
+# text = మామిడిలో కోత అనంతరం జులై _ ఆగస్టులో కొమ్మల కత్తిరింపులు , ఎరువుల యాజమాన్యం , నీటి యజమాన్యం మరియు అవసరానికి అనుగుణంగా సస్య రక్షణ చర్యలు చేపట్టడం ద్వారా అధిక దిగుబడిని పొందవచ్చు .
+1	మామిడిలో	మామిడి	NOUN	NOUN	_	25	obl	_	_
+2	కోత	కోత	NOUN	NOUN	_	25	nsubj	_	_
+3	అనంతరం	అనంతరం	ADP	ADP	_	2	case	_	_
+4	జులై	జులై	PROPN	PROPN	_	25	obl	_	_
+5	_	_	PUNCT	PUNCT	_	4	punct	_	_
+6	ఆగస్టులో	ఆగస్టు	PROPN	PROPN	_	4	conj	_	_
+7	కొమ్మల	కొమ్మ	NOUN	NOUN	_	8	nmod	_	_
+8	కత్తిరింపులు	కత్తిరింపు	NOUN	NOUN	_	25	iobj	_	_
+9	,	,	PUNCT	PUNCT	_	8	punct	_	_
+10	ఎరువుల	ఎరువు	NOUN	NOUN	_	11	nmod	_	_
+11	యాజమాన్యం	యాజమాన్యం	NOUN	NOUN	_	8	conj	_	_
+12	,	,	PUNCT	PUNCT	_	11	punct	_	_
+13	నీటి	నీరు	NOUN	NOUN	_	14	nmod	_	_
+14	యజమాన్యం	యజమాన్యం	NOUN	NOUN	_	8	conj	_	_
+15	మరియు	మరియు	CCONJ	CCONJ	_	16	cc	_	_
+16	అవసరానికి	అవసరం	NOUN	NOUN	_	21	obl	_	_
+17	అనుగుణంగా	అనుగుణం	ADV	ADV	_	21	advmod	_	_
+18	సస్య	సస్య	NOUN	NOUN	_	19	compound	_	_
+19	రక్షణ	రక్షణ	NOUN	NOUN	_	20	compound	_	_
+20	చర్యలు	చర్య	NOUN	NOUN	_	21	nmod	_	_
+21	చేపట్టడం	చేపట్టడం	NOUN	NOUN	_	8	conj	_	_
+22	ద్వారా	ద్వారా	ADP	ADP	_	21	case	_	_
+23	అధిక	అధిక	ADJ	ADJ	_	24	amod	_	_
+24	దిగుబడిని	దిగుబడి	NOUN	NOUN	_	25	obj	_	_
+25	పొందవచ్చు	పొందు	VERB	VERB	_	0	root	_	_
+26	.	.	PUNCT	PUNCT	_	25	punct	_	_
+
+# sent_id = 564
+# text = చెట్లకి విశ్రాంతి : పంటకోత తర్వాత మామిడి మొక్కలు చాలా శక్తిని పండ్ల ద్వారా కోల్పోవడం వలన జూన్ , జూలె మాసాలలో చెట్లు బలహీనంగా , పెరుగుదల లేకుండా నిద్రావస్థ దశలో ఉండి , చెట్లలో ఎండు కొమ్మలు కూడా కనిపిస్తాయి .
+1	చెట్లకి	చెట్టు	NOUN	NOUN	_	2	obl	_	_
+2	విశ్రాంతి	విశ్రాంతి	NOUN	NOUN	_	0	root	_	_
+3	:	:	PUNCT	PUNCT	_	2	punct	_	_
+4	పంటకోత	పంటకోత	NOUN	NOUN	_	12	obl	_	_
+5	తర్వాత	తర్వాత	ADP	ADP	_	4	case	_	_
+6	మామిడి	మామిడి	NOUN	NOUN	_	7	compound	_	_
+7	మొక్కలు	మొక్క	NOUN	NOUN	_	12	nsubj	_	_
+8	చాలా	చాలు	ADJ	ADJ	_	9	amod	_	_
+9	శక్తిని	శక్తి	NOUN	NOUN	_	12	obj	_	_
+10	పండ్ల	పండు	NOUN	NOUN	_	12	obl	_	_
+11	ద్వారా	ద్వారా	ADP	ADP	_	10	case	_	_
+12	కోల్పోవడం	కోల్పోవడం	NOUN	NOUN	_	25	csubj	_	_
+13	వలన	వలన	ADP	ADP	_	12	case	_	_
+14	జూన్	జూన్	PRON	PRON	_	17	nmod	_	_
+15	,	,	PUNCT	PUNCT	_	14	punct	_	_
+16	జూలె	జూలె	PROPN	PROPN	_	14	conj	_	_
+17	మాసాలలో	మాసం	NOUN	NOUN	_	25	obl	_	_
+18	చెట్లు	చెట్టు	NOUN	NOUN	_	25	nsubj	_	_
+19	బలహీనంగా	బలహీనం	ADV	ADV	_	25	advmod	_	_
+20	,	,	PUNCT	PUNCT	_	19	punct	_	_
+21	పెరుగుదల	పెరుగుదల	NOUN	NOUN	_	25	obj	_	_
+22	లేకుండా	గల	ADP	ADP	_	21	case	_	_
+23	నిద్రావస్థ	నిద్రావస్థ	NOUN	NOUN	_	24	nmod	_	_
+24	దశలో	దశ	NOUN	NOUN	_	25	obl	_	_
+25	ఉండి	ఉండు	VERB	VERB	_	31	advcl	_	_
+26	,	,	PUNCT	PUNCT	_	25	punct	_	_
+27	చెట్లలో	చెట్టు	NOUN	NOUN	_	31	obl	_	_
+28	ఎండు	ఎండు	NOUN	NOUN	_	29	nmod	_	_
+29	కొమ్మలు	కొమ్మ	NOUN	NOUN	_	31	nsubj	_	_
+30	కూడా	కూడా	PART	PART	_	29	mark	_	_
+31	కనిపిస్తాయి	కనిపించు	VERB	VERB	_	2	parataxis	_	_
+32	.	.	PUNCT	PUNCT	_	31	punct	_	_
+
+# sent_id = 565
+# text = ఈ విధంగా 20-30 రోజుల పాటు ఏ విధమైన యాజమాన్య పద్ధతులను పాటించకుండా ఉండి , ఆ తర్వాత కొమ్మల కత్తిరింపులు , అంతరకృషి చేయాలి .
+1	ఈ	ఈ	PRON	PRON	_	10	obl	_	_
+2	విధంగా	విధంగా	ADV	ADV	_	10	advmod	_	_
+3	20-30	20-30	NUM	NUM	_	4	nummod	_	_
+4	రోజుల	రోజు	NOUN	NOUN	_	10	obl	_	_
+5	పాటు	పాటు	ADP	ADP	_	4	case	_	_
+6	ఏ	ఏ	DET	DET	_	8	det	_	_
+7	విధమైన	విధం	ADJ	ADJ	_	8	amod	_	_
+8	యాజమాన్య	యాజమాన్యం	NOUN	NOUN	_	9	compound	_	_
+9	పద్ధతులను	పద్ధతి	NOUN	NOUN	_	10	obj	_	_
+10	పాటించకుండా	పాటించు	VERB	VERB	_	19	advcl	_	_
+11	ఉండి	ఉండు	AUX	AUX	_	10	aux	_	_
+12	,	,	PUNCT	PUNCT	_	11	punct	_	_
+13	ఆ	ఆ	DET	DET	_	14	det	_	_
+14	తర్వాత	తర్వాత	NOUN	NOUN	_	19	obl	_	_
+15	కొమ్మల	కొమ్మ	NOUN	NOUN	_	16	nmod	_	_
+16	కత్తిరింపులు	కత్తిరింపు	NOUN	NOUN	_	19	obj	_	_
+17	,	,	PUNCT	PUNCT	_	16	punct	_	_
+18	అంతరకృషి	అంతరకృషి	NOUN	NOUN	_	16	conj	_	_
+19	చేయాలి	చెయ్యి	VERB	VERB	_	0	root	_	_
+20	.	.	PUNCT	PUNCT	_	19	punct	_	_
+
+# sent_id = 566
+# text = నీటి తడి ఇవ్వటం : మామిడి కాయలు కోసిన తరువాత చెట్లు చాలా శక్తిని కోల్పోతాయి అదేవిధంగా వర్షాభావ పరిస్థితుల కారణంగా చెట్లు బలహీనపడి ఉంటాయి .
+1	నీటి	నీరు	NOUN	NOUN	_	2	nmod	_	_
+2	తడి	తడి	NOUN	NOUN	_	3	obj	_	_
+3	ఇవ్వటం	ఇవ్వటం	NOUN	NOUN	_	0	root	_	_
+4	:	:	PUNCT	PUNCT	_	3	punct	_	_
+5	మామిడి	మామిడి	NOUN	NOUN	_	6	compound	_	_
+6	కాయలు	కాయ	NOUN	NOUN	_	7	obj	_	_
+7	కోసిన	కొయ్యి	VERB	VERB	_	12	advcl	_	_
+8	తరువాత	తరువాత	PART	PART	_	7	mark	_	_
+9	చెట్లు	చెట్టు	NOUN	NOUN	_	12	nsubj	_	_
+10	చాలా	చాలు	ADJ	ADJ	_	11	amod	_	_
+11	శక్తిని	శక్తి	NOUN	NOUN	_	12	obj	_	_
+12	కోల్పోతాయి	కోల్పోవడం	VERB	VERB	_	18	advcl	_	_
+13	అదేవిధంగా	అదేవిధం	SCONJ	SCONJ	_	12	mark	_	_
+14	వర్షాభావ	వర్షాభావం	NOUN	NOUN	_	15	compound	_	_
+15	పరిస్థితుల	పరిస్థితి	NOUN	NOUN	_	16	nmod	_	_
+16	కారణంగా	కారణం	ADV	ADV	_	18	advmod	_	_
+17	చెట్లు	చెట్టు	NOUN	NOUN	_	18	nsubj	_	_
+18	బలహీనపడి	బలహీనపడు	VERB	VERB	_	3	parataxis	_	_
+19	ఉంటాయి	ఉండు	AUX	AUX	_	18	aux	_	_
+20	.	.	PUNCT	PUNCT	_	19	punct	_	_
+
+# sent_id = 567
+# text = కావున చెట్లకి నీటిని సమృద్దిగా ఇవ్వటం ద్వారా చెట్లు కోలుకుంటాయి .
+1	కావున	కావున	SCONJ	SCONJ	_	5	mark	_	_
+2	చెట్లకి	చెట్టు	NOUN	NOUN	_	5	obl	_	_
+3	నీటిని	నీరు	NOUN	NOUN	_	5	obj	_	_
+4	సమృద్దిగా	సమృద్ది	ADV	ADV	_	5	advmod	_	_
+5	ఇవ్వటం	ఇవ్వటం	NOUN	NOUN	_	7	csubj	_	_
+6	ద్వారా	ద్వారా	ADP	ADP	_	5	case	_	_
+7	చెట్లు	చెట్టు	NOUN	NOUN	_	8	nsubj	_	_
+8	కోలుకుంటాయి	కోలుకోవడం	VERB	VERB	_	0	root	_	_
+9	.	.	PUNCT	PUNCT	_	8	punct	_	_
+
+# sent_id = 568
+# text = కొమ్మ కత్తిరింపులు : విశ్రాంతి అనంతరం ఎండిన , అడ్డదిడ్డంగా పెరిగిన , నేల బారుగా ఉన్న కొమ్మలను తీసివేయాలి .
+1	కొమ్మ	కొమ్మ	NOUN	NOUN	_	2	nmod	_	_
+2	కత్తిరింపులు	కత్తిరింపు	NOUN	NOUN	_	0	root	_	_
+3	:	:	PUNCT	PUNCT	_	2	punct	_	_
+4	విశ్రాంతి	విశ్రాంతి	NOUN	NOUN	_	15	obl	_	_
+5	అనంతరం	అనంతరం	ADP	ADP	_	4	case	_	_
+6	ఎండిన	ఎండు	VERB	VERB	_	14	acl	_	_
+7	,	,	PUNCT	PUNCT	_	6	punct	_	_
+8	అడ్డదిడ్డంగా	అడ్డదిడ్డం	ADV	ADV	_	9	advmod	_	_
+9	పెరిగిన	పెరుగు	VERB	VERB	_	6	conj	_	_
+10	,	,	PUNCT	PUNCT	_	9	punct	_	_
+11	నేల	నేల	NOUN	NOUN	_	13	nsubj	_	_
+12	బారుగా	బారు	ADV	ADV	_	13	advmod	_	_
+13	ఉన్న	ఉండు	VERB	VERB	_	6	conj	_	_
+14	కొమ్మలను	కొమ్మ	NOUN	NOUN	_	15	obj	_	_
+15	తీసివేయాలి	తీసివెయ్యి	VERB	VERB	_	2	parataxis	_	_
+16	.	.	PUNCT	PUNCT	_	15	punct	_	_
+
+# sent_id = 569
+# text = అలాగే కాపు కాసిన కొమ్మలను ఒక కణుపు వెనకకు కత్తిరించాలి .
+1	అలాగే	అలాగే	ADV	ADV	_	3	advmod	_	_
+2	కాపు	కాపు	NOUN	NOUN	_	3	nsubj	_	_
+3	కాసిన	కాయి	VERB	VERB	_	4	acl	_	_
+4	కొమ్మలను	కొమ్మ	NOUN	NOUN	_	8	obj	_	_
+5	ఒక	ఒక	NUM	NUM	_	6	nummod	_	_
+6	కణుపు	కణుపు	NOUN	NOUN	_	8	iobj	_	_
+7	వెనకకు	వెనకు	ADV	ADV	_	8	advmod	_	_
+8	కత్తిరించాలి	కత్తిరించు	VERB	VERB	_	0	root	_	_
+9	.	.	PUNCT	PUNCT	_	8	punct	_	_
+
+# sent_id = 570
+# text = గుబురుగా పెరిగిన చెట్లలో సూర్యరశ్మి , గాలి లోపలికి ప్రసరించేలాగా తలపైన 3-4 అంగుళాల మందమున్న మందం ఉన్న కొమ్మలను కోసి వాటిమద్య వాటి మధ్య ఖాళీ ఏర్పరచాలి .
+1	గుబురుగా	గుబురు	ADV	ADV	_	2	advmod	_	_
+2	పెరిగిన	పెరుగు	VERB	VERB	_	3	acl	_	_
+3	చెట్లలో	చెట్టు	NOUN	NOUN	_	15	obl	_	_
+4	సూర్యరశ్మి	సూర్యరశ్మి	NOUN	NOUN	_	15	nsubj	_	_
+5	,	,	PUNCT	PUNCT	_	4	punct	_	_
+6	గాలి	గాలి	NOUN	NOUN	_	4	conj	_	_
+7	లోపలికి	లోపల	ADP	ADP	_	6	case	_	_
+8	ప్రసరించేలాగా	ప్రసరించు	ADV	ADV	_	15	advmod	_	_
+9	తలపైన	తల	NOUN	NOUN	_	15	obl	_	_
+10	3-4	3-4	NUM	NUM	_	11	nummod	_	_
+11	అంగుళాల	అంగుళం	NOUN	NOUN	_	12	nmod	_	_
+12-13	మందమున్న	_	_	_	_	_	_	_	_
+12	మందం	మందం	ADJ	ADJ	_	14	amod	_	_
+13	ఉన్న	ఉన్న	VERB	VERB	_	14	acl	_	_
+14	కొమ్మలను	కొమ్మ	NOUN	NOUN	_	15	obj	_	_
+15	కోసి	కొయ్యి	VERB	VERB	_	19	advcl	_	_
+16-17	వాటిమద్య	_	_	_	_	_	_	_	_
+16	వాటి	అది	PRON	PRON	_	18	nsubj:pass	_	_
+17	మధ్య	మధ్య	ADP	ADP	_	16	case	_	_
+18	ఖాళీ	ఖాళి	NOUN	NOUN	_	19	obj	_	_
+19	ఏర్పరచాలి	ఏర్పరచు	VERB	VERB	_	0	root	_	_
+20	.	.	PUNCT	PUNCT	_	19	punct	_	_
+
+# sent_id = 571
+# text = ఈ విధంగా కత్తిరించినందున మధ్యాహ్నం సమయంలో ఎండ చెట్ల మొదళ్ళ పై పడుతుంది .
+1	ఈ	ఈ	PRON	PRON	_	3	obl	_	_
+2	విధంగా	విధంగా	ADV	ADV	_	3	advmod	_	_
+3	కత్తిరించినందున	కత్తిరించు	VERB	VERB	_	10	advcl	_	_
+4	మధ్యాహ్నం	మధ్యాహ్నం	NOUN	NOUN	_	5	nmod	_	_
+5	సమయంలో	సమయం	NOUN	NOUN	_	10	obl	_	_
+6	ఎండ	ఎండ	NOUN	NOUN	_	10	nsubj	_	_
+7	చెట్ల	చెట్టు	NOUN	NOUN	_	8	nmod	_	_
+8	మొదళ్ళ	మొదలు	NOUN	NOUN	_	10	obl	_	_
+9	పై	పై	ADP	ADP	_	8	case	_	_
+10	పడుతుంది	పడు	VERB	VERB	_	0	root	_	_
+11	.	.	PUNCT	PUNCT	_	10	punct	_	_
+
+# sent_id = 572
+# text = అవసరమైతే తూర్పు , పడమర దిశల్లో కూడా 2-3 అంగుళాల మందమున్న మందం ఉన్న కొమ్మలను కత్తిరించి కొమ్మల మధ్యలో ఖాళీ ఏర్పడేలా చేసినట్లెతే , సూర్యుడు తూర్పున పుట్టి పడమర దిశకు ప్రయాణించేటప్పుడు సూర్యరశ్మి ఖాళీ ప్రదేశాల గుండా లోపలికి ప్రసరిస్తుంది .
+1	అవసరమైతే	అవసరమవ్వు	ADJ	ADJ	_	2	amod	_	_
+2	తూర్పు	తూర్పు	NOUN	NOUN	_	5	nmod	_	_
+3	,	,	PUNCT	PUNCT	_	2	punct	_	_
+4	పడమర	పడమర	NOUN	NOUN	_	2	conj	_	_
+5	దిశల్లో	దిశ	NOUN	NOUN	_	12	obl	_	_
+6	కూడా	కూడా	PART	PART	_	5	mark	_	_
+7	2-3	2-3	NUM	NUM	_	8	nummod	_	_
+8	అంగుళాల	అంగుళం	NOUN	NOUN	_	9	nmod	_	_
+9-10	మందమున్న	_	_	_	_	_	_	_	_
+9	మందం	మందం	ADJ	ADJ	_	11	amod	_	_
+10	ఉన్న	ఉన్న	VERB	VERB	_	11	acl	_	_
+11	కొమ్మలను	కొమ్మ	NOUN	NOUN	_	12	obj	_	_
+12	కత్తిరించి	కత్తిరించు	VERB	VERB	_	21	advcl	_	_
+13	కొమ్మల	కొమ్మ	NOUN	NOUN	_	17	obl	_	_
+14	మధ్యలో	మధ్య	ADP	ADP	_	13	case	_	_
+15	ఖాళీ	ఖాళి	ADJ	ADJ	_	16	amod	_	_
+16	ఏర్పడేలా	ఏర్పడు	ADV	ADV	_	17	advmod	_	_
+17	చేసినట్లెతే	చేసినట్లెతే	VERB	VERB	_	12	conj	_	_
+18	,	,	PUNCT	PUNCT	_	17	punct	_	_
+19	సూర్యుడు	సూర్యుడు	NOUN	NOUN	_	21	nsubj	_	_
+20	తూర్పున	తూర్పు	NOUN	NOUN	_	21	obl	_	_
+21	పుట్టి	పుట్టు	VERB	VERB	_	30	advcl	_	_
+22	పడమర	పడమర	NOUN	NOUN	_	23	nmod	_	_
+23	దిశకు	దిశ	NOUN	NOUN	_	24	obl	_	_
+24	ప్రయాణించేటప్పుడు	ప్రయాణించు	VERB	VERB	_	21	conj	_	_
+25	సూర్యరశ్మి	సూర్యరశ్మి	NOUN	NOUN	_	30	nsubj	_	_
+26	ఖాళీ	ఖాళి	ADJ	ADJ	_	27	amod	_	_
+27	ప్రదేశాల	ప్రదేశం	NOUN	NOUN	_	30	obl	_	_
+28	గుండా	గుండు	ADP	ADP	_	27	case	_	_
+29	లోపలికి	లోపల	ADP	ADP	_	27	case	_	_
+30	ప్రసరిస్తుంది	ప్రసరించు	VERB	VERB	_	0	root	_	_
+31	.	.	PUNCT	PUNCT	_	30	punct	_	_
+
+# sent_id = 573
+# text = ఈ కత్తిరింపులు కొమ్మలు , ఆకులు ఎక్కువగా పుట్టే రకాలైన ఆల్ఫాన్సో ( ఖాదర్ ) , బంగినపల్లి ( బెనిషన్ ) , నీలం లాంటి రకాలకు తప్పనిసరిగా చేయాలి .
+1	ఈ	ఈ	DET	DET	_	2	det	_	_
+2	కత్తిరింపులు	కత్తిరింపు	NOUN	NOUN	_	23	obj	_	_
+3	కొమ్మలు	కొమ్మ	NOUN	NOUN	_	7	nsubj	_	_
+4	,	,	PUNCT	PUNCT	_	3	punct	_	_
+5	ఆకులు	ఆకు	NOUN	NOUN	_	3	conj	_	_
+6	ఎక్కువగా	ఎక్కువ	ADV	ADV	_	7	advmod	_	_
+7	పుట్టే	పుట్టు	VERB	VERB	_	9	acl	_	_
+8	రకాలైన	రకం	ADJ	ADJ	_	9	amod	_	_
+9	ఆల్ఫాన్సో	ఆల్ఫాన్సో	NOUN	NOUN	_	21	nmod	_	_
+10	(	(	PUNCT	PUNCT	_	11	punct	_	_
+11	ఖాదర్	ఖాదర్	NOUN	NOUN	_	9	appos	_	_
+12	)	)	PUNCT	PUNCT	_	11	punct	_	_
+13	,	,	PUNCT	PUNCT	_	11	punct	_	_
+14	బంగినపల్లి	బంగినపల్లి	NOUN	NOUN	_	9	conj	_	_
+15	(	(	PUNCT	PUNCT	_	16	punct	_	_
+16	బెనిషన్	బెనిషన్	NOUN	NOUN	_	14	appos	_	_
+17	)	)	PUNCT	PUNCT	_	16	punct	_	_
+18	,	,	PUNCT	PUNCT	_	16	punct	_	_
+19	నీలం	నీలం	NOUN	NOUN	_	9	conj	_	_
+20	లాంటి	లాంటి	ADJ	ADJ	_	21	amod	_	_
+21	రకాలకు	రకం	NOUN	NOUN	_	23	iobj	_	_
+22	తప్పనిసరిగా	తప్పనిసరి	ADV	ADV	_	23	advmod	_	_
+23	చేయాలి	చెయ్యి	VERB	VERB	_	0	root	_	_
+24	.	.	PUNCT	PUNCT	_	23	punct	_	_
+
+# sent_id = 574
+# text = ప్రూనింగ్ సా , ప్రూనింగ్ నెఫ్ , ప్రూనింగ్ సికేచర్ వంటి పరికరాలు కొమ్మ మందాన్ని బట్టి ఉపయోగించవచ్చు .
+1	ప్రూనింగ్	ప్రూనింగ్	NOUN	NOUN	_	2	compound	_	_
+2	సా	స	NOUN	NOUN	_	10	nmod	_	_
+3	,	,	PUNCT	PUNCT	_	2	punct	_	_
+4	ప్రూనింగ్	ప్రూనింగ్	NOUN	NOUN	_	5	compound	_	_
+5	నెఫ్	నెఫ్	NOUN	NOUN	_	2	conj	_	_
+6	,	,	PUNCT	PUNCT	_	5	punct	_	_
+7	ప్రూనింగ్	ప్రూనింగ్	NOUN	NOUN	_	8	compound	_	_
+8	సికేచర్	సికేచర్	NOUN	NOUN	_	2	conj	_	_
+9	వంటి	వంటి	ADJ	ADJ	_	10	amod	_	_
+10	పరికరాలు	పరికరం	NOUN	NOUN	_	14	obj	_	_
+11	కొమ్మ	కొమ్మ	NOUN	NOUN	_	12	nmod	_	_
+12	మందాన్ని	మందం	NOUN	NOUN	_	14	obl	_	_
+13	బట్టి	బట్టి	ADP	ADP	_	12	case	_	_
+14	ఉపయోగించవచ్చు	ఉపయోగించు	VERB	VERB	_	0	root	_	_
+15	.	.	PUNCT	PUNCT	_	14	punct	_	_
+
+# sent_id = 575
+# text = మామిడి కొమ్మలను పై నుంచి కిందకి మూడవ కణుపు వరకు కత్తిరించిన తరువాత దీనికి తక్షణ చర్యగా 10 గ్రా యూరియా 5 గ్రాముల జింక్ సల్ఫేట్ను లీటర్ నీటికి కలిపిన ద్రావణం పిచికారి చేసినట్లెతే త్వరగా చెట్లు కోలుకొని కొత్త కొమ్మలు / చిగురులు పుట్టుకొచ్చి , అవే వచ్చే ఋతువులో పుష్పిస్తాయి .
+1	మామిడి	మామిడి	NOUN	NOUN	_	2	compound	_	_
+2	కొమ్మలను	కొమ్మ	NOUN	NOUN	_	9	obj	_	_
+3	పై	పై	ADP	ADP	_	2	case	_	_
+4	నుంచి	నుంచి	ADP	ADP	_	2	case	_	_
+5	కిందకి	కిందకి	ADP	ADP	_	2	case	_	_
+6	మూడవ	మూడవ	NUM	NUM	_	7	nummod	_	_
+7	కణుపు	కణుపు	NOUN	NOUN	_	9	nsubj	_	_
+8	వరకు	వరకు	ADP	ADP	_	7	case	_	_
+9	కత్తిరించిన	కత్తిరించు	VERB	VERB	_	29	advcl	_	_
+10	తరువాత	తరువాత	PART	PART	_	9	mark	_	_
+11	దీనికి	ఇది	PRON	PRON	_	26	obl	_	_
+12	తక్షణ	తక్షణం	ADJ	ADJ	_	13	amod	_	_
+13	చర్యగా	చర్య	ADV	ADV	_	26	advmod	_	_
+14	10	10	NUM	NUM	_	15	nummod	_	_
+15	గ్రా	గ్రా	NOUN	NOUN	_	16	nmod	_	_
+16	యూరియా	యూరియా	NOUN	NOUN	_	24	obj	_	_
+17	5	5	NUM	NUM	_	18	nummod	_	_
+18	గ్రాముల	గ్రామ్	NOUN	NOUN	_	19	nmod	_	_
+19	జింక్	జింక్	NOUN	NOUN	_	20	compound	_	_
+20	సల్ఫేట్ను	సల్ఫేట్	NOUN	NOUN	_	16	conj	_	_
+21	లీటర్	లీటర్	NOUN	NOUN	_	22	nmod	_	_
+22	నీటికి	నీరు	NOUN	NOUN	_	23	obl	_	_
+23	కలిపిన	కలుపు	VERB	VERB	_	24	acl	_	_
+24	ద్రావణం	ద్రావణం	NOUN	NOUN	_	26	csubj	_	_
+25	పిచికారి	పిచికారి	NOUN	NOUN	_	26	compound	_	_
+26	చేసినట్లెతే	చేసినట్లెతే	VERB	VERB	_	9	conj	_	_
+27	త్వరగా	త్వరగ	ADV	ADV	_	29	advmod	_	_
+28	చెట్లు	చెట్టు	NOUN	NOUN	_	29	nsubj	_	_
+29	కోలుకొని	కోలుకొను	VERB	VERB	_	39	advcl	_	_
+30	కొత్త	కొత్త	ADJ	ADJ	_	31	amod	_	_
+31	కొమ్మలు	కొమ్మ	NOUN	NOUN	_	34	nsubj	_	_
+32	/	/	PUNCT	PUNCT	_	31	punct	_	_
+33	చిగురులు	చిగురు	NOUN	NOUN	_	31	conj	_	_
+34	పుట్టుకొచ్చి	పుట్టుకొచ్చి	VERB	VERB	_	29	conj	_	_
+35	,	,	PUNCT	PUNCT	_	34	punct	_	_
+36	అవే	అది	PRON	PRON	_	39	nsubj	_	_
+37	వచ్చే	వచ్చే	ADJ	ADJ	_	38	amod	_	_
+38	ఋతువులో	ఋతువు	NOUN	NOUN	_	39	obl	_	_
+39	పుష్పిస్తాయి	పుష్పించు	VERB	VERB	_	0	root	_	_
+40	.	.	PUNCT	PUNCT	_	39	punct	_	_
+
+# sent_id = 576
+# text = అనగా నవంబర్ , డిసెంబర్ నెలలో పూతకు వస్తాయి .
+1	అనగా	అనగా	SCONJ	SCONJ	_	7	mark	_	_
+2	నవంబర్	నవంబర్	PROPN	PROPN	_	5	nmod	_	_
+3	,	,	PUNCT	PUNCT	_	2	punct	_	_
+4	డిసెంబర్	డిసెంబర్	PROPN	PROPN	_	2	conj	_	_
+5	నెలలో	నెల	NOUN	NOUN	_	7	obl	_	_
+6	పూతకు	పూత	NOUN	NOUN	_	7	obl	_	_
+7	వస్తాయి	వచ్చు	VERB	VERB	_	0	root	_	_
+8	.	.	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = 577
+# text = అలాగే కత్తిరింపులు చేసిన తరువాత బొర్డోపేస్టు లేదా కాపర్ ఆక్సీ క్లోరైడ్ పేస్ట్ను పూసి తరువాత మళ్ళీ కాపర్ ఆక్సీక్లోరైడ్ 3 గ్రా లీటరు నీటికి కలిపిన ద్రావణాన్ని చెట్లపై పిచికారి చేయాలి , ఈ విధంగా కొమ్మలను ప్రతి సంవత్సరం కత్తిరింపులు చేయడం వల్ల చెట్టులో క్రమం తప్పకుండా కాపు నిలకడగా వస్తుంది , అంతేగాక గాలి మరియు వెలుతురు సక్రమంగా అందడం వల్ల వివిధ చీడ పీడలు , తెగుళ్ళు ఆశించకుండా నివారించబడతాయి .
+1	అలాగే	అలాగే	ADV	ADV	_	3	advmod	_	_
+2	కత్తిరింపులు	కత్తిరింపు	NOUN	NOUN	_	3	obj	_	_
+3	చేసిన	చెయ్యి	VERB	VERB	_	11	advcl	_	_
+4	తరువాత	తరువాత	PART	PART	_	3	mark	_	_
+5	బొర్డోపేస్టు	బొర్డోపేస్టు	NOUN	NOUN	_	11	obj	_	_
+6	లేదా	లేదా	CCONJ	CCONJ	_	7	cc	_	_
+7	కాపర్	కాపర్	NOUN	NOUN	_	8	compound	_	_
+8	ఆక్సీ	ఆక్సీ	NOUN	NOUN	_	9	compound	_	_
+9	క్లోరైడ్	క్లోరైడ్	NOUN	NOUN	_	10	nmod	_	_
+10	పేస్ట్ను	పేస్ట్	NOUN	NOUN	_	5	conj	_	_
+11	పూసి	పుయ్యి	VERB	VERB	_	20	advcl	_	_
+12	తరువాత	తరువాత	PART	PART	_	11	mark	_	_
+13	మళ్ళీ	మళ్ళీ	ADV	ADV	_	20	advmod	_	_
+14	కాపర్	కాపర్	NOUN	NOUN	_	15	compound	_	_
+15	ఆక్సీక్లోరైడ్	ఆక్సీక్లోరైడ్	NOUN	NOUN	_	20	nsubj	_	_
+16	3	3	NUM	NUM	_	17	nummod	_	_
+17	గ్రా	గ్రా	NOUN	NOUN	_	19	nmod	_	_
+18	లీటరు	లీటరు	NOUN	NOUN	_	19	nmod	_	_
+19	నీటికి	నీరు	NOUN	NOUN	_	20	obl	_	_
+20	కలిపిన	కలుపు	VERB	VERB	_	21	acl	_	_
+21	ద్రావణాన్ని	ద్రావణం	NOUN	NOUN	_	24	obj	_	_
+22	చెట్లపై	చెటలపై	NOUN	NOUN	_	24	obl	_	_
+23	పిచికారి	పిచికారి	NOUN	NOUN	_	24	compound	_	_
+24	చేయాలి	చెయ్యి	VERB	VERB	_	39	advcl	_	_
+25	,	,	PUNCT	PUNCT	_	24	punct	_	_
+26	ఈ	ఈ	PRON	PRON	_	32	obl	_	_
+27	విధంగా	విధంగ	ADV	ADV	_	32	advmod	_	_
+28	కొమ్మలను	కొమ్మ	NOUN	NOUN	_	32	iobj	_	_
+29	ప్రతి	ప్రతి	ADJ	ADJ	_	30	amod	_	_
+30	సంవత్సరం	సంవత్సరం	NOUN	NOUN	_	32	obl	_	_
+31	కత్తిరింపులు	కత్తిరింపు	NOUN	NOUN	_	32	obj	_	_
+32	చేయడం	చేయడం	NOUN	NOUN	_	39	csubj	_	_
+33	వల్ల	వల్ల	ADP	ADP	_	32	case	_	_
+34	చెట్టులో	చెట్టు	NOUN	NOUN	_	39	obl	_	_
+35	క్రమం	క్రమం	ADJ	ADJ	_	36	amod	_	_
+36	తప్పకుండా	తప్పు	ADV	ADV	_	39	advmod	_	_
+37	కాపు	కాపు	NOUN	NOUN	_	39	obj	_	_
+38	నిలకడగా	నిలకడ	ADV	ADV	_	39	advmod	_	_
+39	వస్తుంది	వచ్చు	VERB	VERB	_	53	advcl	_	_
+40	,	,	PUNCT	PUNCT	_	39	punct	_	_
+41	అంతేగాక	అంతేగాక	SCONJ	SCONJ	_	39	mark	_	_
+42	గాలి	గాలి	NOUN	NOUN	_	46	nsubj	_	_
+43	మరియు	మరియు	CCONJ	CCONJ	_	44	cc	_	_
+44	వెలుతురు	వెలుతురు	NOUN	NOUN	_	42	conj	_	_
+45	సక్రమంగా	సక్రమం	ADV	ADV	_	46	advmod	_	_
+46	అందడం	అందడం	NOUN	NOUN	_	53	csubj	_	_
+47	వల్ల	వల్ల	ADP	ADP	_	46	case	_	_
+48	వివిధ	వివిధం	ADJ	ADJ	_	49	amod	_	_
+49	చీడ	చీడ	NOUN	NOUN	_	50	compound	_	_
+50	పీడలు	పీడ	NOUN	NOUN	_	53	obj	_	_
+51	,	,	PUNCT	PUNCT	_	50	punct	_	_
+52	తెగుళ్ళు	తెగుళ్ళు	NOUN	NOUN	_	50	conj	_	_
+53	ఆశించకుండా	ఆశించు	VERB	VERB	_	54	advcl	_	_
+54	నివారించబడతాయి	నివారించబడు	VERB	VERB	_	0	root	_	_
+55	.	.	PUNCT	PUNCT	_	54	punct	_	_
+
+# sent_id = 578
+# text = తోటల్లో దుక్కి దున్నడం : తొలకరి వర్షాలు పడిన తరువాత తోటల్లో వాలుకి అడ్డంగా చెట్ల మధ్యన 2-3 సార్లు దున్నాలి .
+1	తోటల్లో	తోట	NOUN	NOUN	_	3	obl:loc	_	_
+2	దుక్కి	దుక్కి	NOUN	NOUN	_	3	obj	_	_
+3	దున్నడం	దున్నడం	NOUN	NOUN	_	0	root	_	_
+4	:	:	PUNCT	PUNCT	_	3	punct	_	_
+5	తొలకరి	తొలకరి	ADJ	ADJ	_	6	amod	_	_
+6	వర్షాలు	వర్షం	NOUN	NOUN	_	7	nsubj	_	_
+7	పడిన	పడు	VERB	VERB	_	16	advcl	_	_
+8	తరువాత	తరువాత	PART	PART	_	7	mark	_	_
+9	తోటల్లో	తోట	NOUN	NOUN	_	16	obl:loc	_	_
+10	వాలుకి	వాలు	NOUN	NOUN	_	16	obl	_	_
+11	అడ్డంగా	అడ్డం	ADV	ADV	_	16	advmod	_	_
+12	చెట్ల	చెట్టు	NOUN	NOUN	_	16	obl	_	_
+13	మధ్యన	మధ్య	ADP	ADP	_	12	case	_	_
+14	2-3	2-3	NUM	NUM	_	15	nummod	_	_
+15	సార్లు	సారి	NOUN	NOUN	_	16	obl	_	_
+16	దున్నాలి	దున్ను	VERB	VERB	_	3	parataxis	_	_
+17	.	.	PUNCT	PUNCT	_	16	punct	_	_
+
+# sent_id = 579
+# text = దీని వలన కోశస్థ దశలో ఉన్న పురుగులు , కలుపు నివారించబడుతుంది .
+1	దీని	ఇది	PRON	PRON	_	9	nsubj:pass	_	_
+2	వలన	వలన	ADP	ADP	_	1	case	_	_
+3	కోశస్థ	కోశస్థ	NOUN	NOUN	_	4	compound	_	_
+4	దశలో	దశ	NOUN	NOUN	_	5	obl	_	_
+5	ఉన్న	ఉండు	VERB	VERB	_	6	acl	_	_
+6	పురుగులు	పురుగు	NOUN	NOUN	_	9	obj	_	_
+7	,	,	PUNCT	PUNCT	_	6	punct	_	_
+8	కలుపు	కలుపు	NOUN	NOUN	_	6	conj	_	_
+9	నివారించబడుతుంది	నివారించబడు	VERB	VERB	_	0	root	_	_
+10	.	.	PUNCT	PUNCT	_	9	punct	_	_
+
+# sent_id = 580
+# text = అంతేకాకుండా నేల గుల్లబారి , వేర్లు బాగా గాలి పీల్చుకొని చెట్టు ఆరోగ్యంగా పెరగడానికి అవకాశం ఏర్పడుతుంది .
+1	అంతేకాకుండా	అంతేకాకుండా	SCONJ	SCONJ	_	13	mark	_	_
+2	నేల	నేల	NOUN	NOUN	_	3	nsubj	_	_
+3	గుల్లబారి	గుల్లబారి	VERB	VERB	_	13	advcl	_	_
+4	,	,	PUNCT	PUNCT	_	3	punct	_	_
+5	వేర్లు	వేరు	NOUN	NOUN	_	8	nsubj	_	_
+6	బాగా	బాగా	ADV	ADV	_	8	advmod	_	_
+7	గాలి	గాలి	NOUN	NOUN	_	8	obj	_	_
+8	పీల్చుకొని	పీల్చుకో	VERB	VERB	_	3	conj	_	_
+9	చెట్టు	చెట్టు	NOUN	NOUN	_	13	nsubj	_	_
+10	ఆరోగ్యంగా	ఆరోగ్యం	ADJ	ADJ	_	11	amod	_	_
+11	పెరగడానికి	పెరగడం	NOUN	NOUN	_	13	obl	_	_
+12	అవకాశం	అవకాశం	NOUN	NOUN	_	13	compound	_	_
+13	ఏర్పడుతుంది	ఏర్పడు	VERB	VERB	_	0	root	_	_
+14	.	.	PUNCT	PUNCT	_	13	punct	_	_
+
+# sent_id = 581
+# text = అదే విధంగా నేలకు వర్షపు నీటిని పట్టి ఉంచే గుణం పెరుగుతుంది .
+1	అదే	అది	PRON	PRON	_	2	compound	_	_
+2	విధంగా	విధంగా	ADV	ADV	_	9	advmod	_	_
+3	నేలకు	నేల	NOUN	NOUN	_	6	obl	_	_
+4	వర్షపు	వర్షం	NOUN	NOUN	_	5	nmod	_	_
+5	నీటిని	నీరు	NOUN	NOUN	_	6	obj	_	_
+6	పట్టి	పట్టు	VERB	VERB	_	8	acl	_	_
+7	ఉంచే	ఉంచు	AUX	AUX	_	6	aux	_	_
+8	గుణం	గుణం	NOUN	NOUN	_	9	nsubj	_	_
+9	పెరుగుతుంది	పెరుగు	VERB	VERB	_	0	root	_	_
+10	.	.	PUNCT	PUNCT	_	9	punct	_	_
+
+# sent_id = 582
+# text = చెట్ల మధ్య ఉన్న ఖాళీ ప్రదేశంలో పచ్చిరొట్ట పైర్లను వేసి వాటిని పూత దశలో అనగా ఆగష్టు నెలలో రెండవ దుక్కి చేపట్టినప్పుడు నేలలో కలిసేలాగా దున్నాలి .
+1	చెట్ల	చెట్టు	NOUN	NOUN	_	3	obl	_	_
+2	మధ్య	మధ్య	ADP	ADP	_	1	case	_	_
+3	ఉన్న	ఉండు	VERB	VERB	_	5	acl	_	_
+4	ఖాళీ	ఖాళి	ADJ	ADJ	_	5	amod	_	_
+5	ప్రదేశంలో	ప్రదేశం	NOUN	NOUN	_	8	obl:loc	_	_
+6	పచ్చిరొట్ట	పచ్చిరొట్ట	NOUN	NOUN	_	7	compound	_	_
+7	పైర్లను	పైర్లను	NOUN	NOUN	_	8	obj	_	_
+8	వేసి	వెయ్యి	VERB	VERB	_	9	acl	_	_
+9	వాటిని	అది	PRON	PRON	_	20	obj	_	_
+10	పూత	పూత	NOUN	NOUN	_	11	nmod	_	_
+11	దశలో	దశ	NOUN	NOUN	_	17	obl	_	_
+12	అనగా	అనగా	SCONJ	SCONJ	_	11	mark	_	_
+13	ఆగష్టు	ఆగష్టు	PROPN	PROPN	_	14	nmod	_	_
+14	నెలలో	నెల	NOUN	NOUN	_	17	obl	_	_
+15	రెండవ	రెండవ	NUM	NUM	_	16	nummod	_	_
+16	దుక్కి	దుక్కి	NOUN	NOUN	_	17	compound	_	_
+17	చేపట్టినప్పుడు	చేపట్టు	VERB	VERB	_	20	advcl	_	_
+18	నేలలో	నేల	NOUN	NOUN	_	20	obl	_	_
+19	కలిసేలాగా	కలువు	ADV	ADV	_	20	advmod	_	_
+20	దున్నాలి	దున్ను	VERB	VERB	_	0	root	_	_
+21	.	.	PUNCT	PUNCT	_	20	punct	_	_
+
+# sent_id = 583
+# text = దీని వలన నేల సారవంతం అవుతుంది .
+1	దీని	ఇది	PRON	PRON	_	5	obl	_	_
+2	వలన	వలన	ADP	ADP	_	1	case	_	_
+3	నేల	నేల	NOUN	NOUN	_	5	nsubj	_	_
+4	సారవంతం	సారవంతం	NOUN	NOUN	_	5	obj	_	_
+5	అవుతుంది	అవ్వు	VERB	VERB	_	0	root	_	_
+6	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = 584
+# text = మూడవ దుక్కి అక్టోబర్ నెలలో చేపట్టినట్లయితే నేలలో తేమ ఆరిపోయి సకాలంలో పూత రావడానికి దోహదపడుతుంది .
+1	మూడవ	మూడవ	NUM	NUM	_	2	nummod	_	_
+2	దుక్కి	దుక్కి	NOUN	NOUN	_	5	obj	_	_
+3	అక్టోబర్	అక్టోబర్	PROPN	PROPN	_	4	nmod	_	_
+4	నెలలో	నెల	NOUN	NOUN	_	5	obl	_	_
+5	చేపట్టినట్లయితే	చేపట్టినట్లయితే	VERB	VERB	_	8	advcl	_	_
+6	నేలలో	నేల	NOUN	NOUN	_	8	obl	_	_
+7	తేమ	తేమ	NOUN	NOUN	_	8	nsubj	_	_
+8	ఆరిపోయి	ఆరిపో	VERB	VERB	_	12	advcl	_	_
+9	సకాలంలో	సకాలం	NOUN	NOUN	_	12	obl	_	_
+10	పూత	పూత	NOUN	NOUN	_	12	nsubj	_	_
+11	రావడానికి	రావడం	NOUN	NOUN	_	12	obl	_	_
+12	దోహదపడుతుంది	దోహదపడు	VERB	VERB	_	0	root	_	_
+13	.	.	PUNCT	PUNCT	_	12	punct	_	_
+
+# sent_id = 585
+# text = దున్నేటప్పుడు చెట్టు నుండి 1.5 – 2.0 మీటర్ల దూరం వదిలి దున్నుకోవాలి .
+1	దున్నేటప్పుడు	దున్ను	VERB	VERB	_	9	advcl	_	_
+2	చెట్టు	చెట్టు	NOUN	NOUN	_	9	obl	_	_
+3	నుండి	నుండి	ADP	ADP	_	2	case	_	_
+4	1.5	1.5	NUM	NUM	_	7	nummod	_	_
+5	–	–	PUNCT	PUNCT	_	4	punct	_	_
+6	2.0	2.0	NUM	NUM	_	4	conj	_	_
+7	మీటర్ల	మీటర్	NOUN	NOUN	_	8	nmod	_	_
+8	దూరం	దూరం	NOUN	NOUN	_	9	obj	_	_
+9	వదిలి	వదులు	VERB	VERB	_	10	advcl	_	_
+10	దున్నుకోవాలి	దున్నుకో	VERB	VERB	_	0	root	_	_
+11	.	.	PUNCT	PUNCT	_	10	punct	_	_
+
+# sent_id = 586
+# text = ఎరువుల యజమాన్యం : మామిడి కొమ్మ కత్తిరింపుల అనంతరం ప్రతి సంవత్సరం సేంద్రీయ మరియు రసాయన ఎరువులను తప్పనిసరిగా వేసి దిగుబడిని పెంచవచ్చు .
+1	ఎరువుల	ఎరువు	NOUN	NOUN	_	2	nmod	_	_
+2	యజమాన్యం	యజమాన్యం	NOUN	NOUN	_	0	root	_	_
+3	:	:	PUNCT	PUNCT	_	2	punct	_	_
+4	మామిడి	మామిడి	NOUN	NOUN	_	5	compound	_	_
+5	కొమ్మ	కొమ్మ	NOUN	NOUN	_	6	nmod	_	_
+6	కత్తిరింపుల	కత్తిరింపు	NOUN	NOUN	_	15	obl	_	_
+7	అనంతరం	అనంతరం	ADP	ADP	_	6	case	_	_
+8	ప్రతి	ప్రతి	ADJ	ADJ	_	9	amod	_	_
+9	సంవత్సరం	సంవత్సరం	NOUN	NOUN	_	15	obl	_	_
+10	సేంద్రీయ	సేంద్రీయ	NOUN	NOUN	_	13	nmod	_	_
+11	మరియు	మరియు	CCONJ	CCONJ	_	12	cc	_	_
+12	రసాయన	రసాయన	NOUN	NOUN	_	10	conj	_	_
+13	ఎరువులను	ఎరువు	NOUN	NOUN	_	15	obj	_	_
+14	తప్పనిసరిగా	తప్పనిసరి	ADV	ADV	_	15	advmod	_	_
+15	వేసి	వెయ్యి	VERB	VERB	_	17	advcl	_	_
+16	దిగుబడిని	దిగుబడి	NOUN	NOUN	_	17	obj	_	_
+17	పెంచవచ్చు	పెంచు	VERB	VERB	_	2	parataxis	_	_
+18	.	.	PUNCT	PUNCT	_	17	punct	_	_
+
+# sent_id = 587
+# text = తోటల్లో చెట్టుకు 150 గ్రా . జింక్ సల్ఫేట్ , 75 గ్రా . బోరాక్స్ మరియు 100 గ్రా . ఫెర్రస్ సల్ఫేట్ 125 గ్రా . మెగ్నీషియం సల్ఫేట్ పశువుల ఎరువుతో కలిపి జూన్ _ జూలె మాసాలలో మొక్కల పాదుల్లో వేయాలి .
+1	తోటల్లో	తోట	NOUN	NOUN	_	33	obl:loc	_	_
+2	చెట్టుకు	చెట్టు	NOUN	NOUN	_	26	obl	_	_
+3	150	150	NUM	NUM	_	4	nummod	_	_
+4	గ్రా	గ్రా	NOUN	NOUN	_	6	nmod	_	_
+5	.	.	PUNCT	PUNCT	_	4	punct	_	_
+6	జింక్	జింక్	NOUN	NOUN	_	7	compound	_	_
+7	సల్ఫేట్	సల్ఫేట్	NOUN	NOUN	_	26	obj	_	_
+8	,	,	PUNCT	PUNCT	_	7	punct	_	_
+9	75	75	NUM	NUM	_	10	nummod	_	_
+10	గ్రా	గ్రా	NOUN	NOUN	_	12	nmod	_	_
+11	.	.	PUNCT	PUNCT	_	10	punct	_	_
+12	బోరాక్స్	బోరాక్స్	NOUN	NOUN	_	7	conj	_	_
+13	మరియు	మరియు	CCONJ	CCONJ	_	18	cc	_	_
+14	100	100	NUM	NUM	_	15	nummod	_	_
+15	గ్రా	గ్రా	NOUN	NOUN	_	17	nmod	_	_
+16	.	.	PUNCT	PUNCT	_	15	punct	_	_
+17	ఫెర్రస్	ఫెర్రస్	NOUN	NOUN	_	18	compound	_	_
+18	సల్ఫేట్	సల్ఫేట్	NOUN	NOUN	_	7	conj	_	_
+19	125	125	NUM	NUM	_	20	nummod	_	_
+20	గ్రా	గ్రా	NOUN	NOUN	_	22	nmod	_	_
+21	.	.	PUNCT	PUNCT	_	20	punct	_	_
+22	మెగ్నీషియం	మెగ్నీషియం	NOUN	NOUN	_	23	compound	_	_
+23	సల్ఫేట్	సల్ఫేట్	NOUN	NOUN	_	7	conj	_	_
+24	పశువుల	పశువు	NOUN	NOUN	_	25	nmod	_	_
+25	ఎరువుతో	ఎరువు	NOUN	NOUN	_	26	obl	_	_
+26	కలిపి	కలుపు	VERB	VERB	_	33	advcl	_	_
+27	జూన్	జూన్	PROPN	PROPN	_	30	nmod	_	_
+28	_	_	PUNCT	PUNCT	_	27	punct	_	_
+29	జూలె	జూలె	PROPN	PROPN	_	27	conj	_	_
+30	మాసాలలో	మాసం	NOUN	NOUN	_	33	obl	_	_
+31	మొక్కల	మొక్క	NOUN	NOUN	_	32	nmod	_	_
+32	పాదుల్లో	పాదు	NOUN	NOUN	_	33	obl:loc	_	_
+33	వేయాలి	వెయ్యి	VERB	VERB	_	0	root	_	_
+34	.	.	PUNCT	PUNCT	_	33	punct	_	_
+
+# sent_id = 588
+# text = చెట్ల మధ్య దున్నకం పూర్తయిన తరువాత చెట్టు వయసును బట్టి సిఫారసు చేసిన 2 / 3 వంతు ఎరువులను వేయాలి .
+1	చెట్ల	చెట్టు	NOUN	NOUN	_	4	obl	_	_
+2	మధ్య	మధ్య	ADP	ADP	_	1	case	_	_
+3	దున్నకం	దున్నకం	NOUN	NOUN	_	4	nsubj	_	_
+4	పూర్తయిన	పూర్తవ్వు	VERB	VERB	_	10	advcl	_	_
+5	తరువాత	తరువాత	PART	PART	_	4	mark	_	_
+6	చెట్టు	చెట్టు	NOUN	NOUN	_	10	nsubj	_	_
+7	వయసును	వయసు	NOUN	NOUN	_	10	obl	_	_
+8	బట్టి	బట్టి	ADP	ADP	_	7	case	_	_
+9	సిఫారసు	సిఫారసు	NOUN	NOUN	_	10	compound	_	_
+10	చేసిన	చెయ్యి	VERB	VERB	_	15	acl	_	_
+11	2	2	NUM	NUM	_	14	nummod	_	_
+12	/	/	PUNCT	PUNCT	_	11	punct	_	_
+13	3	3	NUM	NUM	_	11	conj	_	_
+14	వంతు	వంతు	NOUN	NOUN	_	15	nmod	_	_
+15	ఎరువులను	ఎరువు	NOUN	NOUN	_	16	obj	_	_
+16	వేయాలి	వెయ్యి	VERB	VERB	_	0	root	_	_
+17	.	.	PUNCT	PUNCT	_	16	punct	_	_
+
+# sent_id = 589
+# text = మిగతా భాగం ఎరువులను కాయ బఠానీ గింజ పరిమాణంలో ఉన్నప్పుడు ఒకసారి వేయాలి .
+1	మిగతా	మిగతా	ADJ	ADJ	_	2	amod	_	_
+2	భాగం	భాగం	NOUN	NOUN	_	3	nmod	_	_
+3	ఎరువులను	ఎరువు	NOUN	NOUN	_	8	obj	_	_
+4	కాయ	కాయ	NOUN	NOUN	_	8	nsubj	_	_
+5	బఠానీ	బఠానీ	NOUN	NOUN	_	6	compound	_	_
+6	గింజ	గింజ	NOUN	NOUN	_	7	nmod	_	_
+7	పరిమాణంలో	పరిమాణం	NOUN	NOUN	_	8	obl	_	_
+8	ఉన్నప్పుడు	ఉన్న	VERB	VERB	_	10	advcl	_	_
+9	ఒకసారి	ఒకసారి	NOUN	NOUN	_	10	obl	_	_
+10	వేయాలి	వెయ్యి	VERB	VERB	_	0	root	_	_
+11	.	.	PUNCT	PUNCT	_	10	punct	_	_
+
+# sent_id = 590
+# text = ఎరువుల మోతాదును 1 సంవత్సరం వయసు ఉన్న ప్రతి చెట్టుకు 25 కిలోలు పశువుల ఎరువు , 217 గ్రా . యూరియా , 625 గ్రా సింగల్ సూపర్ ఫాస్ఫేట్ మరియు 167 గ్రా . మ్యూరేట్ ఆఫ్ పొటాష్ చొప్పున వేయాలి .
+1	ఎరువుల	ఎరువు	NOUN	NOUN	_	2	nmod	_	_
+2	మోతాదును	మోతాదు	NOUN	NOUN	_	32	obj	_	_
+3	1	1	NUM	NUM	_	4	nummod	_	_
+4	సంవత్సరం	సంవత్సరం	NOUN	NOUN	_	5	obl	_	_
+5	వయసు	వయసు	NOUN	NOUN	_	8	nmod	_	_
+6	ఉన్న	ఉండు	VERB	VERB	_	8	acl	_	_
+7	ప్రతి	ప్రతి	ADJ	ADJ	_	8	amod	_	_
+8	చెట్టుకు	చెట్టు	NOUN	NOUN	_	32	obl	_	_
+9	25	25	NUM	NUM	_	10	nummod	_	_
+10	కిలోలు	కిలోలు	NOUN	NOUN	_	12	nmod	_	_
+11	పశువుల	పశువు	NOUN	NOUN	_	12	nmod	_	_
+12	ఎరువు	ఎరువు	NOUN	NOUN	_	32	nsubj	_	_
+13	,	,	PUNCT	PUNCT	_	12	punct	_	_
+14	217	217	NUM	NUM	_	15	nummod	_	_
+15	గ్రా	గ్రా	NOUN	NOUN	_	17	nmod	_	_
+16	.	.	PUNCT	PUNCT	_	15	punct	_	_
+17	యూరియా	యూరియా	NOUN	NOUN	_	12	conj	_	_
+18	,	,	PUNCT	PUNCT	_	17	punct	_	_
+19	625	625	NUM	NUM	_	20	nummod	_	_
+20	గ్రా	గ్రా	NOUN	NOUN	_	23	nmod	_	_
+21	సింగల్	సింగల్	NOUN	NOUN	_	22	compound	_	_
+22	సూపర్	సూపర్	NOUN	NOUN	_	23	compound	_	_
+23	ఫాస్ఫేట్	ఫాస్ఫేట్	NOUN	NOUN	_	12	conj	_	_
+24	మరియు	మరియు	CCONJ	CCONJ	_	30	cc	_	_
+25	167	167	NUM	NUM	_	26	nummod	_	_
+26	గ్రా	గ్రా	NOUN	NOUN	_	30	nmod	_	_
+27	.	.	PUNCT	PUNCT	_	26	punct	_	_
+28	మ్యూరేట్	మ్యూరేట్	NOUN	NOUN	_	29	compound	_	_
+29	ఆఫ్	ఆఫ్	NOUN	NOUN	_	30	compound	_	_
+30	పొటాష్	పొటాష్	NOUN	NOUN	_	12	conj	_	_
+31	చొప్పున	చొప్పు	ADV	ADV	_	32	advmod	_	_
+32	వేయాలి	వెయ్యి	VERB	VERB	_	0	root	_	_
+33	.	.	PUNCT	PUNCT	_	32	punct	_	_
+
+# sent_id = 591
+# text = 5 సంవత్సరాలు వయసు ఉన్న చెట్టుకు 50 కేజీలు పశువుల ఎరువు , 1085 గ్రా . యూరియా , 3125 గ్రా . సింగల్ సూపర్ ఫాస్ఫేట్ మరియు 1000 గ్రాములు మ్యూరేట్ ఆఫ్ పొటాష్ చొప్పున వేయాలి .
+1	5	5	NUM	NUM	_	2	nummod	_	_
+2	సంవత్సరాలు	సంవత్సరం	NOUN	NOUN	_	3	obl	_	_
+3	వయసు	వయసు	NOUN	NOUN	_	5	nmod	_	_
+4	ఉన్న	ఉండు	VERB	VERB	_	5	acl	_	_
+5	చెట్టుకు	చెట్టు	NOUN	NOUN	_	29	obl	_	_
+6	50	50	NUM	NUM	_	7	nummod	_	_
+7	కేజీలు	కేజీలు	NOUN	NOUN	_	9	nmod	_	_
+8	పశువుల	పశువు	NOUN	NOUN	_	9	nmod	_	_
+9	ఎరువు	ఎరువు	NOUN	NOUN	_	29	nsubj	_	_
+10	,	,	PUNCT	PUNCT	_	9	punct	_	_
+11	1085	1085	NUM	NUM	_	12	nummod	_	_
+12	గ్రా	గ్రా	NOUN	NOUN	_	14	nmod	_	_
+13	.	.	PUNCT	PUNCT	_	12	punct	_	_
+14	యూరియా	యూరియా	NOUN	NOUN	_	9	conj	_	_
+15	,	,	PUNCT	PUNCT	_	14	punct	_	_
+16	3125	3125	NUM	NUM	_	17	nummod	_	_
+17	గ్రా	గ్రా	NOUN	NOUN	_	21	nmod	_	_
+18	.	.	PUNCT	PUNCT	_	17	punct	_	_
+19	సింగల్	సింగల్	NOUN	NOUN	_	20	compound	_	_
+20	సూపర్	సూపర్	NOUN	NOUN	_	21	compound	_	_
+21	ఫాస్ఫేట్	ఫాస్ఫేట్	NOUN	NOUN	_	9	conj	_	_
+22	మరియు	మరియు	CCONJ	CCONJ	_	27	cc	_	_
+23	1000	1000	NUM	NUM	_	24	nummod	_	_
+24	గ్రాములు	గ్రామ్	NOUN	NOUN	_	27	nmod	_	_
+25	మ్యూరేట్	మ్యూరేట్	NOUN	NOUN	_	26	compound	_	_
+26	ఆఫ్	ఆఫ్	NOUN	NOUN	_	27	compound	_	_
+27	పొటాష్	పొటాష్	NOUN	NOUN	_	9	conj	_	_
+28	చొప్పున	చొప్పు	ADV	ADV	_	29	advmod	_	_
+29	వేయాలి	వెయ్యి	VERB	VERB	_	0	root	_	_
+30	.	.	PUNCT	PUNCT	_	29	punct	_	_
+
+# sent_id = 592
+# text = అలాగే 10 సంవత్సరాలు లేదా అంతకంటే ఎక్కువ వయసు ఉన్న చెట్టుకు 60- 70 కేజీలు పశువుల ఎరువు , 2170 గ్రా . యూరియా , 6250 గ్రా . సింగల్ సూపర్ ఫాస్ఫేట్ మరియు 1670 గ్రా . మ్యూరేట్ ఆఫ్ పొటాష్ వేయాలి .
+1	అలాగే	అలాగే	ADV	ADV	_	34	advmod	_	_
+2	10	10	NUM	NUM	_	3	nummod	_	_
+3	సంవత్సరాలు	సంవత్సరం	NOUN	NOUN	_	7	obl	_	_
+4	లేదా	లేదా	CCONJ	CCONJ	_	7	cc	_	_
+5	అంతకంటే	అంత	ADV	ADV	_	6	advmod	_	_
+6	ఎక్కువ	ఎక్కువ	ADJ	ADJ	_	7	amod	_	_
+7	వయసు	వయసు	NOUN	NOUN	_	9	nmod	_	_
+8	ఉన్న	ఉండు	VERB	VERB	_	9	acl	_	_
+9	చెట్టుకు	చెట్టు	NOUN	NOUN	_	34	obl	_	_
+10	60-	60	NUM	NUM	_	12	nummod	_	_
+11	70	70	NUM	NUM	_	10	conj	_	_
+12	కేజీలు	కేజీలు	NOUN	NOUN	_	14	nmod	_	_
+13	పశువుల	పశువు	NOUN	NOUN	_	14	nmod	_	_
+14	ఎరువు	ఎరువు	NOUN	NOUN	_	34	nsubj	_	_
+15	,	,	PUNCT	PUNCT	_	14	punct	_	_
+16	2170	2170	NUM	NUM	_	17	nummod	_	_
+17	గ్రా	గ్రా	NOUN	NOUN	_	19	nmod	_	_
+18	.	.	PUNCT	PUNCT	_	17	punct	_	_
+19	యూరియా	యూరియా	NOUN	NOUN	_	14	conj	_	_
+20	,	,	PUNCT	PUNCT	_	19	punct	_	_
+21	6250	6250	NUM	NUM	_	22	nummod	_	_
+22	గ్రా	గ్రా	NOUN	NOUN	_	26	nmod	_	_
+23	.	.	PUNCT	PUNCT	_	22	punct	_	_
+24	సింగల్	సింగల్	NOUN	NOUN	_	25	compound	_	_
+25	సూపర్	సూపర్	NOUN	NOUN	_	26	compound	_	_
+26	ఫాస్ఫేట్	ఫాస్ఫేట్	NOUN	NOUN	_	14	conj	_	_
+27	మరియు	మరియు	CCONJ	CCONJ	_	33	cc	_	_
+28	1670	1670	NUM	NUM	_	29	nummod	_	_
+29	గ్రా	గ్రా	NOUN	NOUN	_	33	nmod	_	_
+30	.	.	PUNCT	PUNCT	_	29	punct	_	_
+31	మ్యూరేట్	మ్యూరేట్	NOUN	NOUN	_	32	compound	_	_
+32	ఆఫ్	ఆఫ్	NOUN	NOUN	_	33	compound	_	_
+33	పొటాష్	పొటాష్	NOUN	NOUN	_	14	conj	_	_
+34	వేయాలి	వెయ్యి	VERB	VERB	_	0	root	_	_
+35	.	.	PUNCT	PUNCT	_	34	punct	_	_
+
+# sent_id = 593
+# text = కొత్త చిగురులు తొడిగే సమయంలో , అంటే సెప్టెంబర్ _ అక్టోబర్లో ఒక్కసారి మరియు బఠానీ గింజ పరిమాణంలో ఉన్నప్పుడు ఒకసారి సూక్ష్మపోషక మిశ్రమాలెన ఫార్ములా _ 4 లేదా ఆర్క మ్యాంగో స్పెషల్ వంటి వాటిని 5 గ్రా . లీటరు నీటికి చొప్పున కలిపి చెట్లపై పిచికారి చేస్తే మంచి ఫలితం ఉంటుంది .
+1	కొత్త	కొత్త	ADJ	ADJ	_	2	amod	_	_
+2	చిగురులు	చిగురు	NOUN	NOUN	_	3	nsubj	_	_
+3	తొడిగే	తొడుగు	VERB	VERB	_	4	acl	_	_
+4	సమయంలో	సమయం	NOUN	NOUN	_	40	obl	_	_
+5	,	,	PUNCT	PUNCT	_	4	punct	_	_
+6	అంటే	అంటే	SCONJ	SCONJ	_	4	mark	_	_
+7	సెప్టెంబర్	సెప్టెంబర్	PROPN	PROPN	_	10	obl	_	_
+8	_	_	PUNCT	PUNCT	_	7	punct	_	_
+9	అక్టోబర్లో	అక్టోబర్	PROPN	PROPN	_	7	conj	_	_
+10	ఒక్కసారి	ఒక్కసారి	NOUN	NOUN	_	34	obl	_	_
+11	మరియు	మరియు	CCONJ	CCONJ	_	12	cc	_	_
+12	బఠానీ	బఠానీ	NOUN	NOUN	_	13	compound	_	_
+13	గింజ	గింజ	NOUN	NOUN	_	14	nmod	_	_
+14	పరిమాణంలో	పరిమాణం	NOUN	NOUN	_	15	obl	_	_
+15	ఉన్నప్పుడు	ఉండు	VERB	VERB	_	16	acl	_	_
+16	ఒకసారి	ఒకసారి	NOUN	NOUN	_	10	conj	_	_
+17	సూక్ష్మపోషక	సూక్ష్మపోషక	NOUN	NOUN	_	18	compound	_	_
+18	మిశ్రమాలెన	మిశ్రమాలెన	NOUN	NOUN	_	19	nmod	_	_
+19	ఫార్ములా	ఫార్ములా	NOUN	NOUN	_	27	nmod	_	_
+20	_	_	PUNCT	PUNCT	_	19	punct	_	_
+21	4	4	NUM	NUM	_	19	nummod	_	_
+22	లేదా	లేదా	CCONJ	CCONJ	_	23	cc	_	_
+23	ఆర్క	ఆర్క	NOUN	NOUN	_	24	compound	_	_
+24	మ్యాంగో	మ్యాంగో	NOUN	NOUN	_	25	compound	_	_
+25	స్పెషల్	స్పెషల్	NOUN	NOUN	_	19	conj	_	_
+26	వంటి	వంటి	ADJ	ADJ	_	27	amod	_	_
+27	వాటిని	అది	PRON	PRON	_	34	obj	_	_
+28	5	5	NUM	NUM	_	29	nummod	_	_
+29	గ్రా	గ్రా	NOUN	NOUN	_	34	iobj	_	_
+30	.	.	PUNCT	PUNCT	_	29	punct	_	_
+31	లీటరు	లీటర్	NOUN	NOUN	_	32	nmod	_	_
+32	నీటికి	నీరు	NOUN	NOUN	_	34	obl	_	_
+33	చొప్పున	చొప్పు	ADV	ADV	_	34	advmod	_	_
+34	కలిపి	కలుపు	VERB	VERB	_	37	advcl	_	_
+35	చెట్లపై	చెట్టు	NOUN	NOUN	_	37	obl	_	_
+36	పిచికారి	పిచికారి	NOUN	NOUN	_	37	compound	_	_
+37	చేస్తే	చెయ్యి	VERB	VERB	_	39	advcl	_	_
+38	మంచి	మంచి	ADJ	ADJ	_	39	amod	_	_
+39	ఫలితం	ఫలితం	NOUN	NOUN	_	40	obj	_	_
+40	ఉంటుంది	ఉండు	VERB	VERB	_	0	root	_	_
+41	.	.	PUNCT	PUNCT	_	40	punct	_	_
+
+# sent_id = 594
+# text = ఎరువులు వేసిన అనంతరం తదుపరి చెట్ల మధ్య ఖాళీ స్థలంలో జీలుగ , జనుము , పిల్లి పెసర వంటి పచ్చి రొట్ట ఎరువుల విత్తనాలను చల్లి పచ్చి రొట్ట పైరు పూత సమయంలో తోటలో కలియబెట్టడం వల్ల సేంద్రీయ కర్భనం మరియు ఇతర పోషకాల లభ్యత పెరుగుతుంది .
+1	ఎరువులు	ఎరువు	NOUN	NOUN	_	2	nsubj	_	_
+2	వేసిన	వెయ్యి	VERB	VERB	_	5	acl	_	_
+3	అనంతరం	అనంతరం	ADV	ADV	_	20	advmod	_	_
+4	తదుపరి	తదుపరి	ADJ	ADJ	_	5	amod	_	_
+5	చెట్ల	చెట్టు	NOUN	NOUN	_	7	nmod	_	_
+6	మధ్య	మధ్య	ADP	ADP	_	5	case	_	_
+7	ఖాళీ	ఖాళి	NOUN	NOUN	_	20	nsubj	_	_
+8	స్థలంలో	స్థలం	NOUN	NOUN	_	20	obl_loc	_	_
+9	జీలుగ	జీలుగ	NOUN	NOUN	_	20	obl	_	_
+10	,	,	PUNCT	PUNCT	_	9	punct	_	_
+11	జనుము	జనుము	NOUN	NOUN	_	20	nsubj	_	_
+12	,	,	PUNCT	PUNCT	_	11	punct	_	_
+13	పిల్లి	పిల్లి	NOUN	NOUN	_	20	nsubj	_	_
+14	పెసర	పెసర	NOUN	NOUN	_	20	nsubj	_	_
+15	వంటి	వంటి	ADJ	ADJ	_	17	amod	_	_
+16	పచ్చి	పచ్చి	ADJ	ADJ	_	17	amod	_	_
+17	రొట్ట	రొట్ట	NOUN	NOUN	_	20	nsubj	_	_
+18	ఎరువుల	ఎరువు	NOUN	NOUN	_	19	nmod	_	_
+19	విత్తనాలను	విత్తనం	NOUN	NOUN	_	20	obl	_	_
+20	చల్లి	చల్లు	VERB	VERB	_	35	advcl	_	_
+21	పచ్చి	పచ్చి	ADJ	ADJ	_	22	amod	_	_
+22	రొట్ట	రొట్ట	NOUN	NOUN	_	35	nsubj	_	_
+23	పైరు	పైరు	NOUN	NOUN	_	35	nsubj	_	_
+24	పూత	పూత	NOUN	NOUN	_	35	nsubj	_	_
+25	సమయంలో	సమయం	NOUN	NOUN	_	27	obl_loc	_	_
+26	తోటలో	తోట	NOUN	NOUN	_	35	obl_#number	_	_
+27	కలియబెట్టడం	కలియబెట్టడం	NOUN	NOUN	_	35	nsubj	_	_
+28	వల్ల	వల్ల	ADP	ADP	_	27	case	_	_
+29	సేంద్రీయ	సేంద్రీయ	ADJ	ADJ	_	30	amod	_	_
+30	కర్భనం	కర్భనం	NOUN	NOUN	_	35	obl	_	_
+31	మరియు	మరియు	CCONJ	CCONJ	_	33	cc	_	_
+32	ఇతర	ఇతర	ADJ	ADJ	_	33	amod	_	_
+33	పోషకాల	పోషకం	NOUN	NOUN	_	34	nmod	_	_
+34	లభ్యత	లభ్యత	NOUN	NOUN	_	35	nsubj	_	_
+35	పెరుగుతుంది	పెరుగు	VERB	VERB	_	0	root	_	_
+36	.	.	PUNCT	PUNCT	_	35	punct	_	_
+
+# sent_id = 595
+# text = నీటి యజమాన్యం : సాధారణంగా రైతులు కాపు లేనప్పుడు మామిడికి నీరు పెట్టరు .
+1	నీటి	నీరు	NOUN	NOUN	_	2	nmod	_	_
+2	యజమాన్యం	యజమాన్యం	NOUN	NOUN	_	0	root	_	_
+3	:	:	PUNCT	PUNCT	_	2	punct	_	_
+4	సాధారణంగా	సాధారణం	ADV	ADV	_	7	advmod	_	_
+5	రైతులు	రైతు	NOUN	NOUN	_	7	nsubj	_	_
+6	కాపు	కాపు	NOUN	NOUN	_	7	obl	_	_
+7	లేనప్పుడు	గల	VERB	VERB	_	10	advcl	_	_
+8	మామిడికి	మామిడి	NOUN	NOUN	_	10	obl	_	_
+9	నీరు	నీరు	NOUN	NOUN	_	10	obj	_	_
+10	పెట్టరు	పెట్టు	VERB	VERB	_	2	parataxis	_	_
+11	.	.	PUNCT	PUNCT	_	10	punct	_	_
+
+# sent_id = 596
+# text = కోతలు పూర్తయిన తరువాత అక్టోబర్ _ నవంబర్ వరకు రుతుపవన వర్షాల కారణంగా భూమిలో కావలిసినంత తేమ ఉంటుంది .
+1	కోతలు	కోత	NOUN	NOUN	_	2	nsubj	_	_
+2	పూర్తయిన	పూర్తవ్వు	VERB	VERB	_	14	advcl	_	_
+3	తరువాత	తరువాత	PART	PART	_	2	mark	_	_
+4	అక్టోబర్	అక్టోబర్	PROPN	PROPN	_	14	obl	_	_
+5	_	_	PUNCT	PUNCT	_	4	punct	_	_
+6	నవంబర్	నవంబర్	PROPN	PROPN	_	4	conj	_	_
+7	వరకు	వరకు	ADP	ADP	_	6	case	_	_
+8	రుతుపవన	రుతుపవనం	NOUN	NOUN	_	9	compound	_	_
+9	వర్షాల	వర్షా	NOUN	NOUN	_	10	nmod	_	_
+10	కారణంగా	కారణం	ADV	ADV	_	14	advmod	_	_
+11	భూమిలో	భూమి	NOUN	NOUN	_	14	obl:loc	_	_
+12	కావలిసినంత	కావలిసినంత	ADJ	ADJ	_	13	amod	_	_
+13	తేమ	తేమ	NOUN	NOUN	_	14	nsubj	_	_
+14	ఉంటుంది	ఉండు	VERB	VERB	_	0	root	_	_
+15	.	.	PUNCT	PUNCT	_	14	punct	_	_
+
+# sent_id = 597
+# text = వర్షాలు లేక భూమి బెట్ట పరిస్థితులు గురైనప్పుడు అవసరమైన మేరకు నీటి తడి ఇవ్వాలి లేదా బిందు పద్ధతిలో నీరు పెట్టాలి .
+1	వర్షాలు	వర్షం	NOUN	NOUN	_	6	obl	_	_
+2	లేక	గల	PART	PART	_	1	mark	_	_
+3	భూమి	భూమి	NOUN	NOUN	_	6	nsubj	_	_
+4	బెట్ట	బెట్ట	ADJ	ADJ	_	5	amod	_	_
+5	పరిస్థితులు	పరిస్థితి	NOUN	NOUN	_	6	obl	_	_
+6	గురైనప్పుడు	గురవ్వు	VERB	VERB	_	11	advcl	_	_
+7	అవసరమైన	అవసరం	ADJ	ADJ	_	8	amod	_	_
+8	మేరకు	మేర	ADV	ADV	_	11	advmod	_	_
+9	నీటి	నీరు	NOUN	NOUN	_	10	compound	_	_
+10	తడి	తడి	NOUN	NOUN	_	11	obj	_	_
+11	ఇవ్వాలి	ఇవ్వు	VERB	VERB	_	0	root	_	_
+12	లేదా	లేదా	CCONJ	CCONJ	_	13	cc	_	_
+13	బిందు	బిందు	NOUN	NOUN	_	14	compound	_	_
+14	పద్ధతిలో	పద్ధతి	NOUN	NOUN	_	16	obl	_	_
+15	నీరు	నీరు	NOUN	NOUN	_	16	obj	_	_
+16	పెట్టాలి	పెట్టు	VERB	VERB	_	11	conj	_	_
+17	.	.	PUNCT	PUNCT	_	16	punct	_	_
+
+# sent_id = 598
+# text = మామిడి చెట్లు పూతకు వచ్చే ముందు కనీసం రెండు నెలలు బెట్ట పరిస్థితులు ఉండాలి .
+1	మామిడి	మామిడి	NOUN	NOUN	_	2	compound	_	_
+2	చెట్లు	చెట్టు	NOUN	NOUN	_	4	nsubj	_	_
+3	పూతకు	పూత	NOUN	NOUN	_	4	obl	_	_
+4	వచ్చే	వచ్చు	VERB	VERB	_	8	acl	_	_
+5	ముందు	ముందు	PART	PART	_	4	mark	_	_
+6	కనీసం	కనీసం	ADJ	ADJ	_	8	amod	_	_
+7	రెండు	రెండు	NUM	NUM	_	8	nummod	_	_
+8	నెలలు	నెల	NOUN	NOUN	_	11	obl	_	_
+9	బెట్ట	బెట్ట	ADJ	ADJ	_	10	amod	_	_
+10	పరిస్థితులు	పరిస్థితి	NOUN	NOUN	_	11	obl	_	_
+11	ఉండాలి	ఉండు	VERB	VERB	_	0	root	_	_
+12	.	.	PUNCT	PUNCT	_	11	punct	_	_
+
+# sent_id = 599
+# text = కాబట్టి అక్టోబరు ఆఖరు నుంచి పూత వచ్చే వరకు మామిడి చెట్లకు నీరు పారించటం పూర్తిగా ఆపేయాలి .
+1	కాబట్టి	అవ్వు	SCONJ	SCONJ	_	13	mark	_	_
+2	అక్టోబరు	అక్టోబర్	PROPN	PROPN	_	3	nmod	_	_
+3	ఆఖరు	ఆఖరు	NOUN	NOUN	_	6	obl	_	_
+4	నుంచి	నుంచి	ADP	ADP	_	3	case	_	_
+5	పూత	పూత	NOUN	NOUN	_	6	obl	_	_
+6	వచ్చే	వచ్చు	VERB	VERB	_	11	advcl	_	_
+7	వరకు	వరకు	PART	PART	_	6	mark	_	_
+8	మామిడి	మామిడి	NOUN	NOUN	_	9	compound	_	_
+9	చెట్లకు	చెట్టు	NOUN	NOUN	_	11	obl	_	_
+10	నీరు	నీరు	NOUN	NOUN	_	11	compound	_	_
+11	పారించటం	పారించటం	NOUN	NOUN	_	13	ccomp	_	_
+12	పూర్తిగా	పూర్తి	ADV	ADV	_	13	advmod	_	_
+13	ఆపేయాలి	ఆపెయ్యి	VERB	VERB	_	0	root	_	_
+14	.	.	PUNCT	PUNCT	_	13	punct	_	_
+
+# sent_id = 600
+# text = పూతకు ముందు భూమిలో తడి ఉంటే , చెట్లలో పూతకు బదులు ఆకు చిగుర్లు వచ్చేస్తాయి .
+1	పూతకు	పూత	NOUN	NOUN	_	5	obl	_	_
+2	ముందు	ముందు	ADP	ADP	_	1	case	_	_
+3	భూమిలో	భూమి	NOUN	NOUN	_	5	obl:loc	_	_
+4	తడి	తడి	NOUN	NOUN	_	5	obj	_	_
+5	ఉంటే	ఉండు	VERB	VERB	_	12	advcl	_	_
+6	,	,	PUNCT	PUNCT	_	5	punct	_	_
+7	చెట్లలో	చెట్టు	NOUN	NOUN	_	12	obl	_	_
+8	పూతకు	పూత	NOUN	NOUN	_	12	obl	_	_
+9	బదులు	బదులు	ADP	ADP	_	8	case	_	_
+10	ఆకు	ఆకు	NOUN	NOUN	_	11	compound	_	_
+11	చిగుర్లు	చిగురు	NOUN	NOUN	_	12	obj	_	_
+12	వచ్చేస్తాయి	వచ్చు	VERB	VERB	_	0	root	_	_
+13	.	.	PUNCT	PUNCT	_	12	punct	_	_
+
+# sent_id = 601
+# text = కానీ ఈశాన్య ఋతు పవనాలు ప్రభావిత ప్రాంతాల్లో వర్షాలు నవంబర్లో కూడా పడుతుంటాయి .
+1	కానీ	కానీ	SCONJ	SCONJ	_	10	mark	_	_
+2	ఈశాన్య	ఈశాన్యం	PROPN	PROPN	_	3	compound	_	_
+3	ఋతు	ఋతువు	NOUN	NOUN	_	4	compound	_	_
+4	పవనాలు	పవనం	NOUN	NOUN	_	6	nmod	_	_
+5	ప్రభావిత	ప్రభావితం	ADJ	ADJ	_	6	amod	_	_
+6	ప్రాంతాల్లో	ప్రాంతం	NOUN	NOUN	_	10	obl:loc	_	_
+7	వర్షాలు	వర్షా	NOUN	NOUN	_	10	nsubj	_	_
+8	నవంబర్లో	నవంబరు	PROPN	PROPN	_	10	obl	_	_
+9	కూడా	కూడా	PART	PART	_	8	mark	_	_
+10	పడుతుంటాయి	పడుతుండు	VERB	VERB	_	0	root	_	_
+11	.	.	PUNCT	PUNCT	_	10	punct	_	_
+
+# sent_id = 602
+# text = ఇలాంటి పరిస్థితుల్లో వర్షాలు ఆగిన తరువాత మామిడి తోటల్లో తేలికగా దున్నుకోవాలి .
+1	ఇలాంటి	ఇలాంటి	DET	DET	_	2	det	_	_
+2	పరిస్థితుల్లో	పరిస్థితి	NOUN	NOUN	_	4	obl	_	_
+3	వర్షాలు	వర్షా	NOUN	NOUN	_	4	nsubj	_	_
+4	ఆగిన	ఆగు	VERB	VERB	_	9	advcl	_	_
+5	తరువాత	తరువాత	PART	PART	_	4	mark	_	_
+6	మామిడి	మామిడి	NOUN	NOUN	_	7	compound	_	_
+7	తోటల్లో	తోట	NOUN	NOUN	_	9	obl:loc	_	_
+8	తేలికగా	తేలిక	ADV	ADV	_	9	advmod	_	_
+9	దున్నుకోవాలి	దున్నుకో	VERB	VERB	_	0	root	_	_
+10	.	.	PUNCT	PUNCT	_	9	punct	_	_
+
+# sent_id = 603
+# text = దీనివల్ల భూమిలోని తేమ ఆవిరై బెట్ట పరిస్థితులు ఏర్పడి పూత యథావిధిగా రావటానికి వీలుంటుంది .
+1	దీనివల్ల	ఇది	ADV	ADV	_	11	advmod	_	_
+2	భూమిలోని	భూమి	NOUN	NOUN	_	4	obl	_	_
+3	తేమ	తేమ	NOUN	NOUN	_	4	nsubj	_	_
+4	ఆవిరై	ఆవిరై	VERB	VERB	_	11	xcomp	_	_
+5	బెట్ట	బెట్ట	ADJ	ADJ	_	6	amod	_	_
+6	పరిస్థితులు	పరిస్థితి	NOUN	NOUN	_	7	nsubj	_	_
+7	ఏర్పడి	ఏర్పడు	VERB	VERB	_	10	advcl	_	_
+8	పూత	పూత	NOUN	NOUN	_	10	nsubj	_	_
+9	యథావిధిగా	యథావిధి	ADV	ADV	_	10	advmod	_	_
+10	రావటానికి	రావటం	NOUN	NOUN	_	11	obl	_	_
+11	వీలుంటుంది	వీలుండు	VERB	VERB	_	0	root	_	_
+12	.	.	PUNCT	PUNCT	_	11	punct	_	_
+
+# sent_id = 604
+# text = ఈ సమయంలో చెట్ల మధ్య లోతుగా దున్నడం మంచిది కాదు .
+1	ఈ	ఈ	DET	DET	_	2	det	_	_
+2	సమయంలో	సమయం	NOUN	NOUN	_	3	obl	_	_
+3	చెట్ల	చెట్టు	NOUN	NOUN	_	6	obl	_	_
+4	మధ్య	మధ్య	ADP	ADP	_	3	case	_	_
+5	లోతుగా	లోతు	ADV	ADV	_	6	advmod	_	_
+6	దున్నడం	దున్నడం	NOUN	NOUN	_	8	csubj	_	_
+7	మంచిది	మంచి	NOUN	NOUN	_	8	ccomp	_	_
+8	కాదు	అవ్వు	VERB	VERB	_	0	root	_	_
+9	.	.	PUNCT	PUNCT	_	8	punct	_	_
+
+# sent_id = 605
+# text = ఈశాన్య ఋతుపవన వర్షాలు నవంబరు నెలకు మించి పొడిగించబడినప్పుడు పూత యథావిధిగా రావడం కోసం లీటరు నీటికి మల్టీ _ కె ( పొటాషియం నెట్రేట్ ) 10 గ్రా . యూరియా 10 గ్రా . చొప్పున కలిపి డిసెంబర్ రెండో పక్షంలో పిచికారి చేయవచ్చు .
+1	ఈశాన్య	ఈశాన్యం	PROPN	PROPN	_	2	compound	_	_
+2	ఋతుపవన	ఋతుపవనం	NOUN	NOUN	_	3	compound	_	_
+3	వర్షాలు	వర్షం	NOUN	NOUN	_	7	nsubj	_	_
+4	నవంబరు	నవంబర్	PROPN	PROPN	_	_	nmod:poss	_	_
+5	నెలకు	నెల	NOUN	NOUN	_	7	obl	_	_
+6	మించి	మించు	ADJ	ADJ	_	8	amod	_	_
+7	పొడిగించబడినప్పుడు	పొడిగించబడు	VERB	VERB	_	8	acl	_	_
+8	పూత	పూత	NOUN	NOUN	_	29	nsubj	_	_
+9	యథావిధిగా	యథావిధి	ADV	ADV	_	10	advmod	_	_
+10	రావడం	రావడం	NOUN	NOUN	_	29	nsubj	_	_
+11	కోసం	కోసం	ADP	ADP	_	10	case	_	_
+12	లీటరు	లీటర్	NOUN	NOUN	_	29	nsubj	_	_
+13	నీటికి	నీరు	NOUN	NOUN	_	29	obl	_	_
+14	మల్టీ	మల్టీ	NOUN	NOUN	_	29	nsubj	_	_
+15	_	_	NOUN	NOUN	_	29	obl	_	_
+16	కె	కె	NOUN	NOUN	_	29	obl	_	_
+17	(	(	PUNCT	PUNCT	_	16	punct	_	_
+18	పొటాషియం	పొటాషియం	NOUN	NOUN	_	29	nsubj	_	_
+19	నెట్రేట్	నెట్రేట్	NOUN	NOUN	_	29	nsubj	_	_
+20	)	)	PUNCT	PUNCT	_	19	punct	_	_
+21	10	10	NUM	NUM	_	22	nummod	_	_
+22	గ్రా	గ్రా	NOUN	NOUN	_	29	obl	_	_
+23	.	.	PUNCT	PUNCT	_	22	punct	_	_
+24	యూరియా	యూరియా	NOUN	NOUN	_	29	nsubj	_	_
+25	10	10	NUM	NUM	_	26	nummod	_	_
+26	గ్రా	గ్రా	NOUN	NOUN	_	29	obl	_	_
+27	.	.	PUNCT	PUNCT	_	26	punct	_	_
+28	చొప్పున	చొప్పు	ADV	ADV	_	29	advmod	_	_
+29	కలిపి	కలుపు	VERB	VERB	_	34	advcl	_	_
+30	డిసెంబర్	డిసెంబర్	PROPN	PROPN	_	34	nsubj	_	_
+31	రెండో	రెండో	NUM	NUM	_	32	nummod	_	_
+32	పక్షంలో	పక్షం	NOUN	NOUN	_	34	obl_loc	_	_
+33	పిచికారి	పిచికారి	NOUN	NOUN	_	34	nsubj	_	_
+34	చేయవచ్చు	చెయ్యి	VERB	VERB	_	0	root	_	_
+35	.	.	PUNCT	PUNCT	_	34	punct	_	_
+
+# sent_id = 606
+# text = సస్య రక్షణ పద్దతులు : మామిడి కాయల కోత తరువాత సాధారణంగా కాండం తొలిచే పురుగు , బెరడు తొలిచే పురుగు , ఆకులను గుళ్ళుగా చేసుకొని పురుగు , ఆకులను కత్తిరించే పురుగు , ఆకులపై బుడిపెలను చేసే పురుగును ఆశించే నష్టపరుస్తాయి .
+1	సస్య	సస్యం	NOUN	NOUN	_	2	compound	_	_
+2	రక్షణ	రక్షణ	NOUN	NOUN	_	3	nmod	_	_
+3	పద్దతులు	పద్దతి	NOUN	NOUN	_	0	root	_	_
+4	:	:	PUNCT	PUNCT	_	3	punct	_	_
+5	మామిడి	మామిడి	NOUN	NOUN	_	6	compound	_	_
+6	కాయల	కాయ	NOUN	NOUN	_	7	nmod	_	_
+7	కోత	కోత	NOUN	NOUN	_	31	obl	_	_
+8	తరువాత	తరువాత	ADP	ADP	_	7	case	_	_
+9	సాధారణంగా	సాధారణం	ADV	ADV	_	31	advmod	_	_
+10	కాండం	కాండం	NOUN	NOUN	_	11	obj	_	_
+11	తొలిచే	తొలువు	VERB	VERB	_	12	acl	_	_
+12	పురుగు	పురుగు	NOUN	NOUN	_	31	ccomp	_	_
+13	,	,	PUNCT	PUNCT	_	12	punct	_	_
+14	బెరడు	బెరడు	NOUN	NOUN	_	15	obj	_	_
+15	తొలిచే	తొలువు	VERB	VERB	_	16	acl	_	_
+16	పురుగు	పురుగు	NOUN	NOUN	_	12	conj	_	_
+17	,	,	PUNCT	PUNCT	_	16	punct	_	_
+18	ఆకులను	ఆకు	NOUN	NOUN	_	20	obj	_	_
+19	గుళ్ళుగా	గుడి	ADV	ADV	_	20	advmod	_	_
+20	చేసుకొని	చేసుకో	VERB	VERB	_	21	acl	_	_
+21	పురుగు	పురుగు	NOUN	NOUN	_	12	conj	_	_
+22	,	,	PUNCT	PUNCT	_	21	punct	_	_
+23	ఆకులను	ఆకు	NOUN	NOUN	_	24	obj	_	_
+24	కత్తిరించే	కత్తిరించు	VERB	VERB	_	25	acl	_	_
+25	పురుగు	పురుగు	NOUN	NOUN	_	12	conj	_	_
+26	,	,	PUNCT	PUNCT	_	25	punct	_	_
+27	ఆకులపై	ఆకు	NOUN	NOUN	_	28	obl	_	_
+28	బుడిపెలను	బుడిపె	NOUN	NOUN	_	29	obj	_	_
+29	చేసే	చెయ్యి	VERB	VERB	_	30	acl	_	_
+30	పురుగును	పురుగు	NOUN	NOUN	_	12	conj	_	_
+31	ఆశించే	ఆశించు	VERB	VERB	_	32	advcl	_	_
+32	నష్టపరుస్తాయి	నష్టపరుస్తాయి	VERB	VERB	_	3	parataxis	_	_
+33	.	.	PUNCT	PUNCT	_	32	punct	_	_
+
+# sent_id = 607
+# text = ఈ దశలో మామిడి చెట్లను చాలా మంది రైతులు పట్టించుకోక నిర్లక్ష్యం చేస్తుంటారు .
+1	ఈ	ఈ	DET	DET	_	2	det	_	_
+2	దశలో	దశ	NOUN	NOUN	_	8	obl	_	_
+3	మామిడి	మామిడి	NOUN	NOUN	_	4	compound	_	_
+4	చెట్లను	చెట్టు	NOUN	NOUN	_	8	obj	_	_
+5	చాలా	చాలు	ADJ	ADJ	_	6	amod	_	_
+6	మంది	మంది	PRON	PRON	_	7	nmod	_	_
+7	రైతులు	రైతు	NOUN	NOUN	_	8	nsubj	_	_
+8	పట్టించుకోక	పట్టించుకో	VERB	VERB	_	10	advcl	_	_
+9	నిర్లక్ష్యం	నిర్లక్ష్యం	NOUN	NOUN	_	10	compound	_	_
+10	చేస్తుంటారు	చేస్తుండు	VERB	VERB	_	0	root	_	_
+11	.	.	PUNCT	PUNCT	_	10	punct	_	_
+
+# sent_id = 608
+# text = అందువల్ల పురుగుల ఉధృతి ఎక్కువగా ఉంటే మొక్కలు బలహీనపడుతాయి .
+1	అందువల్ల	అందువల్ల	SCONJ	SCONJ	_	7	mark	_	_
+2	పురుగుల	పురుగు	NOUN	NOUN	_	3	nmod	_	_
+3	ఉధృతి	ఉధృతి	NOUN	NOUN	_	5	nsubj	_	_
+4	ఎక్కువగా	ఎక్కువ	ADV	ADV	_	5	advmod	_	_
+5	ఉంటే	ఉండు	VERB	VERB	_	6	advcl	_	_
+6	మొక్కలు	మొక్క	NOUN	NOUN	_	7	nsubj:pass	_	_
+7	బలహీనపడుతాయి	బలహీనపడుతాయి	VERB	VERB	_	0	root	_	_
+8	.	.	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = 609
+# text = మామిడి తోటలను పరిశుభ్రంగా ఉంచుకోవడం ద్వారా ఈ పురుగులను తీవ్రతను చాలా వరకు తగ్గించవచ్చు .
+1	మామిడి	మామిడి	NOUN	NOUN	_	2	compound	_	_
+2	తోటలను	తోట	NOUN	NOUN	_	4	obl	_	_
+3	పరిశుభ్రంగా	పరిశుభ్రం	ADV	ADV	_	4	advmod	_	_
+4	ఉంచుకోవడం	ఉంచుకో	NOUN	NOUN	_	11	ccomp	_	_
+5	ద్వారా	ద్వారా	ADP	ADP	_	4	case	_	_
+6	ఈ	ఈ	DET	DET	_	7	det	_	_
+7	పురుగులను	పురుగు	NOUN	NOUN	_	8	nmod	_	_
+8	తీవ్రతను	తీవ్రత	NOUN	NOUN	_	11	nsubj:pass	_	_
+9	చాలా	చాలు	ADJ	ADJ	_	11	amod	_	_
+10	వరకు	వరకు	ADP	ADP	_	8	case	_	_
+11	తగ్గించవచ్చు	తగ్గించు	VERB	VERB	_	0	root	_	_
+12	.	.	PUNCT	PUNCT	_	11	punct	_	_
+
+# sent_id = 610
+# text = కాండం , బెరడు తొలిచే పురుగులు ఆశించే భాగాలను శుభ్రంగా చేసి , అవసరమైతే వాటిని జాగ్రత్తగా కత్తిరించి నాశనం చేయాలి .
+1	కాండం	కాండం	NOUN	NOUN	_	4	nsubj	_	_
+2	,	,	PUNCT	PUNCT	_	1	punct	_	_
+3	బెరడు	బెరడు	NOUN	NOUN	_	4	obl	_	_
+4	తొలిచే	తొలువు	VERB	VERB	_	5	acl	_	_
+5	పురుగులు	పురుగు	NOUN	NOUN	_	6	nsubj	_	_
+6	ఆశించే	ఆశించు	VERB	VERB	_	7	acl	_	_
+7	భాగాలను	భాగం	NOUN	NOUN	_	9	obl	_	_
+8	శుభ్రంగా	శుభ్రం	ADV	ADV	_	9	advmod	_	_
+9	చేసి	చెయ్యి	VERB	VERB	_	14	advcl	_	_
+10	,	,	PUNCT	PUNCT	_	9	punct	_	_
+11	అవసరమైతే	అవసరమవ్వు	ADJ	ADJ	_	12	amod	_	_
+12	వాటిని	అది	PRON	PRON	_	14	obl	_	_
+13	జాగ్రత్తగా	జాగ్రత్త	ADV	ADV	_	14	advmod	_	_
+14	కత్తిరించి	కత్తిరించు	VERB	VERB	_	16	advcl	_	_
+15	నాశనం	నాశనం	NOUN	NOUN	_	16	nsubj	_	_
+16	చేయాలి	చెయ్యి	VERB	VERB	_	0	root	_	_
+17	.	.	PUNCT	PUNCT	_	16	punct	_	_
+
+# sent_id = 611
+# text = కాండం , కొమ్మలపై పురుగులు చేసిన రంధ్రాల్లో డెక్లోరోవస్ మందు ద్రావణంను ( లీటరు నీటికి 10 మీ. లీ ) దూదిలో అద్ది రంధ్రాల్లో ఉంచి మట్టితో కప్పి ఉంచాలి .
+1	కాండం	కాండం	NOUN	NOUN	_	5	nsubj	_	_
+2	,	,	PUNCT	PUNCT	_	1	punct	_	_
+3	కొమ్మలపై	కొమ్మ	NOUN	NOUN	_	5	obl	_	_
+4	పురుగులు	పురుగు	NOUN	NOUN	_	5	nsubj	_	_
+5	చేసిన	చెయ్యి	VERB	VERB	_	6	acl	_	_
+6	రంధ్రాల్లో	రంధ్రం	NOUN	NOUN	_	18	obl	_	_
+7	డెక్లోరోవస్	డెక్లోరోవస్	NOUN	NOUN	_	8	compound	_	_
+8	మందు	మందు	NOUN	NOUN	_	9	nmod	_	_
+9	ద్రావణంను	ద్రావణం	NOUN	NOUN	_	18	obl	_	_
+10	(	(	PUNCT	PUNCT	_	9	punct	_	_
+11	లీటరు	లీటర్	NOUN	NOUN	_	18	nsubj	_	_
+12	నీటికి	నీరు	NOUN	NOUN	_	18	obl	_	_
+13	10	10	NUM	NUM	_	14	nummod	_	_
+14	మీ.	మీ.	NOUN	NOUN	_	18	obl	_	_
+15	లీ	లీ	NOUN	NOUN	_	18	nsubj	_	_
+16	)	)	PUNCT	PUNCT	_	15	punct	_	_
+17	దూదిలో	దూది	NOUN	NOUN	_	18	obl	_	_
+18	అద్ది	అద్దు	VERB	VERB	_	20	advcl	_	_
+19	రంధ్రాల్లో	రంధ్రం	NOUN	NOUN	_	20	obl	_	_
+20	ఉంచి	ఉంచు	VERB	VERB	_	22	advcl	_	_
+21	మట్టితో	మట్టి	NOUN	NOUN	_	22	obl	_	_
+22	కప్పి	కప్పు	VERB	VERB	_	0	root	_	_
+23	ఉంచాలి	ఉంచు	AUX	AUX	_	22	aux	_	_
+24	.	.	PUNCT	PUNCT	_	22	punct	_	_

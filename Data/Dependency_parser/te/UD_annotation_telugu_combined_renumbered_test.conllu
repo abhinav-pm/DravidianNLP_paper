@@ -1,0 +1,1034 @@
+# sent_id = 489
+# text = ఎకరాకు 15 టన్నుల పొట్లకాయల దిగుబడి
+1	ఎకరాకు	ఎకరా	NOUN	NOUN	_	5	obl	_	_
+2	15	15	NUM	NUM	_	3	nummod	_	_
+3	టన్నుల	టన్ను	NOUN	NOUN	_	4	nmod	_	_
+4	పొట్లకాయల	పొట్లకాయ	NOUN	NOUN	_	5	nmod	_	_
+5	దిగుబడి	దిగుబడి	NOUN	NOUN	_	0	root	_	_
+
+# sent_id = 490
+# text = ఖరీఫ్ పంట అయినా పొట్లకాయను మే రెండో వారంలో విత్తుకోవచ్చు .
+1	ఖరీఫ్	ఖరీఫ్	PROPN	PROPN	_	2	compound	_	_
+2	పంట	పంట	NOUN	NOUN	_	3	nsubj	_	_
+3	అయినా	అవ్వు	VERB	VERB	_	8	advcl	_	_
+4	పొట్లకాయను	పొట్లకాయ	NOUN	NOUN	_	8	obj	_	_
+5	మే	మే	PROPN	PROPN	_	7	nmod	_	_
+6	రెండో	రెండో	NUM	NUM	_	7	nummod	_	_
+7	వారంలో	వారం	NOUN	NOUN	_	8	obl	_	_
+8	విత్తుకోవచ్చు	విత్తుకో	VERB	VERB	_	0	root	_	_
+9	.	.	PUNCT	PUNCT	_	8	punct	_	_
+
+# sent_id = 491
+# text = అంతే కాకుండా శాశ్వత పందిళ్లపై వేయడం ద్వారా తెగుళ్లును అరికట్టవచ్చు .
+1	అంతే	అంత	PRON	PRON	_	2	compound	_	_
+2	కాకుండా	అవ్వు	VERB	VERB	_	5	advcl	_	_
+3	శాశ్వత	శాశ్వత	ADJ	ADJ	_	4	amod	_	_
+4	పందిళ్లపై	పందిరి	NOUN	NOUN	_	5	obl	_	_
+5	వేయడం	వెయ్యి	NOUN	NOUN	_	8	advcl	_	_
+6	ద్వారా	ద్వారా	ADP	ADP	_	5	case	_	_
+7	తెగుళ్లును	తెగుళ్లును	NOUN	NOUN	_	8	obj	_	_
+8	అరికట్టవచ్చు	అరికట్టు	VERB	VERB	_	0	root	_	_
+9	.	.	PUNCT	PUNCT	_	8	punct	_	_
+
+# sent_id = 492
+# text = దిగుబడి ఎక్కువ రావడానికి పందిరి చాలా దోహదపడుతుంది .
+1	దిగుబడి	దిగుబడి	NOUN	NOUN	_	3	nsubj	_	_
+2	ఎక్కువ	ఎక్కువ	ADV	ADV	_	3	advmod	_	_
+3	రావడానికి	రావడం	NOUN	NOUN	_	6	advcl	_	_
+4	పందిరి	పందిరి	NOUN	NOUN	_	6	nsubj	_	_
+5	చాలా	చాలు	ADV	ADV	_	6	advmod	_	_
+6	దోహదపడుతుంది	దోహదపడు	VERB	VERB	_	0	root	_	_
+7	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = 493
+# text = రెండు మూడు రోజులకు నీటి తడులను అందిస్తూ సమగ్ర యాజమాన్య పద్ధతులను పాటించడం ద్వారా ఎకరాకు 15 టన్నుల పొట్లకాయల దిగుబడిని తీయవచ్చు .
+1	రెండు	రెండు	NUM	NUM	_	3	nummod	_	_
+2	మూడు	మూడు	NUM	NUM	_	3	nummod	_	_
+3	రోజులకు	రోజు	NOUN	NOUN	_	6	iobj	_	_
+4	నీటి	నీరు	NOUN	NOUN	_	5	nmod	_	_
+5	తడులను	తడి	NOUN	NOUN	_	6	obj	_	_
+6	అందిస్తూ	అందించు	VERB	VERB	_	10	advcl	_	_
+7	సమగ్ర	సమగ్ర	ADJ	ADJ	_	8	amod	_	_
+8	యాజమాన్య	యాజమాన్యం	NOUN	NOUN	_	9	nmod	_	_
+9	పద్ధతులను	పద్ధతి	NOUN	NOUN	_	10	obj	_	_
+10	పాటించడం	పాటించు	NOUN	NOUN	_	17	advcl	_	_
+11	ద్వారా	ద్వారా	ADP	ADP	_	10	case	_	_
+12	ఎకరాకు	ఎకరా	NOUN	NOUN	_	17	iobj	_	_
+13	15	15	NUM	NUM	_	14	nummod	_	_
+14	టన్నుల	టన్ను	NOUN	NOUN	_	16	nmod	_	_
+15	పొట్లకాయల	పొట్లకాయ	NOUN	NOUN	_	16	nmod	_	_
+16	దిగుబడిని	దిగుబడి	NOUN	NOUN	_	17	obj	_	_
+17	తీయవచ్చు	తియ్యి	VERB	VERB	_	0	root	_	_
+18	.	.	PUNCT	PUNCT	_	17	punct	_	_
+
+# sent_id = 494
+# text = పొట్లకాయకు నీరు నిలిచే బంకమట్టి నేలలు అనుకూలం .
+1	పొట్లకాయకు	పొట్లకాయ	NOUN	NOUN	_	3	obl	_	_
+2	నీరు	నీరు	NOUN	NOUN	_	3	nsubj	_	_
+3	నిలిచే	నిలువు	VERB	VERB	_	5	acl	_	_
+4	బంకమట్టి	బంకమట్టి	NOUN	NOUN	_	5	nmod	_	_
+5	నేలలు	నేల	NOUN	NOUN	_	6	nsubj	_	_
+6	అనుకూలం	అనుకూలం	NOUN	NOUN	_	0	root	_	_
+7	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = 495
+# text = పొట్లసాగుకు పొట్ల సాగుకు నేలను నాలుగు , ఐదు సార్లు దుక్కి దున్నాలి .
+1-2	పొట్లసాగుకు	_	_	_	_	_	_	_	_
+1	పొట్ల	పొట్ల	NOUN	NOUN	_	2	compound	_	_
+2	సాగుకు	సాగు	_	_	_	9	obl	_	_
+3	నేలను	నేల	NOUN	NOUN	_	9	obj	_	_
+4	నాలుగు	నాలుగు	NUM	NUM	_	7	nummod	_	_
+5	,	,	PUNCT	PUNCT	_	4	punct	_	_
+6	ఐదు	ఐదు	NUM	NUM	_	7	nummod	_	_
+7	సార్లు	సారి	NOUN	NOUN	_	9	obl	_	_
+8	దుక్కి	దుక్కి	NOUN	NOUN	_	9	nsubj	_	_
+9	దున్నాలి	దున్ను	VERB	VERB	_	0	root	_	_
+10	.	.	PUNCT	PUNCT	_	9	punct	_	_
+
+# sent_id = 496
+# text = ఎకరానికి 8-10 టన్నుల ఎరువు వేసి కలియ దున్నాలి .
+1	ఎకరానికి	ఎకరం	NOUN	NOUN	_	5	iobj	_	_
+2	8-10	8-10	NUM	NUM	_	3	nummod	_	_
+3	టన్నుల	టన్ను	NOUN	NOUN	_	4	nmod	_	_
+4	ఎరువు	ఎరువు	NOUN	NOUN	_	5	obj	_	_
+5	వేసి	వెయ్యి	VERB	VERB	_	6	advcl	_	_
+6	కలియ	కలియు	VERB	VERB	_	7	advcl	_	_
+7	దున్నాలి	దున్ను	VERB	VERB	_	0	root	_	_
+8	.	.	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = 497
+# text = విత్తనం వేసే ముందు సేంద్రియ ఎరువులను తయారుచేసుకోవాలి తయారు చేసుకోవాలి .
+1	విత్తనం	విత్తనం	NOUN	NOUN	_	2	obj	_	_
+2	వేసే	వెయ్యి	VERB	VERB	_	7	advcl	_	_
+3	ముందు	ముందు	PART	PART	_	2	mark	_	_
+4	సేంద్రియ	సేంద్రియం	NOUN	NOUN	_	5	nmod	_	_
+5	ఎరువులను	ఎరువు	NOUN	NOUN	_	7	obj	_	_
+6-7	తయారుచేసుకోవాలి	_	_	_	_	_	_	_	_
+6	తయారు	తయారు	NOUN	NOUN	_	7	compound	_	_
+7	చేసుకోవాలి	చేసుకో	VERB	VERB	_	0	root	_	_
+8	.	.	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = 498
+# text = ఇలా చేయడం వల్లన దిగుబడి ఎకరానికి 12 నుంచి 15 టన్నులు వస్తాయి .
+1	ఇలా	ఇలా	ADV	ADV	_	2	advmod	_	_
+2	చేయడం	చెయ్యి	NOUN	NOUN	_	10	advcl	_	_
+3	వల్లన	వల్లన	ADP	ADP	_	2	case	_	_
+4	దిగుబడి	దిగుబడి	NOUN	NOUN	_	10	nsubj	_	_
+5	ఎకరానికి	ఎకరం	NOUN	NOUN	_	10	obl	_	_
+6	12	12	NUM	NUM	_	9	nummod	_	_
+7	నుంచి	నుంచి	ADP	ADP	_	6	case	_	_
+8	15	15	NUM	NUM	_	9	nummod	_	_
+9	టన్నులు	టన్ను	NOUN	NOUN	_	4	nmod	_	_
+10	వస్తాయి	వచ్చు	VERB	VERB	_	0	root	_	_
+11	.	.	PUNCT	PUNCT	_	10	punct	_	_
+
+# sent_id = 499
+# text = వీటికి మార్కెట్లో డిమాండ్ ఎక్కువగా ఉంటుంది .
+1	వీటికి	ఇది	PRON	PRON	_	5	obl	_	_
+2	మార్కెట్లో	మార్కెట్టు	NOUN	NOUN	_	5	obl:loc	_	_
+3	డిమాండ్	డిమాండ్	NOUN	NOUN	_	5	nsubj	_	_
+4	ఎక్కువగా	ఎక్కువ	ADV	ADV	_	5	advmod	_	_
+5	ఉంటుంది	ఉండు	VERB	VERB	_	0	root	_	_
+6	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = 500
+# text = ఈనేపధ్యంలో ఈ నేపధ్యంలో ఇరు తెలుగు రాష్ట్రాల రైతులు ప్రణాళిక ప్రకారం పొట్లకాయలను పండిస్తున్నారు .
+1-2	ఈనేపధ్యంలో	_	_	-	_	_	_	_	_
+1	ఈ	ఈ	DET	DET	_	2	det	_	_
+2	నేపధ్యంలో	నేపధ్యం	NOUN	NOUN	_	10	obl	_	_
+3	ఇరు	ఇరు	PRON	PRON	_	5	nmod	_	_
+4	తెలుగు	తెలుగు	NOUN	NOUN	_	5	nmod	_	_
+5	రాష్ట్రాల	రాష్ట్రం	NOUN	NOUN	_	6	nmod	_	_
+6	రైతులు	రైతు	NOUN	NOUN	_	10	nsubj	_	_
+7	ప్రణాళిక	ప్రణాళిక	NOUN	NOUN	_	10	obl	_	_
+8	ప్రకారం	ప్రకారం	ADP	ADP	_	7	case	_	_
+9	పొట్లకాయలను	పొట్లకాయ	NOUN	NOUN	_	10	obj	_	_
+10	పండిస్తున్నారు	పండించు	VERB	VERB	_	0	root	_	_
+11	.	.	PUNCT	PUNCT	_	10	punct	_	_
+
+# sent_id = 501
+# text = ఖర్చులు పోను ఎకరానికి 2-2.50లక్షల 2-2.50 లక్షల లాభం వస్తుందని వస్తుంది అని రైతులు అంటున్నారు .
+1	ఖర్చులు	ఖర్చు	NOUN	NOUN	_	2	nsubj	_	_
+2	పోను	పో	VERB	VERB	_	7	advcl	_	_
+3	ఎకరానికి	ఎకరం	NOUN	NOUN	_	7	obl	_	_
+4-5	2-2.50లక్షల	_	_	-	_	_	_	_	_
+4	2-2.50	2-2.50	NUM	NUM	_	5	nummod	_	_
+5	లక్షల	లక్ష	NOUN	NOUN	_	6	nmod	_	_
+6	లాభం	లాభం	NOUN	NOUN	_	7	nsubj	_	_
+7-8	వస్తుందని	_	_	_	_	_	_	_	_
+7	వస్తుంది	వచ్చు	VERB	VERB	_	10	advcl	_	_
+8	అని	అను	PART	PART	_	7	mark	_	_
+9	రైతులు	రైతు	NOUN	NOUN	_	10	nsubj	_	_
+10	అంటున్నారు	అను	VERB	VERB	_	0	root	_	_
+11	.	.	PUNCT	PUNCT	_	10	punct	_	_
+
+# sent_id = 502
+# text = ఉద్యానశాఖ రాయితీ :
+1	ఉద్యానశాఖ	ఉద్యానశాఖ	NOUN	NOUN	_	2	nmod	_	_
+2	రాయితీ	రాయితి	NOUN	NOUN	_	0	root	_	_
+3	:	:	PUNCT	PUNCT	_	2	punct	_	_
+
+# sent_id = 503
+# text = ముఖ్యంగా పొట్లకాయను సాగుచేసేటప్పుడు సాగు చేసేటప్పుడు నేలను మల్చింగ్ చేసుకోవాలి .
+1	ముఖ్యంగా	ముఖ్యం	ADV	ADV	_	7	advmod	_	_
+2	పొట్లకాయను	పొట్లకాయ	NOUN	NOUN	_	4	obj	_	_
+3-4	సాగుచేసేటప్పుడు	_	_	-	_	_	_	_	_
+3	సాగు	సాగు	NOUN	NOUN	_	4	compound	_	_
+4	చేసేటప్పుడు	చెయ్యి	VERB	VERB	_	7	advcl	_	_
+5	నేలను	నేల	NOUN	NOUN	_	7	obj	_	_
+6	మల్చింగ్	మల్చింగ్	NOUN	NOUN	_	7	nsubj	_	_
+7	చేసుకోవాలి	చేసుకో	VERB	VERB	_	0	root	_	_
+8	.	.	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = 504
+# text = అంతేకాకుండా నాలుగు వైపుల డ్రిప్ ను ఏర్పాటు చేసుకుంటే తక్కువ నీటితో ఎక్కువ అద్బుతమైన లాభాలను పొందవచ్చు .
+1	అంతేకాకుండా	అంతేకాకుండా	ADV	ADV	_	13	advmod	_	_
+2	నాలుగు	నాలుగు	NUM	NUM	_	3	nummod	_	_
+3	వైపుల	వైపు	NOUN	NOUN	_	4	nmod	_	_
+4	డ్రిప్	డ్రిప్	NOUN	NOUN	_	7	obj	_	_
+5	ను	ను	ADP	ADP	_	4	case	_	_
+6	ఏర్పాటు	ఏర్పాటు	NOUN	NOUN	_	7	compound	_	_
+7	చేసుకుంటే	చేసుకో	VERB	VERB	_	13	advcl	_	_
+8	తక్కువ	తక్కువ	ADJ	ADJ	_	9	amod	_	_
+9	నీటితో	నీరు	NOUN	NOUN	_	13	obl	_	_
+10	ఎక్కువ	ఎక్కువ	ADV	ADV	_	11	advmod	_	_
+11	అద్బుతమైన	అద్బుతమైన	ADJ	ADJ	_	12	amod	_	_
+12	లాభాలను	లాభం	NOUN	NOUN	_	13	obl	_	_
+13	పొందవచ్చు	పొందు	VERB	VERB	_	0	root	_	_
+14	.	.	PUNCT	PUNCT	_	13	punct	_	_
+
+# sent_id = 505
+# text = ఈవిధంగా ఈ విధంగా మనం పొట్లకాయను సాగుచేసుకుంటే సాగు చేసుకుంటే రైతుకు స్థిరమైన ఆదాయం వస్తుంది .
+1-2	ఈవిధంగా	_	_	_	_	_	_	_	_
+1	ఈ	ఈ	DET	DET	_	3	det	_	_
+2	విధంగా	విధం	ADV	ADV	_	1	fixed	_	_
+3	మనం	మనం	PRON	PRON	_	6	nsubj	_	_
+4	పొట్లకాయను	పొట్లకాయ	NOUN	NOUN	_	6	obj	_	_
+5-6	సాగుచేసుకుంటే	_	_	_	_	_	_	_	_
+5	సాగు	సాగు	NOUN	NOUN	_	6	compound	_	_
+6	చేసుకుంటే	చేసుకో	VERB	VERB	_	10	advcl	_	_
+7	రైతుకు	రైతు	NOUN	NOUN	_	10	obl	_	_
+8	స్థిరమైన	స్థిరం	ADJ	ADJ	_	9	amod	_	_
+9	ఆదాయం	ఆదాయం	NOUN	NOUN	_	10	nsubj	_	_
+10	వస్తుంది	వచ్చు	VERB	VERB	_	0	root	_	_
+11	.	.	PUNCT	PUNCT	_	10	punct	_	_
+
+# sent_id = 506
+# text = ఈ శాశ్వత పందిర్ల ద్వారా సంవత్సరమంతా సంవత్సరం అంతా అనగా 365 రోజులు దిగుబడులను తీయవచ్చు .
+1	ఈ	ఈ	DET	DET	_	2	det	_	_
+2	శాశ్వత	శాశ్వతం	NOUN	NOUN	_	3	nmod	_	_
+3	పందిర్ల	పందిరి	NOUN	NOUN	_	11	obl	_	_
+4	ద్వారా	ద్వారా	ADP	ADP	_	3	case	_	_
+5-6	సంవత్సరమంతా	_	_	_	_	_	_	_	_
+5	సంవత్సరం	సంవత్సరం	NOUN	NOUN	_	11	obl	_	_
+6	అంతా	అంతా	ADP	ADP	_	5	case	_	_
+7	అనగా	అనగా	ADV	ADV	_	11	advmod	_	_
+8	365	365	NUM	NUM	_	9	nummod	_	_
+9	రోజులు	రోజు	NOUN	NOUN	_	11	obl	_	_
+10	దిగుబడులను	దిగుబడి	NOUN	NOUN	_	11	obj	_	_
+11	తీయవచ్చు	తియ్యి	VERB	VERB	_	0	root	_	_
+12	.	.	PUNCT	PUNCT	_	11	punct	_	_
+
+# sent_id = 507
+# text = మార్కెట్ లో పొట్లకాయకు గిరాకి ఎక్కువగా ఉంటుంది కాబట్టి రైతులు ఆ పంటపై ఆసక్తి కనబరుస్తున్నారు .
+1	మార్కెట్	మార్కెట్	NOUN	NOUN	_	6	obl	_	_
+2	లో	లో	ADP	ADP	_	1	case	_	_
+3	పొట్లకాయకు	పొట్లకాయ	NOUN	NOUN	_	6	obl	_	_
+4	గిరాకి	గిరాకి	NOUN	NOUN	_	6	nsubj	_	_
+5	ఎక్కువగా	ఎక్కువ	ADV	ADV	_	6	advmod	_	_
+6	ఉంటుంది	ఉండు	VERB	VERB	_	12	advcl	_	_
+7	కాబట్టి	అవ్వు	SCONJ	SCONJ	_	6	mark	_	_
+8	రైతులు	రైతు	NOUN	NOUN	_	12	nsubj	_	_
+9	ఆ	ఆ	DET	DET	_	10	det	_	_
+10	పంటపై	పంట	NOUN	NOUN	_	12	obl	_	_
+11	ఆసక్తి	ఆసక్తి	NOUN	NOUN	_	12	obj	_	_
+12	కనబరుస్తున్నారు	కనబరువు	VERB	VERB	_	0	root	_	_
+13	.	.	PUNCT	PUNCT	_	12	punct	_	_
+
+# sent_id = 508
+# text = అంతేకాకుండా పెట్టుబడి కూడా చాలా తక్కువగా ఉండడంతో రైతులు ఈ పంట వేయడానికి ముందుకు వస్తున్నారు .
+1	అంతేకాకుండా	అంతేకాకుండా	ADV	ADV	_	12	advmod	_	_
+2	పెట్టుబడి	పెట్టుబడి	NOUN	NOUN	_	6	nsubj	_	_
+3	కూడా	కూడా	PART	PART	_	2	mark	_	_
+4	చాలా	చాలు	ADJ	ADJ	_	5	amod	_	_
+5	తక్కువగా	తక్కువ	ADV	ADV	_	6	advmod	_	_
+6	ఉండడంతో	ఉండడం	NOUN	NOUN	_	10	advcl	_	_
+7	రైతులు	రైతు	NOUN	NOUN	_	10	nsubj	_	_
+8	ఈ	ఈ	DET	DET	_	9	det	_	_
+9	పంట	పంట	NOUN	NOUN	_	10	obj	_	_
+10	వేయడానికి	వేయడం	NOUN	NOUN	_	12	advcl	_	_
+11	ముందుకు	ముందుకు	ADV	ADV	_	12	advmod	_	_
+12	వస్తున్నారు	వచ్చు	VERB	VERB	_	0	root	_	_
+13	.	.	PUNCT	PUNCT	_	12	punct	_	_
+
+# sent_id = 509
+# text = పందిరికి , డ్రిప్ కు ఉద్యానశాఖ రైతులకు రాయితీలతో ఇవ్వడంతో పాటు అధికారులు అవగాహన కల్పిస్తున్నారు .
+1	పందిరికి	పందిరి	NOUN	NOUN	_	8	obl	_	_
+2	,	,	PUNCT	PUNCT	_	1	punct	_	_
+3	డ్రిప్	డ్రిప్	NOUN	NOUN	_	1	conj	_	_
+4	కు	కు	ADP	ADP	_	3	case	_	_
+5	ఉద్యానశాఖ	ఉద్యానశాఖ	NOUN	NOUN	_	6	nmod	_	_
+6	రైతులకు	రైతు	NOUN	NOUN	_	8	obl	_	_
+7	రాయితీలతో	రాయితీ	NOUN	NOUN	_	8	obl	_	_
+8	ఇవ్వడంతో	ఇవ్వడం	NOUN	NOUN	_	12	advcl	_	_
+9	పాటు	పాటు	ADP	ADP	_	8	case	_	_
+10	అధికారులు	అధికారి	NOUN	NOUN	_	12	nsubj	_	_
+11	అవగాహన	అవగాహన	NOUN	NOUN	_	12	obj	_	_
+12	కల్పిస్తున్నారు	కల్పించు	VERB	VERB	_	0	root	_	_
+13	.	.	PUNCT	PUNCT	_	12	punct	_	_
+
+# sent_id = 510
+# text = ఒక నిర్ధిష్టమైన పద్ధతిలో మొక్కలను , జంతువులను పెంచి , పోషించి తద్వారా ఆహారాన్ని , మేత , నార , ఇంధనాన్ని ఉత్పత్తి చేయటాన్ని వ్యవసాయం లేదా కృషి అంటారు .
+1	ఒక	ఒక	DET	DET	_	3	det	_	_
+2	నిర్ధిష్టమైన	నిర్ధిష్టమైన	ADJ	ADJ	_	3	amod	_	_
+3	పద్ధతిలో	పద్ధతి	NOUN	NOUN	_	7	obl	_	_
+4	మొక్కలను	మొక్క	NOUN	NOUN	_	7	obj	_	_
+5	,	,	PUNCT	PUNCT	_	4	punct	_	_
+6	జంతువులను	జంతువు	NOUN	NOUN	_	4	conj	_	_
+7	పెంచి	పెంచు	VERB	VERB	_	19	advcl	_	_
+8	,	,	PUNCT	PUNCT	_	7	punct	_	_
+9	పోషించి	పోషించు	VERB	VERB	_	7	conj	_	_
+10	తద్వారా	తద్వారా	SCONJ	SCONJ	_	9	mark	_	_
+11	ఆహారాన్ని	ఆహారం	NOUN	NOUN	_	19	obj	_	_
+12	,	,	PUNCT	PUNCT	_	11	punct	_	_
+13	మేత	మేత	NOUN	NOUN	_	11	conj	_	_
+14	,	,	PUNCT	PUNCT	_	13	punct	_	_
+15	నార	నార	NOUN	NOUN	_	11	conj	_	_
+16	,	,	PUNCT	PUNCT	_	15	punct	_	_
+17	ఇంధనాన్ని	ఇంధనం	NOUN	NOUN	_	11	conj	_	_
+18	ఉత్పత్తి	ఉత్పత్తి	NOUN	NOUN	_	19	compound	_	_
+19	చేయటాన్ని	చేయటం	NOUN	NOUN	_	23	ccomp	_	_
+20	వ్యవసాయం	వ్యవసాయం	NOUN	NOUN	_	23	nsubj	_	_
+21	లేదా	లేదా	CCONJ	CCONJ	_	22	cc	_	_
+22	కృషి	కృషి	NOUN	NOUN	_	20	conj	_	_
+23	అంటారు	అను	VERB	VERB	_	0	root	_	_
+24	.	.	PUNCT	PUNCT	_	23	punct	_	_
+
+# sent_id = 511
+# text = వ్యవసాయం చరిత్ర మానవ చరిత్రలో అతి పెద్ద అంశం .
+1	వ్యవసాయం	వ్యవసాయం	NOUN	NOUN	_	2	compound	_	_
+2	చరిత్ర	చరిత్ర	NOUN	NOUN	_	7	nsubj	_	_
+3	మానవ	మానవుడు	NOUN	NOUN	_	4	compound	_	_
+4	చరిత్రలో	చరిత్ర	NOUN	NOUN	_	7	obl	_	_
+5	అతి	అతి	ADV	ADV	_	6	advmod	_	_
+6	పెద్ద	పెద్ద	ADJ	ADJ	_	7	amod	_	_
+7	అంశం	అంశం	NOUN	NOUN	_	0	root	_	_
+8	.	.	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = 512
+# text = ప్రపంచవ్యాప్త సామాజిక ఆర్థిక ప్రగతిలో వ్యవసాయభివృద్ధి వ్యవసాయ అభివృద్ధి ఒక కీలకాంశం .
+1	ప్రపంచవ్యాప్త	ప్రపంచవ్యాప్త	ADJ	ADJ	_	4	amod	_	_
+2	సామాజిక	సామాజిక	ADJ	ADJ	_	4	amod	_	_
+3	ఆర్థిక	ఆర్థిక	ADJ	ADJ	_	4	amod	_	_
+4	ప్రగతిలో	ప్రగతి	NOUN	NOUN	_	8	obl	_	_
+5-6	వ్యవసాయభివృద్ధి	_	_	_	_	_	_	_	_
+5	వ్యవసాయ	వ్యవసాయం	NOUN	NOUN	_	6	compound	_	_
+6	అభివృద్ధి	అభివృద్ధి	NOUN	NOUN	_	8	nsubj	_	_
+7	ఒక	ఒక	DET	DET	_	8	det	_	_
+8	కీలకాంశం	కీలకాంశం	NOUN	NOUN	_	0	root	_	_
+9	.	.	PUNCT	PUNCT	_	8	punct	_	_
+
+# sent_id = 513
+# text = వేటాడటం ద్వారా ఆహార సముపార్జన చేసుకొనే స్థితిలో ఉన్న సంస్కృతులలో కనిపించని సంపద సమకూర్చుకోవటం , సైనిక కలాపాలవంటి కలాపాల వంటి ప్రత్యేకతలు వ్యవసాయం అభివృద్ధి చెందటంతోనే ప్రారంభమంఅయ్యాయి ప్రారంభం అయ్యాయి .
+1	వేటాడటం	వేటాడటం	NOUN	NOUN	_	5	obl	_	_
+2	ద్వారా	ద్వారా	ADP	ADP	_	1	case	_	_
+3	ఆహార	ఆహారం	NOUN	NOUN	_	4	compound	_	_
+4	సముపార్జన	సముపార్జనం	NOUN	NOUN	_	5	obj	_	_
+5	చేసుకొనే	చేసుకో	VERB	VERB	_	6	acl	_	_
+6	స్థితిలో	స్థితి	NOUN	NOUN	_	7	obl	_	_
+7	ఉన్న	ఉండు	VERB	VERB	_	8	acl	_	_
+8	సంస్కృతులలో	సంస్కృతి	NOUN	NOUN	_	9	obl	_	_
+9	కనిపించని	కనిపించు	VERB	VERB	_	10	acl	_	_
+10	సంపద	సంపద	NOUN	NOUN	_	11	obj	_	_
+11	సమకూర్చుకోవటం	సమకూర్చుకో	NOUN	NOUN	_	19	nsubj	_	_
+12	,	,	PUNCT	PUNCT	_	11	punct	_	_
+13	సైనిక	సైనికుడు	NOUN	NOUN	_	14	compound	_	_
+14-15	కలాపాలవంటి	_	_	_	_	_	_	_	_
+14	కలాపాల	కలాపం	NOUN	NOUN	_	19	obl	_	_
+15	వంటి	వంటి	ADP	ADP	_	14	case	_	_
+16	ప్రత్యేకతలు	ప్రత్యేకత	NOUN	NOUN	_	11	conj	_	_
+17	వ్యవసాయం	వ్యవసాయం	NOUN	NOUN	_	21	nsubj	_	_
+18	అభివృద్ధి	అభివృద్ధి	NOUN	NOUN	_	19	compound	_	_
+19	చెందటంతోనే	చెందటంతోనే	NOUN	NOUN	_	21	ccomp	_	_
+20-21	ప్రారంభమంఅయ్యాయి	_	_	_	_	_	_	_	_
+20	ప్రారంభం	ప్రారంభం	NOUN	NOUN	_	21	compound	_	_
+21	అయ్యాయి	అవ్వు	VERB	VERB	_	0	root	_	_
+22	.	.	PUNCT	PUNCT	_	21	punct	_	_
+
+# sent_id = 514
+# text = సమాజంలోని కొందరు రైతులు తమ కుటుంబ ఆహార అవసరాలకు మించి పండిచటం ప్రారంభించడంతో తెగ / జాతి / రాజ్యంలోని మిగిలిన వ్యక్తులకు ఇతర వ్యాపకాలను పోషించే వెసులుబాటునిచ్చింది వెసులుబాటును ఇచ్చింది .
+1	సమాజంలోని	సమాజం	NOUN	NOUN	_	9	obl	_	_
+2	కొందరు	కొందరు	PRON	PRON	_	3	nmod	_	_
+3	రైతులు	రైతు	NOUN	NOUN	_	9	nsubj	_	_
+4	తమ	తాము	PRON	PRON	_	5	nmod:poss	_	_
+5	కుటుంబ	కుటుంబం	NOUN	NOUN	_	6	compound	_	_
+6	ఆహార	ఆహారం	NOUN	NOUN	_	7	compound	_	_
+7	అవసరాలకు	అవసరం	NOUN	NOUN	_	9	obl	_	_
+8	మించి	మించు	ADP	ADP	_	7	case	_	_
+9	పండిచటం	పండిచటం	NOUN	NOUN	_	10	obj	_	_
+10	ప్రారంభించడంతో	ప్రారంభించడం	NOUN	NOUN	_	22	ccomp	_	_
+11	తెగ	తెగ	NOUN	NOUN	_	20	obl	_	_
+12	/	/	PUNCT	PUNCT	_	11	punct	_	_
+13	జాతి	జాతి	NOUN	NOUN	_	11	conj	_	_
+14	/	/	PUNCT	PUNCT	_	13	punct	_	_
+15	రాజ్యంలోని	రాజ్యం	NOUN	NOUN	_	11	conj	_	_
+16	మిగిలిన	మిగిలిన	ADJ	ADJ	_	17	amod	_	_
+17	వ్యక్తులకు	వ్యక్తి	NOUN	NOUN	_	20	obl	_	_
+18	ఇతర	ఇతర	ADJ	ADJ	_	19	amod	_	_
+19	వ్యాపకాలను	వ్యాపకం	NOUN	NOUN	_	20	obj	_	_
+20	పోషించే	పోషించు	VERB	VERB	_	21	acl	_	_
+21-22	వెసులుబాటునిచ్చింది	_	_	_	_	_	_	_	_
+21	వెసులుబాటును	వెసులుబాటు	NOUN	NOUN	_	22	obj	_	_
+22	ఇచ్చింది	ఇవ్వు	VERB	VERB	_	0	root	_	_
+23	.	.	PUNCT	PUNCT	_	22	punct	_	_
+
+# sent_id = 515
+# text = ప్రపంచం లోని శ్రామికులలో 42 % మంది వ్యవసాయ రంగములో పనిచేస్తున్నారు అందుచేత వ్యవసాయం , ప్రపంచం లోనే అధిక శాతం ప్రజల వృత్తి .
+1	ప్రపంచం	ప్రపంచం	NOUN	NOUN	_	3	nmod:poss	_	_
+2	లోని	లోని	ADP	ADP	_	1	case	_	_
+3	శ్రామికులలో	శ్రామికుడు	NOUN	NOUN	_	9	obl	_	_
+4	42	42	NUM	NUM	_	6	nummod	_	_
+5	%	%	SYM	SYM	_	6	mark	_	_
+6	మంది	మంది	PRON	PRON	_	9	nsubj	_	_
+7	వ్యవసాయ	వ్యవసాయం	NOUN	NOUN	_	8	compound	_	_
+8	రంగములో	రంగము	NOUN	NOUN	_	9	obl	_	_
+9	పనిచేస్తున్నారు	పనిచెయ్యి	VERB	VERB	_	0	root	_	_
+10	అందుచేత	అందుచేత	SCONJ	SCONJ	_	9	mark	_	_
+11	వ్యవసాయం	వ్యవసాయం	NOUN	NOUN	_	18	nsubj	_	_
+12	,	,	PUNCT	PUNCT	_	11	punct	_	_
+13	ప్రపంచం	ప్రపంచం	NOUN	NOUN	_	18	obl	_	_
+14	లోనే	లోనే	ADP	ADP	_	13	case	_	_
+15	అధిక	అధిక	ADJ	ADJ	_	16	amod	_	_
+16	శాతం	శాతం	NOUN	NOUN	_	18	obl	_	_
+17	ప్రజల	ప్రజల	NOUN	NOUN	_	18	nmod	_	_
+18	వృత్తి	వృత్తి	NOUN	NOUN	_	9	conj	_	_
+19	.	.	PUNCT	PUNCT	_	9	punct	_	_
+
+# sent_id = 516
+# text = అయితే వ్యవసాయ ఉత్పత్తి ప్రపంచ ఉత్పాదనలో ( అన్ని దేశాల సమష్టి ఉత్పాదనల కూడిక ) కేవలం 5 % మాత్రమే .
+1	అయితే	అవ్వు	CCONJ	CCONJ	_	14	cc	_	_
+2	వ్యవసాయ	వ్యవసాయ	NOUN	NOUN	_	3	compound	_	_
+3	ఉత్పత్తి	ఉత్పత్తి	NOUN	NOUN	_	14	nsubj	_	_
+4	ప్రపంచ	ప్రపంచ	ADJ	ADJ	_	5	amod	_	_
+5	ఉత్పాదనలో	ఉత్పాదన	NOUN	NOUN	_	14	obl	_	_
+6	(	(	PUNCT	PUNCT	_	7	punct	_	_
+7	అన్ని	అన్ని	DET	DET	_	8	det	_	_
+8	దేశాల	దేశం	NOUN	NOUN	_	10	nmod	_	_
+9	సమష్టి	సమష్టి	ADJ	ADJ	_	10	amod	_	_
+10	ఉత్పాదనల	ఉత్పాదన	NOUN	NOUN	_	11	nmod	_	_
+11	కూడిక	కూడిక	NOUN	NOUN	_	5	appos	_	_
+12	)	)	PUNCT	PUNCT	_	11	punct	_	_
+13	కేవలం	కేవలం	PART	PART	_	14	amod	_	_
+14	5	5	NUM	NUM	_	0	root	_	_
+15	%	%	SYM	SYM	_	14	mark	_	_
+16	మాత్రమే	మాత్రమే	PART	PART	_	14	advmod	_	_
+17	.	.	PUNCT	PUNCT	_	16	punct	_	_
+
+# sent_id = 517
+# text = ఆదిమ మానవులు మొదటగా జంతువుల మాంసం , దుంపలు , కాయలు , పండ్లు మొదలైన వాటిని ఆహారంగా తీసుకునేవారు .
+1	ఆదిమ	ఆదిమ	ADJ	ADJ	_	2	compound	_	_
+2	మానవులు	మానవుడు	NOUN	NOUN	_	15	nsubj	_	_
+3	మొదటగా	మొదటగా	ADV	ADV	_	15	advmod	_	_
+4	జంతువుల	జంతువు	NOUN	NOUN	_	5	nmod	_	_
+5	మాంసం	మాంసం	NOUN	NOUN	_	15	obj	_	_
+6	,	,	PUNCT	PUNCT	_	5	punct	_	_
+7	దుంపలు	దుంప	NOUN	NOUN	_	5	conj	_	_
+8	,	,	PUNCT	PUNCT	_	7	punct	_	_
+9	కాయలు	కాయ	NOUN	NOUN	_	5	conj	_	_
+10	,	,	PUNCT	PUNCT	_	9	punct	_	_
+11	పండ్లు	పండు	NOUN	NOUN	_	5	conj	_	_
+12	మొదలైన	మొదలైన	ADJ	ADJ	_	13	amod	_	_
+13	వాటిని	అది	PRON	PRON	_	5	conj	_	_
+14	ఆహారంగా	ఆహారం	ADV	ADV	_	15	advmod	_	_
+15	తీసుకునేవారు	తీసుకో	VERB	VERB	_	0	root	_	_
+16	.	.	PUNCT	PUNCT	_	15	punct	_	_
+
+# sent_id = 518
+# text = కొంత కాలమైన తర్వాత నెమ్మదిగా వ్యవసాయ పద్ధతులు నేర్చుకుని కొద్ది మొత్తంలో ఆహారాన్ని ఉత్పత్తి చేయడం నేర్చుకున్నారు .
+1	కొంత	కొంత	ADJ	ADJ	_	2	amod	_	_
+2	కాలమైన	కాలం	NOUN	NOUN	_	7	obl	_	_
+3	తర్వాత	తర్వాత	ADP	ADP	_	2	case	_	_
+4	నెమ్మదిగా	నెమ్మది	ADV	ADV	_	7	advmod	_	_
+5	వ్యవసాయ	వ్యవసాయం	NOUN	NOUN	_	6	compound	_	_
+6	పద్ధతులు	పద్ధతి	NOUN	NOUN	_	7	obj	_	_
+7	నేర్చుకుని	నేర్చుకో	VERB	VERB	_	13	advcl	_	_
+8	కొద్ది	కొద్ది	ADJ	ADJ	_	9	amod	_	_
+9	మొత్తంలో	మొత్తం	NOUN	NOUN	_	12	obl	_	_
+10	ఆహారాన్ని	ఆహారం	NOUN	NOUN	_	12	obj	_	_
+11	ఉత్పత్తి	ఉత్పత్తి	NOUN	NOUN	_	12	compound	_	_
+12	చేయడం	చేయడం	NOUN	NOUN	_	13	ccomp	_	_
+13	నేర్చుకున్నారు	నేర్చుకో	VERB	VERB	_	0	root	_	_
+14	.	.	PUNCT	PUNCT	_	13	punct	_	_
+
+# sent_id = 519
+# text = ఆధునిక పురాతత్వ శాస్త్రవేత్తల పరిశోధన ప్రకారం పప్పుదినుసులు మొదలైన ఆహార పదార్థాలు , పశుపోషణ మొదలైన వృత్తులు సా . శ. పూ 7000 లోనే మధ్యధరా ప్రాంతానికి చెందిన దేశాల్లో బాగా వ్యాప్తి చెంది ఉండేవి .
+1	ఆధునిక	ఆధునిక	ADJ	ADJ	_	2	amod	_	_
+2	పురాతత్వ	పురాతత్వ	NOUN	NOUN	_	3	compound	_	_
+3	శాస్త్రవేత్తల	శాస్త్రవేత్త	NOUN	NOUN	_	4	nmod	_	_
+4	పరిశోధన	పరిశోధన	NOUN	NOUN	_	26	obl	_	_
+5	ప్రకారం	ప్రకారం	ADP	ADP	_	4	case	_	_
+6	పప్పుదినుసులు	పప్పుదినుసులు	NOUN	NOUN	_	9	nmod	_	_
+7	మొదలైన	మొదలైన	ADJ	ADJ	_	9	amod	_	_
+8	ఆహార	ఆహారం	NOUN	NOUN	_	9	compound	_	_
+9	పదార్థాలు	పదార్థం	NOUN	NOUN	_	26	nsubj	_	_
+10	,	,	PUNCT	PUNCT	_	9	punct	_	_
+11	పశుపోషణ	పశుపోషణ	NOUN	NOUN	_	13	nmod	_	_
+12	మొదలైన	మొదలైన	ADJ	ADJ	_	13	amod	_	_
+13	వృత్తులు	వృత్తి	NOUN	NOUN	_	9	conj	_	_
+14	సా	స	NOUN	NOUN	_	16	compound	_	_
+15	.	.	PUNCT	PUNCT	_	14	punct	_	_
+16	శ.	శ.	NOUN	NOUN	_	17	compound	_	_
+17	పూ	పూ	NOUN	NOUN	_	26	obl	_	_
+18	7000	7000	NUM	NUM	_	17	nummod	_	_
+19	లోనే	లోనే	ADP	ADP	_	18	case	_	_
+20	మధ్యధరా	మధ్యధరా	PROPN	PROPN	_	21	compound	_	_
+21	ప్రాంతానికి	ప్రాంతం	NOUN	NOUN	_	23	nmod	_	_
+22	చెందిన	చెందు	VERB	VERB	_	23	acl	_	_
+23	దేశాల్లో	దేశం	NOUN	NOUN	_	26	obl	_	_
+24	బాగా	బాగా	ADJ	ADJ	_	25	amod	_	_
+25	వ్యాప్తి	వ్యాప్తి	NOUN	NOUN	_	26	compound	_	_
+26	చెంది	చెందు	VERB	VERB	_	0	root	_	_
+27	ఉండేవి	ఉండేది	AUX	AUX	_	26	aux	_	_
+28	.	.	PUNCT	PUNCT	_	26	punct	_	_
+
+# sent_id = 520
+# text = సా . శ . పూ 3000 నాటికి ఈజిప్షియన్లు , మెసపుటేమియన్లు పెద్ద ఎత్తున వ్యవసాయ పద్ధుతులు , ఎరువుల వాడకం , సాగునీటి పద్ధతులు చేపట్టారు .
+1	సా	స	NOUN	NOUN	_	3	compound	_	_
+2	.	.	PUNCT	PUNCT	_	1	punct	_	_
+3	శ	శ	NOUN	NOUN	_	5	compound	_	_
+4	.	.	PUNCT	PUNCT	_	3	punct	_	_
+5	పూ	పూ	NOUN	NOUN	_	6	nmod	_	_
+6	3000	3000	NUM	NUM	_	7	nummod	_	_
+7	నాటికి	నాడు	NOUN	NOUN	_	21	obl	_	_
+8	ఈజిప్షియన్లు	ఈజిప్షియన్	PROPN	PROPN	_	21	nsubj	_	_
+9	,	,	PUNCT	PUNCT	_	8	punct	_	_
+10	మెసపుటేమియన్లు	మెసపుటేమియన్	PROPN	PROPN	_	8	conj	_	_
+11	పెద్ద	పెద్ద	ADJ	ADJ	_	12	amod	_	_
+12	ఎత్తున	ఎత్తు	NOUN	NOUN	_	21	obl	_	_
+13	వ్యవసాయ	వ్యవసాయం	NOUN	NOUN	_	14	nmod	_	_
+14	పద్ధుతులు	పద్ధుతులు	NOUN	NOUN	_	21	obj	_	_
+15	,	,	PUNCT	PUNCT	_	14	punct	_	_
+16	ఎరువుల	ఎరువు	NOUN	NOUN	_	17	nmod	_	_
+17	వాడకం	వాడకం	NOUN	NOUN	_	13	conj	_	_
+18	,	,	PUNCT	PUNCT	_	17	punct	_	_
+19	సాగునీటి	సాగునీరు	NOUN	NOUN	_	20	nmod	_	_
+20	పద్ధతులు	పద్ధతి	NOUN	NOUN	_	13	conj	_	_
+21	చేపట్టారు	చేపట్టు	VERB	VERB	_	0	root	_	_
+22	.	.	PUNCT	PUNCT	_	21	punct	_	_
+
+# sent_id = 521
+# text = భారతదేశంలో వ్యవసాయ ఉత్పాదకత తక్కువగా ఉండటానికి ఒక కారణం వ్యవసాయంలో పురాతన పద్ధతులు పాటించడం .
+1	భారతదేశంలో	భారతదేశం	PROPN	PROPN	_	7	obl	_	_
+2	వ్యవసాయ	వ్యవసాయం	NOUN	NOUN	_	3	nmod	_	_
+3	ఉత్పాదకత	ఉత్పాదక	NOUN	NOUN	_	5	nsubj	_	_
+4	తక్కువగా	తక్కువ	ADV	ADV	_	5	advmod	_	_
+5	ఉండటానికి	ఉండటం	NOUN	NOUN	_	7	acl	_	_
+6	ఒక	ఒక	NUM	NUM	_	7	nummod	_	_
+7	కారణం	కారణం	NOUN	NOUN	_	11	csubj	_	_
+8	వ్యవసాయంలో	వ్యవసాయం	NOUN	NOUN	_	11	obl	_	_
+9	పురాతన	పురాతన	ADJ	ADJ	_	10	amod	_	_
+10	పద్ధతులు	పద్ధతి	NOUN	NOUN	_	11	nmod	_	_
+11	పాటించడం	పాటించడం	NOUN	NOUN	_	0	root	_	_
+12	.	.	PUNCT	PUNCT	_	11	punct	_	_
+
+# sent_id = 522
+# text = వ్యవసాయంలో యాంత్రీకరణం ప్రవేశపెట్టి ఆహార ధాన్యాల ఉత్పాదకతలను పెంచే నిమిత్తమై మూడో ప్రణాళికా కాలం నుంచే ప్రభుత్వం చర్యలు చేపట్టింది .
+1	వ్యవసాయంలో	వ్యవసాయం	NOUN	NOUN	_	3	obl	_	_
+2	యాంత్రీకరణం	యాంత్రీకరణం	NOUN	NOUN	_	3	obj	_	_
+3	ప్రవేశపెట్టి	ప్రవేశపెట్టు	VERB	VERB	_	7	csubj	_	_
+4	ఆహార	ఆహారం	NOUN	NOUN	_	5	compound	_	_
+5	ధాన్యాల	ధాన్యం	NOUN	NOUN	_	6	nmod	_	_
+6	ఉత్పాదకతలను	ఉత్పాదకత	NOUN	NOUN	_	7	obj	_	_
+7	పెంచే	పెంచు	VERB	VERB	_	8	acl	_	_
+8	నిమిత్తమై	నిమిత్తం	NOUN	NOUN	_	15	obl	_	_
+9	మూడో	మూడు	NUM	NUM	_	10	nummod	_	_
+10	ప్రణాళికా	ప్రణాళిక	NOUN	NOUN	_	11	compound	_	_
+11	కాలం	కాలం	NOUN	NOUN	_	15	obl	_	_
+12	నుంచే	నుంచే	ADP	ADP	_	11	case	_	_
+13	ప్రభుత్వం	ప్రభుత్వం	NOUN	NOUN	_	15	nsubj	_	_
+14	చర్యలు	చర్య	NOUN	NOUN	_	15	obj	_	_
+15	చేపట్టింది	చేపట్టు	VERB	VERB	_	0	root	_	_
+16	.	.	PUNCT	PUNCT	_	15	punct	_	_
+
+# sent_id = 523
+# text = ఆహార ధాన్యాల ఉత్పత్తిలో స్వయం సంవృద్ధిని సాధించడం ఈ ప్రణాళిక ముఖ్యోద్దేశం .
+1	ఆహార	ఆహారం	NOUN	NOUN	_	2	compound	_	_
+2	ధాన్యాల	ధాన్యం	NOUN	NOUN	_	3	nmod	_	_
+3	ఉత్పత్తిలో	ఉత్పత్తి	NOUN	NOUN	_	6	obl	_	_
+4	స్వయం	స్వయం	NOUN	NOUN	_	5	compound	_	_
+5	సంవృద్ధిని	సంవృద్ధి	NOUN	NOUN	_	6	obj	_	_
+6	సాధించడం	సాధించడం	NOUN	NOUN	_	9	csubj	_	_
+7	ఈ	ఈ	DET	DET	_	8	det	_	_
+8	ప్రణాళిక	ప్రణాళిక	NOUN	NOUN	_	9	obl	_	_
+9	ముఖ్యోద్దేశం	ముఖ్యోద్దేశం	NOUN	NOUN	_	0	root	_	_
+10	.	.	PUNCT	PUNCT	_	9	punct	_	_
+
+# sent_id = 524
+# text = భారతదేశంలో పంట కాలాన్ని మూడు విధాలుగా వర్గీకరించారు . అవి
+1	భారతదేశంలో	భారతదేశం	PROPN	PROPN	_	6	obl	_	_
+2	పంట	పంట	NOUN	NOUN	_	3	nmod	_	_
+3	కాలాన్ని	కాలం	NOUN	NOUN	_	6	obj	_	_
+4	మూడు	మూడు	NUM	NUM	_	5	nummod	_	_
+5	విధాలుగా	విధం	ADV	ADV	_	6	advmod	_	_
+6	వర్గీకరించారు	వర్గీకరించు	VERB	VERB	_	0	root	_	_
+7	.	.	PUNCT	PUNCT	_	6	punct	_	_
+8	అవి	అది	PRON	PRON	_	6	conj	_	_
+
+# sent_id = 525
+# text = ఖరీఫ్ పంట కాలం : జూన్ నెల నుంచి అక్టోబరు వరకు సాగయ్యే సాగు అయ్యే పంటలను ఖరీఫ్ పంటలు అంటారు .
+1	ఖరీఫ్	ఖరీఫ్	NOUN	NOUN	_	2	nmod	_	_
+2	పంట	పంట	NOUN	NOUN	_	3	compound	_	_
+3	కాలం	కాలం	NOUN	NOUN	_	0	root	_	_
+4	:	:	PUNCT	PUNCT	_	3	punct	_	_
+5	జూన్	జూన్	PROPN	PROPN	_	6	nmod	_	_
+6	నెల	నెల	NOUN	NOUN	_	11	obl	_	_
+7	నుంచి	నుంచి	ADP	ADP	_	6	case	_	_
+8	అక్టోబరు	అక్టోబర్	PROPN	PROPN	_	11	obl	_	_
+9	వరకు	వరకు	ADP	ADP	_	8	case	_	_
+10-11	సాగయ్యే	_	_	_	_	_	_	_	_
+10	సాగు	సాగు	NOUN	NOUN	_	11	compound	_	_
+11	అయ్యే	అవ్వు	VERB	VERB	_	12	acl	_	_
+12	పంటలను	పంట	NOUN	NOUN	_	15	obj	_	_
+13	ఖరీఫ్	ఖరీఫ్	NOUN	NOUN	_	14	compound	_	_
+14	పంటలు	పంట	NOUN	NOUN	_	15	nsubj	_	_
+15	అంటారు	అను	VERB	VERB	_	3	parataxis	_	_
+16	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = 526
+# text = ఈ కాలంలో పండే ప్రధానమైన పంటలు వరి , జొన్నలు , మొక్క జొన్న , పత్తి , చెరకు , నువ్వులు , సోయాబీన్ , వేరు శనగ .
+1	ఈ	ఈ	DET	DET	_	2	det	_	_
+2	కాలంలో	కాలం	NOUN	NOUN	_	5	obl	_	_
+3	పండే	పండు	VERB	VERB	_	5	acl	_	_
+4	ప్రధానమైన	ప్రధాన	ADJ	ADJ	_	5	amod	_	_
+5	పంటలు	పంట	NOUN	NOUN	_	0	root	_	_
+6	వరి	వరి	NOUN	NOUN	_	5	nsubj	_	_
+7	,	,	PUNCT	PUNCT	_	6	punct	_	_
+8	జొన్నలు	జొన్న	NOUN	NOUN	_	6	conj	_	_
+9	,	,	PUNCT	PUNCT	_	8	punct	_	_
+10	మొక్క	మొక్క	NOUN	NOUN	_	11	compound	_	_
+11	జొన్న	జొన్న	VERB	VERB	_	6	conj	_	_
+12	,	,	PUNCT	PUNCT	_	11	punct	_	_
+13	పత్తి	పత్తి	NOUN	NOUN	_	6	conj	_	_
+14	,	,	PUNCT	PUNCT	_	13	punct	_	_
+15	చెరకు	చెరకు	NOUN	NOUN	_	6	conj	_	_
+16	,	,	PUNCT	PUNCT	_	15	punct	_	_
+17	నువ్వులు	నువ్వు	NOUN	NOUN	_	6	conj	_	_
+18	,	,	PUNCT	PUNCT	_	17	punct	_	_
+19	సోయాబీన్	సోయాబీన్	NOUN	NOUN	_	6	conj	_	_
+20	,	,	PUNCT	PUNCT	_	19	punct	_	_
+21	వేరు	వేరు	NOUN	NOUN	_	22	compound	_	_
+22	శనగ	శనగ	NOUN	NOUN	_	6	conj	_	_
+23	.	.	PUNCT	PUNCT	_	6	punct	_	_
+
+# sent_id = 527
+# text = రబీ పంటకాలం పంట కాలం : అక్టోబరు నుంచి మార్చి , ఏప్రిల్ వరకు సాగయ్యే సాగు అయ్యే పంటలు _ గోధుమ , బార్లీ , మినుములు , ప్రొద్దు తిరుగుడు , ధనియాలు , ఆవాలు మొదలైనవి .
+1	రబీ	రబీ	NOUN	NOUN	_	2	nmod	_	_
+2-3	పంటకాలం	_	_	_	_	_	_	_	_
+2	పంట	పంట	NOUN	NOUN	_	3	compound	_	_
+3	కాలం	కాలం	NOUN	NOUN	_	0	root	_	_
+4	:	:	PUNCT	PUNCT	_	3	punct	_	_
+5	అక్టోబరు	అక్టోబర్	PROPN	PROPN	_	12	obl	_	_
+6	నుంచి	నుంచి	ADP	ADP	_	5	case	_	_
+7	మార్చి	మార్చి	PROPN	PROPN	_	12	obl	_	_
+8	,	,	PUNCT	PUNCT	_	7	punct	_	_
+9	ఏప్రిల్	ఏప్రిల్	PROPN	PROPN	_	7	conj	_	_
+10	వరకు	వరకు	ADP	ADP	_	9	case	_	_
+11-12	సాగయ్యే	_	_	_	_	_	_	_	_
+11	సాగు	సాగు	NOUN	NOUN	_	12	compound	_	_
+12	అయ్యే	అవ్వు	VERB	VERB	_	13	acl	_	_
+13	పంటలు	పంట	NOUN	NOUN	_	3	parataxis	_	_
+14	_	_	PUNCT	PUNCT	_	13	punct	_	_
+15	గోధుమ	గోధుమ	NOUN	NOUN	_	13	conj	_	_
+16	,	,	PUNCT	PUNCT	_	15	punct	_	_
+17	బార్లీ	బార్లీ	NOUN	NOUN	_	15	conj	_	_
+18	,	,	PUNCT	PUNCT	_	17	punct	_	_
+19	మినుములు	మినుము	NOUN	NOUN	_	15	conj	_	_
+20	,	,	PUNCT	PUNCT	_	19	punct	_	_
+21	ప్రొద్దు	ప్రొద్దు	NOUN	NOUN	_	22	compound	_	_
+22	తిరుగుడు	తిరుగుడు	NOUN	NOUN	_	15	conj	_	_
+23	,	,	PUNCT	PUNCT	_	22	punct	_	_
+24	ధనియాలు	ధనియం	NOUN	NOUN	_	15	conj	_	_
+25	,	,	PUNCT	PUNCT	_	24	punct	_	_
+26	ఆవాలు	ఆవం	NOUN	NOUN	_	15	conj	_	_
+27	మొదలైనవి	మొదలు	NOUN	NOUN	_	15	conj	_	_
+28	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = 528
+# text = జైద్ పంటకాలం పంట కాలం : మార్చి నుంచి జూన్ వరకు సాగయ్యే సాగు అయ్యే పంటలు _ పుచ్చకాయలు , దోస కాయలు , కూరగాయలు , మొదలైనవి .
+1	జైద్	జైద్	NOUN	NOUN	_	2	nmod	_	_
+2-3	పంటకాలం	_	_	_	_	_	_	_	_
+2	పంట	పంట	NOUN	NOUN	_	3	compound	_	_
+3	కాలం	కాలం	NOUN	NOUN	_	0	root	_	_
+4	:	:	PUNCT	PUNCT	_	3	punct	_	_
+5	మార్చి	మార్చి	PROPN	PROPN	_	10	obl	_	_
+6	నుంచి	నుంచి	ADP	ADP	_	5	case	_	_
+7	జూన్	జూన్	PROPN	PROPN	_	10	obl	_	_
+8	వరకు	వరకు	ADP	ADP	_	7	case	_	_
+9-10	సాగయ్యే	_	_	_	_	_	_	_	_
+9	సాగు	సాగు	NOUN	NOUN	_	10	compound	_	_
+10	అయ్యే	అవ్వు	VERB	VERB	_	11	acl	_	_
+11	పంటలు	పంట	NOUN	NOUN	_	3	parataxis	_	_
+12	_	_	PUNCT	PUNCT	_	11	punct	_	_
+13	పుచ్చకాయలు	పుచ్చకాయ	NOUN	NOUN	_	11	conj	_	_
+14	,	,	PUNCT	PUNCT	_	13	punct	_	_
+15	దోస	దోస	NOUN	NOUN	_	16	compound	_	_
+16	కాయలు	కాయ	NOUN	NOUN	_	13	conj	_	_
+17	,	,	PUNCT	PUNCT	_	16	punct	_	_
+18	కూరగాయలు	కూరగాయ	NOUN	NOUN	_	13	conj	_	_
+19	,	,	PUNCT	PUNCT	_	18	punct	_	_
+20	మొదలైనవి	మొదలు	NOUN	NOUN	_	13	conj	_	_
+21	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = 529
+# text = రాయలసీమలో పుచ్చకాయలు , దోసకాయలు డిసెంబర్ నుండి మార్చి వరకు సాగుచేస్తారు సాగు చేస్తారు .
+1	రాయలసీమలో	రాయలసీమ	PROPN	PROPN	_	10	obl	_	_
+2	పుచ్చకాయలు	పుచ్చకాయ	NOUN	NOUN	_	10	obj	_	_
+3	,	,	PUNCT	PUNCT	_	2	punct	_	_
+4	దోసకాయలు	దోసకాయ	NOUN	NOUN	_	2	conj	_	_
+5	డిసెంబర్	డిసెంబర్	PROPN	PROPN	_	10	obl	_	_
+6	నుండి	నుండి	ADP	ADP	_	5	case	_	_
+7	మార్చి	మార్చి	PROPN	PROPN	_	9	obl	_	_
+8	వరకు	వరకు	ADP	ADP	_	7	case	_	_
+9-10	సాగుచేస్తారు	_	_	_	_	_	_	_	_
+9	సాగు	సాగు	NOUN	NOUN	_	10	compound	_	_
+10	చేస్తారు	చెయ్యి	VERB	VERB	_	0	root	_	_
+11	.	.	PUNCT	PUNCT	_	10	punct	_	_
+
+# sent_id = 530
+# text = దుక్కి దున్నడం : పంటపండించే పంట పండించే ముందు , సరైన కాలంలో దుక్కి దున్నడం , మొట్టమొదటి సారిగా చేసే వ్యవసాయపు సాగు పని .
+1	దుక్కి	దుక్కి	NOUN	NOUN	_	2	nmod	_	_
+2	దున్నడం	దున్నడం	NOUN	NOUN	_	0	root	_	_
+3	:	:	PUNCT	PUNCT	_	2	punct	_	_
+4-5	పంటపండించే	_	_	_	_	_	_	_	_
+4	పంట	పంట	NOUN	NOUN	_	5	compound	_	_
+5	పండించే	పండించు	VERB	VERB	_	6	acl	_	_
+6	ముందు	ముందు	PART	PART	_	5	mark	_	_
+7	,	,	PUNCT	PUNCT	_	6	punct	_	_
+8	సరైన	సరైన	ADJ	ADJ	_	9	amod	_	_
+9	కాలంలో	కాలం	NOUN	NOUN	_	15	obl	_	_
+10	దుక్కి	దుక్కి	NOUN	NOUN	_	11	nmod	_	_
+11	దున్నడం	దున్నడం	NOUN	NOUN	_	15	csubj	_	_
+12	,	,	PUNCT	PUNCT	_	11	punct	_	_
+13	మొట్టమొదటి	మొట్టమొదటి	ADJ	ADJ	_	14	amod	_	_
+14	సారిగా	సారి	ADV	ADV	_	15	advmod	_	_
+15	చేసే	చెయ్యి	VERB	VERB	_	16	acl	_	_
+16	వ్యవసాయపు	వ్యవసాయం	NOUN	NOUN	_	17	nmod	_	_
+17	సాగు	సాగు	NOUN	NOUN	_	18	nmod	_	_
+18	పని	పని	NOUN	NOUN	_	2	parataxis	_	_
+19	.	.	PUNCT	PUNCT	_	18	punct	_	_
+
+# sent_id = 531
+# text = దీనివల్ల అనేక లాభాలున్నాయి లాభాలు ఉన్నాయి .
+1	దీనివల్ల	ఇది	PRON	PRON	_	4	nsubj	_	_
+2	అనేక	అనేక	ADJ	ADJ	_	3	amod	_	_
+3-4	లాభాలున్నాయి	_	_	_	_	_	_	_	_
+3	లాభాలు	లాభం	NOUN	NOUN	_	4	obj	_	_
+4	ఉన్నాయి	ఉండు	VERB	VERB	_	0	root	_	_
+5	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = 532
+# text = నేలను దున్నడం వల్ల నేల గుల్లబారి , మెత్తగా ఉంటుంది .
+1	నేలను	నేల	NOUN	NOUN	_	2	obj	_	_
+2	దున్నడం	దున్నడం	NOUN	NOUN	_	5	csubj	_	_
+3	వల్ల	వల్ల	ADP	ADP	_	2	case	_	_
+4	నేల	నేల	NOUN	NOUN	_	5	obj	_	_
+5	గుల్లబారి	గుల్లబారి	VERB	VERB	_	8	advcl	_	_
+6	,	,	PUNCT	PUNCT	_	5	punct	_	_
+7	మెత్తగా	మెత్త	ADV	ADV	_	8	advmod	_	_
+8	ఉంటుంది	ఉండు	VERB	VERB	_	0	root	_	_
+9	.	.	PUNCT	PUNCT	_	8	punct	_	_
+
+# sent_id = 533
+# text = అటువంటి నేలలోకి నీరు పారిస్తే భూమిలోకి ఇంకి , అన్ని వైపులకూ ప్రవహిస్తుంది .
+1	అటువంటి	అటువంటి	ADJ	ADJ	_	2	amod	_	_
+2	నేలలోకి	నేల	NOUN	NOUN	_	4	obl	_	_
+3	నీరు	నీరు	NOUN	NOUN	_	4	obj	_	_
+4	పారిస్తే	పారించు	VERB	VERB	_	6	advcl	_	_
+5	భూమిలోకి	భూమి	NOUN	NOUN	_	6	obl	_	_
+6	ఇంకి	ఇంకు	VERB	VERB	_	10	advcl	_	_
+7	,	,	PUNCT	PUNCT	_	6	punct	_	_
+8	అన్ని	అన్ని	DET	DET	_	9	det	_	_
+9	వైపులకూ	వైపు	NOUN	NOUN	_	10	obl	_	_
+10	ప్రవహిస్తుంది	ప్రవహించు	VERB	VERB	_	0	root	_	_
+11	.	.	PUNCT	PUNCT	_	10	punct	_	_
+
+# sent_id = 534
+# text = నేల మెత్తగా ఉంటే దాని ఉపరితల వైశాల్యం పెరిగి ఆ నేలలో ఎక్కువ నీటి నిలుపుదలకు సహాయపడుతుంది .
+1	నేల	నేల	NOUN	NOUN	_	3	nsubj	_	_
+2	మెత్తగా	మెత్త	ADV	ADV	_	3	advmod	_	_
+3	ఉంటే	ఉండు	VERB	VERB	_	7	advcl	_	_
+4	దాని	అది	PRON	PRON	_	6	nmod:poss	_	_
+5	ఉపరితల	ఉపరితలం	NOUN	NOUN	_	6	compound	_	_
+6	వైశాల్యం	వైశాల్యం	NOUN	NOUN	_	7	obj	_	_
+7	పెరిగి	పెరుగు	VERB	VERB	_	13	advcl	_	_
+8	ఆ	ఆ	DET	DET	_	9	det	_	_
+9	నేలలో	నేల	NOUN	NOUN	_	13	obl	_	_
+10	ఎక్కువ	ఎక్కువ	ADJ	ADJ	_	11	amod	_	_
+11	నీటి	నీరు	NOUN	NOUN	_	12	nmod	_	_
+12	నిలుపుదలకు	నిలుపుదల	NOUN	NOUN	_	13	obl	_	_
+13	సహాయపడుతుంది	సహాయపడు	VERB	VERB	_	0	root	_	_
+14	.	.	PUNCT	PUNCT	_	13	punct	_	_
+
+# sent_id = 535
+# text = ఈ నీటిని మెక్కలు పీల్చుకుంటాయి .
+1	ఈ	ఈ	DET	DET	_	2	det	_	_
+2	నీటిని	నీరు	NOUN	NOUN	_	4	obl	_	_
+3	మెక్కలు	మెక్కలు	NOUN	NOUN	_	4	obj	_	_
+4	పీల్చుకుంటాయి	పీల్చుకో	VERB	VERB	_	0	root	_	_
+5	.	.	PUNCT	PUNCT	_	4	punct	_	_
+
+# sent_id = 536
+# text = దుక్కి దున్నడానికి నాగలిని విరివిగా ఉపయోగిస్తారు .
+1	దుక్కి	దుక్కి	NOUN	NOUN	_	2	nmod	_	_
+2	దున్నడానికి	దున్నడం	NOUN	NOUN	_	5	obl	_	_
+3	నాగలిని	నాగలి	NOUN	NOUN	_	5	obj	_	_
+4	విరివిగా	విరివి	ADV	ADV	_	5	advmod	_	_
+5	ఉపయోగిస్తారు	ఉపయోగించు	VERB	VERB	_	0	root	_	_
+6	.	.	PUNCT	PUNCT	_	5	punct	_	_
+
+# sent_id = 537
+# text = భూమిని చదునుచేయడం చదును చేయడం : పొలంలోని మట్టిగడ్డల వలన నేల ఎగుడుదిగుడుగా ఉంటుంది .
+1	భూమిని	భూమి	NOUN	NOUN	_	2	obj	_	_
+2-3	చదునుచేయడం	_	_	_	_	_	_	_	_
+2	చదును	చదునుచేయడం	NOUN	NOUN	_	3	nmod	_	_
+3	చేయడం	చేయడం	NOUN	NOUN	_	0	root	_	_
+4	:	:	PUNCT	PUNCT	_	3	punct	_	_
+5	పొలంలోని	పొలం	NOUN	NOUN	_	10	obl	_	_
+6	మట్టిగడ్డల	మట్టిగడ్డ	NOUN	NOUN	_	10	obl:agent	_	_
+7	వలన	వలన	ADP	ADP	_	6	case	_	_
+8	నేల	నేల	NOUN	NOUN	_	10	nsubj:pass	_	_
+9	ఎగుడుదిగుడుగా	ఎగుడుదిగుడుగా	ADV	ADV	_	10	advmod	_	_
+10	ఉంటుంది	ఉండు	VERB	VERB	_	3	parataxis	_	_
+11	.	.	PUNCT	PUNCT	_	10	punct	_	_
+
+# sent_id = 538
+# text = దానివల్ల ఆనేలలో ఆ నేలలో విత్తనాలు జల్లడానికి , నారు మొక్కలు వేయడానికి అనువుగా ఉండదు .
+1	దానివల్ల	అది	PRON	PRON	_	11	obl:agent	_	_
+2-3	ఆనేలలో	_	_	_	_	_	_	_	_
+2	ఆ	ఆ	DET	DET	_	3	det	_	_
+3	నేలలో	నేల	NOUN	NOUN	_	11	obl	_	_
+4	విత్తనాలు	విత్తనం	NOUN	NOUN	_	5	nsubj:pass	_	_
+5	జల్లడానికి	జల్లడానికి	NOUN	NOUN	_	11	obl	_	_
+6	,	,	PUNCT	PUNCT	_	5	punct	_	_
+7	నారు	నారు	NOUN	NOUN	_	8	compound	_	_
+8	మొక్కలు	మొక్క	NOUN	NOUN	_	9	nsubj:pass	_	_
+9	వేయడానికి	వేయడం	NOUN	NOUN	_	5	conj	_	_
+10	అనువుగా	అనువు	ADV	ADV	_	11	advmod	_	_
+11	ఉండదు	ఉండు	VERB	VERB	_	0	root	_	_
+12	.	.	PUNCT	PUNCT	_	11	punct	_	_
+
+# sent_id = 539
+# text = నేలను చదును చేయడం వల్ల నీరు , పోషక పదార్థాలు సమానంగా సర్దుబాటు అవుతాయి .
+1	నేలను	నేల	NOUN	NOUN	_	3	obj	_	_
+2	చదును	చదును	NOUN	NOUN	_	3	nmod	_	_
+3	చేయడం	చేయడం	NOUN	NOUN	_	11	ccomp	_	_
+4	వల్ల	వల్ల	ADP	ADP	_	3	case	_	_
+5	నీరు	నీరు	NOUN	NOUN	_	11	nsubj:pass	_	_
+6	,	,	PUNCT	PUNCT	_	5	punct	_	_
+7	పోషక	పోషకం	NOUN	NOUN	_	8	nmod	_	_
+8	పదార్థాలు	పదార్థం	NOUN	NOUN	_	5	conj	_	_
+9	సమానంగా	సమానం	ADV	ADV	_	11	advmod	_	_
+10	సర్దుబాటు	సర్దుబాటు	NOUN	NOUN	_	11	compound	_	_
+11	అవుతాయి	అవ్వు	VERB	VERB	_	0	root	_	_
+12	.	.	PUNCT	PUNCT	_	11	punct	_	_
+
+# sent_id = 540
+# text = పొదుపుగా లాభసాటిగా నీరు ఉపయోగించడానికి నేల చదునుగా ఉండాలి .
+1	పొదుపుగా	పొదుపు	ADV	ADV	_	4	advmod	_	_
+2	లాభసాటిగా	లాభసాటి	ADV	ADV	_	4	advmod	_	_
+3	నీరు	నీరు	NOUN	NOUN	_	4	obj	_	_
+4	ఉపయోగించడానికి	ఉపయోగించడం	NOUN	NOUN	_	7	ccomp	_	_
+5	నేల	నేల	NOUN	NOUN	_	7	nsubj	_	_
+6	చదునుగా	చదును	ADV	ADV	_	7	advmod	_	_
+7	ఉండాలి	ఉండు	VERB	VERB	_	0	root	_	_
+8	.	.	PUNCT	PUNCT	_	7	punct	_	_
+
+# sent_id = 541
+# text = ఆచార్య ఎన్. జీ . రంగా వ్యవసాయ విశ్వవిద్యాలయం , ఆంధ్రప్రదేశ్ ఉద్యాన విశ్వవిద్యాలయం వ్యవసాయంలో రెండేళ్ళ డిప్లొమా కోర్సులు అందజేస్తున్నాయి .
+1	ఆచార్య	ఆచార్య	NOUN	NOUN	_	2	compound	_	_
+2	ఎన్.	ఎన్.	PROPN	PROPN	_	3	compound	_	_
+3	జీ	జీ	PROPN	PROPN	_	5	compound	_	_
+4	.	.	PUNCT	PUNCT	_	3	punct	_	_
+5	రంగా	రంగ్	PROPN	PROPN	_	6	compound	_	_
+6	వ్యవసాయ	వ్యవసాయం	NOUN	NOUN	_	7	compound	_	_
+7	విశ్వవిద్యాలయం	విశ్వవిద్యాలయం	NOUN	NOUN	_	16	nsubj	_	_
+8	,	,	PUNCT	PUNCT	_	7	punct	_	_
+9	ఆంధ్రప్రదేశ్	ఆంధ్రప్రదేశ్	PROPN	PROPN	_	10	compound	_	_
+10	ఉద్యాన	ఉద్యానం	NOUN	NOUN	_	11	compound	_	_
+11	విశ్వవిద్యాలయం	విశ్వవిద్యాలయం	NOUN	NOUN	_	7	conj	_	_
+12	వ్యవసాయంలో	వ్యవసాయం	NOUN	NOUN	_	16	obl	_	_
+13	రెండేళ్ళ	రెండేళ్ళు	NOUN	NOUN	_	14	nmod	_	_
+14	డిప్లొమా	డిప్లొమా	NOUN	NOUN	_	15	compound	_	_
+15	కోర్సులు	కోర్స్	NOUN	NOUN	_	16	obj	_	_
+16	అందజేస్తున్నాయి	అందజెయ్యి	VERB	VERB	_	0	root	_	_
+17	.	.	PUNCT	PUNCT	_	16	punct	_	_
+
+# sent_id = 542
+# text = 10 వ తరగతి 55శాతం ( హిందీ మినహాయించి ) తో , 1-10 తరగతులలో నాలుగు సంవత్సరాలు గ్రామాలలో చదివి , 15-22 సంవత్సరాల వయస్సుగల వయస్సు గల అభ్యర్థులు వీటికి అర్హులు .
+1	10	10	NUM	NUM	_	2	nummod	_	_
+2	వ	వ	NOUN	NOUN	_	3	nmod	_	_
+3	తరగతి	తరగతి	NOUN	NOUN	_	4	nsubj	_	_
+4	55శాతం	55శాతం	NOUN	NOUN	_	7	obl	_	_
+5	(	(	PUNCT	PUNCT	_	6	punct	_	_
+6	హిందీ	హిందీ	PROPN	PROPN	_	3	appos	_	_
+7	మినహాయించి	మినహాయించు	VERB	VERB	_	6	acl	_	_
+8	)	)	PUNCT	PUNCT	_	7	punct	_	_
+9	తో	తో	ADP	ADP	_	4	case	_	_
+10	,	,	PUNCT	PUNCT	_	9	punct	_	_
+11	1-10	1-10	NUM	NUM	_	12	nummod	_	_
+12	తరగతులలో	తరగతి	NOUN	NOUN	_	16	obl	_	_
+13	నాలుగు	నాలుగు	NUM	NUM	_	14	nummod	_	_
+14	సంవత్సరాలు	సంవత్సరం	NOUN	NOUN	_	16	nsubj	_	_
+15	గ్రామాలలో	గ్రామం	NOUN	NOUN	_	16	obl	_	_
+16	చదివి	చదువు	VERB	VERB	_	24	advcl	_	_
+17	,	,	PUNCT	PUNCT	_	16	punct	_	_
+18	15-22	15-22	NUM	NUM	_	19	nummod	_	_
+19	సంవత్సరాల	సంవత్సరం	NOUN	NOUN	_	20	nmod	_	_
+20-21	వయస్సుగల	_	_	_	_	_	_	_	_
+20	వయస్సు	వయస్సు	NOUN	NOUN	_	22	nmod	_	_
+21	గల	గల	ADP	ADP	_	20	case	_	_
+22	అభ్యర్థులు	అభ్యర్థి	NOUN	NOUN	_	24	nsubj	_	_
+23	వీటికి	ఇది	PRON	PRON	_	24	obj	_	_
+24	అర్హులు	అర్హుడు	NOUN	NOUN	_	0	root	_	_
+25	.	.	PUNCT	PUNCT	_	24	punct	_	_
+
+# sent_id = 543
+# text = బోధన తెలుగులో వుంటుంది .
+1	బోధన	బోధన	NOUN	NOUN	_	3	nsubj	_	_
+2	తెలుగులో	తెలుగు	PROPN	PROPN	_	3	obl	_	_
+3	వుంటుంది	వుండు	VERB	VERB	_	0	root	_	_
+4	.	.	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = 544
+# text = ఎమ్సెట్ పరీక్ష ద్వారా రకరకాల సైన్స్ , ఇంజనీరింగ్ కోర్సులు ఉన్నాయి .
+1	ఎమ్సెట్	ఎమ్సెట్	PROPN	PROPN	_	2	compound	_	_
+2	పరీక్ష	పరీక్ష	NOUN	NOUN	_	9	obl	_	_
+3	ద్వారా	ద్వారా	ADP	ADP	_	2	case	_	_
+4	రకరకాల	రకరకాలు	ADJ	ADJ	_	5	amod	_	_
+5	సైన్స్	సైన్స్	NOUN	NOUN	_	8	nmod	_	_
+6	,	,	PUNCT	PUNCT	_	5	punct	_	_
+7	ఇంజనీరింగ్	ఇంజనీరింగ్	NOUN	NOUN	_	5	conj	_	_
+8	కోర్సులు	కోర్స్	NOUN	NOUN	_	9	nsubj	_	_
+9	ఉన్నాయి	ఉండు	VERB	VERB	_	0	root	_	_
+10	.	.	PUNCT	PUNCT	_	9	punct	_	_
+
+# sent_id = 545
+# text = కొన్ని ముఖ్యమైన కోర్సులు :
+1	కొన్ని	కొన్ని	DET	DET	_	2	det	_	_
+2	ముఖ్యమైన	ముఖ్య	ADJ	ADJ	_	3	amod	_	_
+3	కోర్సులు	కోర్స్	NOUN	NOUN	_	0	root	_	_
+4	:	:	PUNCT	PUNCT	_	3	punct	_	_
+
+# sent_id = 546
+# text = బిఎస్సి ( వ్యవసాయం ) , బిఎస్సి ( ఉద్యానవనం ) , బివిఎస్సి ( పశుగణాభివృద్ధి ) , బిఎస్సి ( వాణిజ్య వ్యవసాయం , వ్యాపార నిర్వహణ ) , బిఎఫ్సి ,
+1	బిఎస్సి	బిఎస్సి	PROPN	PROPN	_	0	root	_	_
+2	(	(	PUNCT	PUNCT	_	3	punct	_	_
+3	వ్యవసాయం	వ్యవసాయం	NOUN	NOUN	_	1	appos	_	_
+4	)	)	PUNCT	PUNCT	_	3	punct	_	_
+5	,	,	PUNCT	PUNCT	_	1	punct	_	_
+6	బిఎస్సి	బిఎస్సి	PROPN	PROPN	_	1	conj	_	_
+7	(	(	PUNCT	PUNCT	_	8	punct	_	_
+8	ఉద్యానవనం	ఉద్యానవనం	NOUN	NOUN	_	6	appos	_	_
+9	)	)	PUNCT	PUNCT	_	8	punct	_	_
+10	,	,	PUNCT	PUNCT	_	6	punct	_	_
+11	బివిఎస్సి	బివిఎస్సి	PROPN	PROPN	_	1	conj	_	_
+12	(	(	PUNCT	PUNCT	_	13	punct	_	_
+13	పశుగణాభివృద్ధి	పశుగణాభివృద్ధి	NOUN	NOUN	_	11	appos	_	_
+14	)	)	PUNCT	PUNCT	_	13	punct	_	_
+15	,	,	PUNCT	PUNCT	_	11	punct	_	_
+16	బిఎస్సి	బిఎస్సి	PROPN	PROPN	_	1	conj	_	_
+17	(	(	PUNCT	PUNCT	_	19	punct	_	_
+18	వాణిజ్య	వాణిజ్యం	NOUN	NOUN	_	19	compound	_	_
+19	వ్యవసాయం	వ్యవసాయం	NOUN	NOUN	_	16	appos	_	_
+20	,	,	PUNCT	PUNCT	_	19	punct	_	_
+21	వ్యాపార	వ్యాపారం	NOUN	NOUN	_	22	compound	_	_
+22	నిర్వహణ	నిర్వహణ	NOUN	NOUN	_	19	conj	_	_
+23	)	)	PUNCT	PUNCT	_	22	punct	_	_
+24	,	,	PUNCT	PUNCT	_	16	punct	_	_
+25	బిఎఫ్సి	బిఎఫ్సి	PROPN	PROPN	_	1	conj	_	_
+26	,	,	PUNCT	PUNCT	_	1	punct	_	_
+
+# sent_id = 547
+# text = బిటెక్ ( జీవసాంకేతిక శాస్త్రం ) , బిటెక్ ( ఆహార విజ్ఞానం , సాంకేతికం ) , బిటెక్ ( వ్యవసాయ ఇంజనీరింగ్ ) , బిటెక్ ( పశుపోషణ )
+1	బిటెక్	బిటెక్	PROPN	PROPN	_	0	root	_	_
+2	(	(	PUNCT	PUNCT	_	4	punct	_	_
+3	జీవసాంకేతిక	జీవసాంకేతిక	NOUN	NOUN	_	4	compound	_	_
+4	శాస్త్రం	శాస్త్రం	NOUN	NOUN	_	1	appos	_	_
+5	)	)	PUNCT	PUNCT	_	4	punct	_	_
+6	,	,	PUNCT	PUNCT	_	4	punct	_	_
+7	బిటెక్	బిటెక్	PROPN	PROPN	_	1	conj	_	_
+8	(	(	PUNCT	PUNCT	_	10	punct	_	_
+9	ఆహార	ఆహారం	NOUN	NOUN	_	10	compound	_	_
+10	విజ్ఞానం	విజ్ఞానం	NOUN	NOUN	_	7	appos	_	_
+11	,	,	PUNCT	PUNCT	_	10	punct	_	_
+12	సాంకేతికం	సాంకేతికం	NOUN	NOUN	_	10	conj	_	_
+13	)	)	PUNCT	PUNCT	_	12	punct	_	_
+14	,	,	PUNCT	PUNCT	_	7	punct	_	_
+15	బిటెక్	బిటెక్	PROPN	PROPN	_	1	conj	_	_
+16	(	(	PUNCT	PUNCT	_	18	punct	_	_
+17	వ్యవసాయ	వ్యవసాయం	NOUN	NOUN	_	18	compound	_	_
+18	ఇంజనీరింగ్	ఇంజనీరింగ్	NOUN	NOUN	_	15	appos	_	_
+19	)	)	PUNCT	PUNCT	_	18	punct	_	_
+20	,	,	PUNCT	PUNCT	_	15	punct	_	_
+21	బిటెక్	బిటెక్	PROPN	PROPN	_	1	conj	_	_
+22	(	(	PUNCT	PUNCT	_	23	punct	_	_
+23	పశుపోషణ	పశుపోషణ	NOUN	NOUN	_	21	appos	_	_
+24	)	)	PUNCT	PUNCT	_	23	punct	_	_
+
+# sent_id = 548
+# text = స్వయం ఉపాధితో పాటు , ప్రభుత్వ , ప్రైవేటు రంగాలలో వివిధ ఉపాధి అవకాశాలున్నాయి అవకాశాలు ఉన్నాయి .
+1	స్వయం	స్వయం	NOUN	NOUN	_	2	compound	_	_
+2	ఉపాధితో	ఉపాధి	NOUN	NOUN	_	12	obl	_	_
+3	పాటు	పాటు	ADP	ADP	_	2	case	_	_
+4	,	,	PUNCT	PUNCT	_	3	punct	_	_
+5	ప్రభుత్వ	ప్రభుత్వం	NOUN	NOUN	_	8	nmod	_	_
+6	,	,	PUNCT	PUNCT	_	5	punct	_	_
+7	ప్రైవేటు	ప్రైవేట్	NOUN	NOUN	_	5	conj	_	_
+8	రంగాలలో	రంగం	NOUN	NOUN	_	12	obl	_	_
+9	వివిధ	వివిధ	ADJ	ADJ	_	10	amod	_	_
+10	ఉపాధి	ఉపాధి	NOUN	NOUN	_	11	compound	_	_
+11-12	అవకాశాలున్నాయి	_	_	_	_	_	_	_	_
+11	అవకాశాలు	అవకాశం	NOUN	NOUN	_	12	nsubj	_	_
+12	ఉన్నాయి	ఉండు	VERB	VERB	_	0	root	_	_
+13	.	.	PUNCT	PUNCT	_	12	punct	_	_
+
+# sent_id = 549
+# text = వివిధ వ్యవసాయ విశ్వవిద్యాలయాలు , భారత వ్యవసాయ పరిశోధనా సంస్థకి సంబంధించిన వివిధ ప్రాంతీయ కేంద్రాలలో , కృషి విజ్ఞాన కేంద్రాలు , నేషనల్ డెయిరీ రీసెర్చ్ , ఫారెస్ట్ రీసెర్చ్ , వెటర్నరీ రీసెర్చ్ , కమోడిటి బోర్డులు , సహకార సంస్థలలో వివిధ స్థాయిలలో ఉద్యోగాలుంటాయి ఉద్యోగాలు ఉంటాయి .
+1	వివిధ	వివిధ	ADJ	ADJ	_	2	amod	_	_
+2	వ్యవసాయ	వ్యవసాయం	NOUN	NOUN	_	3	compound	_	_
+3	విశ్వవిద్యాలయాలు	విశ్వవిద్యాలయం	NOUN	NOUN	_	8	conj	_	_
+4	,	,	PUNCT	PUNCT	_	3	punct	_	_
+5	భారత	భారతం	PROPN	PROPN	_	6	compound	_	_
+6	వ్యవసాయ	వ్యవసాయం	NOUN	NOUN	_	7	compound	_	_
+7	పరిశోధనా	పరిశోధన	NOUN	NOUN	_	8	compound	_	_
+8	సంస్థకి	సంస్థ	NOUN	NOUN	_	9	obl	_	_
+9	సంబంధించిన	సంబంధించు	VERB	VERB	_	11	acl	_	_
+10	వివిధ	వివిధ	ADJ	ADJ	_	11	amod	_	_
+11	ప్రాంతీయ	ప్రాంతీయం	NOUN	NOUN	_	12	compound	_	_
+12	కేంద్రాలలో	కేంద్రం	NOUN	NOUN	_	35	obl	_	_
+13	,	,	PUNCT	PUNCT	_	12	punct	_	_
+14	కృషి	కృషి	NOUN	NOUN	_	15	compound	_	_
+15	విజ్ఞాన	విజ్ఞానం	NOUN	NOUN	_	16	compound	_	_
+16	కేంద్రాలు	కేంద్రం	NOUN	NOUN	_	12	conj	_	_
+17	,	,	PUNCT	PUNCT	_	16	punct	_	_
+18	నేషనల్	నేషనల్	NOUN	NOUN	_	19	compound	_	_
+19	డెయిరీ	డెయిరీ	NOUN	NOUN	_	20	compound	_	_
+20	రీసెర్చ్	రీసెర్చ్	NOUN	NOUN	_	16	conj	_	_
+21	,	,	PUNCT	PUNCT	_	20	punct	_	_
+22	ఫారెస్ట్	ఫారెస్ట్	NOUN	NOUN	_	23	compound	_	_
+23	రీసెర్చ్	రీసెర్చ్	NOUN	NOUN	_	16	conj	_	_
+24	,	,	PUNCT	PUNCT	_	23	punct	_	_
+25	వెటర్నరీ	వెటర్నరీ	NOUN	NOUN	_	26	compound	_	_
+26	రీసెర్చ్	రీసెర్చ్	NOUN	NOUN	_	16	conj	_	_
+27	,	,	PUNCT	PUNCT	_	26	punct	_	_
+28	కమోడిటి	కమోడిటి	NOUN	NOUN	_	29	compound	_	_
+29	బోర్డులు	బోర్డ్	NOUN	NOUN	_	16	conj	_	_
+30	,	,	PUNCT	PUNCT	_	29	punct	_	_
+31	సహకార	సహకార	ADJ	ADJ	_	32	amod	_	_
+32	సంస్థలలో	సంస్థ	NOUN	NOUN	_	16	conj	_	_
+33	వివిధ	వివిధ	ADJ	ADJ	_	34	amod	_	_
+34	స్థాయిలలో	స్థాయి	NOUN	NOUN	_	32	conj	_	_
+35-36	ఉద్యోగాలుంటాయి	_	_	_	_	_	_	_	_
+35	ఉద్యోగాలు	ఉద్యోగం	NOUN	NOUN	_	36	nsubj	_	_
+36	ఉంటాయి	ఉండు	VERB	VERB	_	0	root	_	_
+37	.	.	PUNCT	PUNCT	_	36	punct	_	_
