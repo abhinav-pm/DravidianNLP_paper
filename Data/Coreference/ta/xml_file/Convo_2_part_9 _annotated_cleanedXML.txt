@@ -1,0 +1,12 @@
+{
+  "text": "<document>\n<metadata last_id=\"4\"></metadata>\n<paragraph>\n<p>[<antecedent class=\"antecedent-border highlightAnnaphora\" id=\"2568\" sup=\"1\" style=\"background-color: rgb(238, 248, 102); font-weight: bold;\">ராஜாக்கண்ணு<sup> 1 </sup></antecedent> தனிமையில்] </p>\n</paragraph>\n\n<paragraph>\n<p><anaphora id=\"2569\" class=\"highlightAnnaphora\" ana_ref=\"TRUE\" ana_relid=\"2568\" ana_rel_type=\"coreference_Identity\" sup=\"3\" style=\"background-color: rgb(238, 248, 136);\">ராஜா<sup> 1 </sup><sup> 3 </sup></anaphora>: மனிதர் கைவிட்டனர்—<antecedent class=\"antecedent-border highlightAnnaphora\" id=\"2571\" sup=\"2\" style=\"background-color: rgb(204, 255, 136); font-weight: bold;\">பாம்பு<sup> 2 </sup></antecedent> காப்பாற்றுகிறது என்னை! </p>\n</paragraph>\n\n<paragraph>\n<p>இரக்கம் காட்டமுடியாது! டாக்டர்—மிராசுதாரன்—சுடலை—34—48—சகலரும் கூறினர்! உலகமே கூறுகிறது—ஒருவர் இருவர் இரக்கம் காட்டவேண்டும் என்று பேசுவர், முடிவதில்லை காட்ட. </p>\n</paragraph>\n\n<paragraph>\n<p><anaphora id=\"2573\" class=\"highlightAnnaphora\" ana_ref=\"TRUE\" ana_relid=\"2571\" ana_rel_type=\"coreference_Identity\" sup=\"2\" style=\"background-color: rgb(204, 255, 136);\">பாம்பு<sup> 2 </sup></anaphora> கடித்தது என்ற உடனே, பாவம் போய் <anaphora id=\"2575\" class=\"highlightAnnaphora\" ana_ref=\"TRUE\" ana_relid=\"2569\" ana_rel_type=\"annaphora_C\" sup=\"4\" style=\"background-color: rgb(238, 248, 136);\">உன்<sup> 3 </sup><sup> 4 </sup></anaphora> தம்பியைத் தகனம் செய்துவிட்டுவா! என்று இரக்கம் பேசினார்கள்! </p>\n</paragraph>\n\n<paragraph>\n<p>இன்னும் கொஞ்ச நேரத்தில் வந்து விடுவார்கள். </p>\n</paragraph>\n\n<paragraph>\n<p>அதற்குள் ஓடிவிட வேண்டும்—ஆமாம்! திருட்டு ரயில்தான் பிறகு? கப்பல்! கண்காணாச் சீமை!......... <anaphora id=\"2576\" class=\"highlightAnnaphora\" ana_ref=\"TRUE\" ana_relid=\"2575\" ana_rel_type=\"annaphora_C\" sup=\"4\" style=\"background-color: rgb(238, 248, 136);\">என்னை<sup> 4 </sup></anaphora>ப்போல் எத்தனையோ பேர்! இரக்கத்தைத் தேடி அலைந்து......உருமாறினவர்கள். </p>\n</paragraph>\n\n<paragraph>\n<p> </p>\n</paragraph>\n\n<paragraph>\n<p> </p>\n</paragraph>\n</document>",
+  "last_id": 2576,
+  "colorMap": {
+    "ராஜாக்கண்ணு": "#EEF866",
+    "ராஜா": "#EEF888",
+    "பாம்பு": "#CCFF88",
+    "உன்": "#EEF888",
+    "என்னை": "#EEF888"
+  },
+  "anaphora_count": 4
+}

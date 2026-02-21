@@ -1,0 +1,20 @@
+{
+  "text": "<document>\n<metadata last_id=\"11\"></metadata>\n<paragraph>\n<p><antecedent class=\"antecedent-border highlightAnnaphora\" id=\"8\" sup=\"10\" style=\"background-color: rgb(156, 140, 102); font-weight: bold;\">லீலா<sup> 6 </sup><sup> 8 </sup><sup> 10 </sup></antecedent> : <antecedent class=\"antecedent-border highlightAnnaphora\" id=\"1\" sup=\"11\" style=\"background-color: rgb(218, 223, 102); font-weight: bold;\">ஏம்மா<sup> 1 </sup><sup> 11 </sup></antecedent>! <anaphora id=\"2\" class=\"highlightAnnaphora\" ana_ref=\"TRUE\" ana_relid=\"1\" ana_rel_type=\"annaphora_C\" sup=\"1\" style=\"background-color: rgb(218, 223, 136);\">நீ<sup> 1 </sup></anaphora> எப்பொழுது பார்த்தாலும் <antecedent class=\"antecedent-border highlightAnnaphora\" id=\"3\" sup=\"2\" style=\"background-color: rgb(171, 159, 102); font-weight: bold;\">அண்ணனிடம்<sup> 2 </sup></antecedent> இப்படியே சிடுசிடென்று பேசிக் கொண்டிருக்கிறாய். <anaphora id=\"4\" class=\"highlightAnnaphora\" ana_ref=\"TRUE\" ana_relid=\"3\" ana_rel_type=\"coreference_Identity\" sup=\"9\" style=\"background-color: rgb(171, 159, 136);\">அண்ணன்<sup> 2 </sup><sup> 3 </sup><sup> 4 </sup><sup> 5 </sup><sup> 7 </sup><sup> 9 </sup></anaphora> என்ன சிறு பிள்ளையா? <anaphora id=\"5\" class=\"highlightAnnaphora\" ana_ref=\"TRUE\" ana_relid=\"4\" ana_rel_type=\"annaphora_C\" sup=\"3\" style=\"background-color: rgb(171, 159, 136);\">அவருக்கு<sup> 3 </sup></anaphora> மட்டும் நம் குடும்பக்கவலை யில்லாமலா இருக்கிறது? <anaphora id=\"6\" class=\"highlightAnnaphora\" ana_ref=\"TRUE\" ana_relid=\"4\" ana_rel_type=\"annaphora_C\" sup=\"4\" style=\"background-color: rgb(171, 159, 136);\">அவரும்<sup> 4 </sup></anaphora>தான் எவ்வளவோ பிரயாசைப் படுகிறார். என்ன செய்யலாம்? வேலை கிடைத்தால்தானே?\n </p>\n</paragraph>\n\n<paragraph>\n<p>\n </p>\n</paragraph>\n\n<paragraph>\n<p><anaphora id=\"14\" class=\"highlightAnnaphora\" ana_ref=\"TRUE\" ana_relid=\"1\" ana_rel_type=\"coreference_Noun_Noun\" sup=\"11\" style=\"background-color: rgb(218, 223, 136);\">காமா<sup> 11 </sup></anaphora>: ஆமாடி ஆமாம், இப்படிக் காலிப்பசங்களோடவே சேர்ந்துக்கிட்டு ஊரைச் சுத்திக்கிட்டே இருந்தா, வேலை தான் வந்து <anaphora id=\"7\" class=\"highlightAnnaphora\" ana_ref=\"TRUE\" ana_relid=\"4\" ana_rel_type=\"coreference_Noun_Noun\" sup=\"5\" style=\"background-color: rgb(171, 159, 136);\">ஐயா<sup> 5 </sup></anaphora> கைமேலே கெடைக்கும். <anaphora id=\"9\" class=\"highlightAnnaphora\" ana_ref=\"TRUE\" ana_relid=\"8\" ana_rel_type=\"coreference_Noun_Noun\" sup=\"6\" style=\"background-color: rgb(156, 140, 136);\">மூதேவி<sup> 6 </sup></anaphora>, <anaphora id=\"10\" class=\"highlightAnnaphora\" ana_ref=\"TRUE\" ana_relid=\"4\" ana_rel_type=\"annaphora_C\" sup=\"7\" style=\"background-color: rgb(171, 159, 136);\">அவங்கூட<sup> 7 </sup></anaphora>ப் பொறந்தவதானே <anaphora id=\"11\" class=\"highlightAnnaphora\" ana_ref=\"TRUE\" ana_relid=\"8\" ana_rel_type=\"annaphora_C\" sup=\"8\" style=\"background-color: rgb(156, 140, 136);\">நீ<sup> 8 </sup></anaphora>. <anaphora id=\"12\" class=\"highlightAnnaphora\" ana_ref=\"TRUE\" ana_relid=\"4\" ana_rel_type=\"annaphora_C\" sup=\"9\" style=\"background-color: rgb(171, 159, 136);\">அவனுக்கு<sup> 9 </sup></anaphora> மேலே பேசமாட்டே போடிபோ, வேலையைப் பாருடி, <anaphora id=\"13\" class=\"highlightAnnaphora\" ana_ref=\"TRUE\" ana_relid=\"8\" ana_rel_type=\"coreference_Noun_Noun\" sup=\"10\" style=\"background-color: rgb(156, 140, 136);\">வாயாடி<sup> 10 </sup></anaphora>. </p>\n</paragraph>\n</document>",
+  "last_id": 14,
+  "colorMap": {
+    "ஏம்மா": "#DADF66",
+    "நீ": "#9C8C88",
+    "அண்ணனிடம்": "#AB9F66",
+    "அண்ணன்": "#AB9F88",
+    "அவருக்கு": "#AB9F88",
+    "அவரும்": "#AB9F88",
+    "ஐயா": "#AB9F88",
+    "லீலா": "#9C8C66",
+    "மூதேவி": "#9C8C88",
+    "அவங்கூட": "#AB9F88",
+    "அவனுக்கு": "#AB9F88",
+    "வாயாடி": "#9C8C88",
+    "காமா": "#DADF88"
+  },
+  "anaphora_count": 11
+}
